@@ -14,5 +14,21 @@
   "description": "Sol Nova 7, s. 135–163",
   "date": "2026-05-20",
   "questionCount": 20
-  }
+  },
+  {
+  "id": "ekologi",
+  "title": "Ekologi 27 maj åk 8",
+  "subject": "Biologi",
+  "description": "Cellen, fotosyntes, cellandning och ekosystem",
+  "date": "2026-05-20",
+  "questionCount": 20
+},
+{
+  "id": "nervsystemet",
+  "title": "Kroppens signalsystem åk 7",
+  "subject": "Biologi",
+  "description": "Nervsystemet, hjärnan, hormoner och hälsa",
+  "date": "2026-05-20",
+  "questionCount": 25
+}
 ]

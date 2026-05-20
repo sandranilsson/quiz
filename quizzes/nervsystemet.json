@@ -1,0 +1,308 @@
+{
+  "title": "Kroppens signalsystem",
+  "subject": "Biologi",
+  "description": "Nervsystemet, hjärnan, hormoner och hälsa",
+  "generated": "2026-05-20",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Nervsystemet delas in i tre delar. Vilka är de?",
+      "options": [
+        "Hjärnan, ryggraden och blodet",
+        "Centrala nervsystemet, perifera nervsystemet och autonoma nervsystemet",
+        "Storhjärnan, lillhjärnan och hjärnstammen",
+        "Sensoriska, motoriska och reflexnerverna"
+      ],
+      "correct": 1,
+      "explanation": "Nervsystemet delas in i tre delar: det centrala nervsystemet (CNS), det perifera nervsystemet (alla nerver i kroppen) och det autonoma nervsystemet (som sköter saker automatiskt utan att du tänker på det)."
+    },
+    {
+      "id": 2,
+      "question": "Vad ingår i det centrala nervsystemet (CNS)?",
+      "options": [
+        "Alla nerver i armar och ben",
+        "Hjärtat och lungorna",
+        "Hjärnan och ryggmärgen",
+        "Ögonen och öronen"
+      ],
+      "correct": 2,
+      "explanation": "CNS – det centrala nervsystemet – består av hjärnan och ryggmärgen. Det är kroppens 'styrcentral' som tar emot och bearbetar all information."
+    },
+    {
+      "id": 3,
+      "question": "Vad är skillnaden mellan det somatiska (viljestyrda) och det autonoma (självstyrda) nervsystemet?",
+      "options": [
+        "Det somatiska styr hjärtat, det autonoma styr musklerna",
+        "Det somatiska styr rörelser du väljer att göra (t.ex. lyfta armen), det autonoma styr saker som sker automatiskt (t.ex. hjärtslag och matsmältning)",
+        "Det somatiska är snabbare, det autonoma är långsammare",
+        "De gör exakt samma sak men finns på olika sidor av kroppen"
+      ],
+      "correct": 1,
+      "explanation": "Det somatiska (viljestyrda) nervsystemet styr muskler du kan kontrollera medvetet, som att gå eller skriva. Det autonoma (självstyrda) nervsystemet sköter allt automatiskt, som hjärtslag, andning och matsmältning – det funkar även när du sover."
+    },
+    {
+      "id": 4,
+      "question": "En nervimpuls rör sig längs nervcellen. Vilket alternativ beskriver rätt ordning?",
+      "options": [
+        "Axon → cellkropp → dendriter",
+        "Dendriter → cellkropp → axon",
+        "Cellkropp → axon → dendriter",
+        "Synaps → axon → cellkropp"
+      ],
+      "correct": 1,
+      "explanation": "En nervimpuls rör sig alltid i en riktning: in via dendriterarna (de korta utskotten), genom cellkroppen och sedan ut längs axonet (det långa utskottet) mot nästa nervcell eller muskel."
+    },
+    {
+      "id": 5,
+      "question": "Vad är myelins funktion?",
+      "options": [
+        "Det producerar nervimpulser",
+        "Det är ett isolerande fettlager runt axonet som gör att nervimpulsen går snabbare",
+        "Det är en kemisk signal som förs över till nästa nervcell",
+        "Det skyddar hjärnan mot skador"
+      ],
+      "correct": 1,
+      "explanation": "Myelin är ett isolerande fettlager som sitter runt axonet som ett hölje. Det gör att nervimpulsen kan hoppa framåt längs nerven i stället för att krypa sakta – precis som isolering på en elsladd. Ju mer myelin, desto snabbare signal."
+    },
+    {
+      "id": 6,
+      "question": "Hur kommunicerar nervceller med varandra?",
+      "options": [
+        "Via blodet som transporterar signalerna",
+        "Via direktkontakt – nervcellerna sitter ihop",
+        "Via synapsen, där kemiska ämnen (signalsubstanser) hoppar över klyftan till nästa nervcell",
+        "Via elektriska kablar av myelin"
+      ],
+      "correct": 2,
+      "explanation": "Mellan nervceller finns en liten klyfta som kallas synaps. När en nervimpuls når synapsen frigörs kemiska ämnen (signalsubstanser, t.ex. dopamin eller serotonin) som svävar över klyftan och aktiverar nästa nervcell. Det är alltså en kombination av el och kemi!"
+    },
+    {
+      "id": 7,
+      "question": "Vad är en medfödd reflex? Ge rätt exempel.",
+      "options": [
+        "Att dra undan handen när man bränner sig – det lär man sig som liten",
+        "Att blinka när något flyger mot ögat – det är inlärt",
+        "Att ett nyfött barn suger på bröstvårtan – det kan de utan att ha lärt sig det",
+        "Att gå – det är något man föds med"
+      ],
+      "correct": 2,
+      "explanation": "En medfödd reflex finns redan från födseln och behöver inte läras in. Exempel: ett nyfött barn som automatiskt suger när något rör munnen, eller knäreflexen när läkaren knackar på knäet. En inlärd reflex är däremot något vi tränar upp, som att automatiskt trampa på bromsen i bilen."
+    },
+    {
+      "id": 8,
+      "question": "Hur fungerar en reflex? Välj rätt ordning på händelseförloppet.",
+      "options": [
+        "Hjärnan bestämmer → signal skickas → muskel reagerar",
+        "Muskel reagerar → signal skickas till hjärnan → hjärnan analyserar",
+        "Receptor känner av stimulus → signal via ryggmärgen → muskel reagerar (hjärnan informeras efteråt)",
+        "Ögat ser faran → hjärnan tänker → kroppen reagerar"
+      ],
+      "correct": 2,
+      "explanation": "En reflex går via ryggmärgen, inte hjärnan – det är därför den är så snabb! En receptor känner av stimulit (t.ex. smärta), signalen åker till ryggmärgen, och direkt skickas en signal till muskeln. Hjärnan får reda på vad som hände efteråt. Det sparar livsviktig tid."
+    },
+    {
+      "id": 9,
+      "question": "Vad är storhjärnans huvuduppgift?",
+      "options": [
+        "Den styr andning och hjärtslag automatiskt",
+        "Den håller balansen när vi rör oss",
+        "Den ansvarar för tankar, minne, språk, känslor, personlighet och medvetna rörelser",
+        "Den kopplar ihop hjärnan med ryggmärgen"
+      ],
+      "correct": 2,
+      "explanation": "Storhjärnan är den största delen av hjärnan och ansvarar för det mesta av det vi förknippar med att vara 'vi': tankar, minne, språk, känslor, problemlösning och medvetna rörelser. Den är uppdelad i två halvklot och fyra lober."
+    },
+    {
+      "id": 10,
+      "question": "Vad gör lillhjärnan?",
+      "options": [
+        "Den styr hunger och törst",
+        "Den koordinerar rörelser, håller balansen och gör att vi rör oss smidigt",
+        "Den producerar hormoner",
+        "Den tar emot synintryck"
+      ],
+      "correct": 1,
+      "explanation": "Lillhjärnan sitter baktill i skallen och är kroppens 'balansmästare'. Den koordinerar alla rörelser så att de blir smidiga och precisa, och håller balansen. Om lillhjärnan skadas blir rörelserna ryckiga och det blir svårt att hålla balansen."
+    },
+    {
+      "id": 11,
+      "question": "Vad är hjärnstammens viktigaste uppgift?",
+      "options": [
+        "Att bearbeta känslor och minnen",
+        "Att styra syn och hörsel",
+        "Att automatiskt styra livsviktiga funktioner som andning, hjärtslag och blodtryck",
+        "Att koordinera finmotorik"
+      ],
+      "correct": 2,
+      "explanation": "Hjärnstammen är den äldsta delen av hjärnan och sköter det allra viktigaste: andning, hjärtslag och blodtryck – helt automatiskt, utan att du tänker på det. Den kopplar också ihop storhjärnan med ryggmärgen."
+    },
+    {
+      "id": 12,
+      "question": "Pannloben och nackloben har olika funktioner. Vilket alternativ stämmer?",
+      "options": [
+        "Pannloben bearbetar syn, nackloben styr personligheten",
+        "Pannloben ansvarar för planering, beslut och personlighet. Nackloben bearbetar synintryck.",
+        "Pannloben styr hörseln, nackloben styr smärta",
+        "Båda loberna bearbetar synintryck"
+      ],
+      "correct": 1,
+      "explanation": "Pannloben (frontalloben) är sätet för personlighet, planering, impulskontroll och beslutsfattande. Nackloben (occipitalloben) bearbetar all syninfo – det är dit signalerna från ögonen skickas. Därför kan man tillfälligt 'se stjärnor' om man slår i bakhuvudet."
+    },
+    {
+      "id": 13,
+      "question": "Varför kan man tappa synen om man gungar på stolen och trillar bakåt och slår i bakhuvudet?",
+      "options": [
+        "För att ögonen stängs reflexmässigt vid fall",
+        "För att nackloben, som bearbetar synintryck, sitter baktill i skallen och kan störas av en smäll där",
+        "För att hjärnstammen styr synen och sitter baktill",
+        "För att lillhjärnan kopplar bort synen vid balansförlust"
+      ],
+      "correct": 1,
+      "explanation": "Syncentrum – nackloben – sitter längst bak i skallen. Om man slår i bakhuvudet kan nackloben störas tillfälligt, och då 'slutar synen fungera' en kort stund. Det är därför man kan se svart eller stjärnor. Ögonen är alltså friska – det är hjärnan som inte kan bearbeta signalerna."
+    },
+    {
+      "id": 14,
+      "question": "Hur utvecklas hjärnan från födseln till 25 år?",
+      "options": [
+        "Hjärnan är färdigutvecklad redan vid födseln",
+        "Hjärnan är färdig vid 10 års ålder",
+        "Hjärnan utvecklas hela vägen fram till ca 25 år – pannloben (planering och impulskontroll) är sist klar",
+        "Hjärnan slutar växa vid puberteten men är funktionell redan dessförinnan"
+      ],
+      "correct": 2,
+      "explanation": "Hjärnan är inte färdigutvecklad förrän vid ca 25 år! Den allra sista delen som mognar är pannloben, som styr impulskontroll, planering och beslutsfattande. Det förklarar delvis varför tonåringar ibland tar snabba beslut utan att tänka på konsekvenserna – pannloben är fortfarande under byggnation."
+    },
+    {
+      "id": 15,
+      "question": "Vad är ett hormon?",
+      "options": [
+        "Ett elektriskt budskap som rör sig längs nerverna",
+        "En muskel som styr körtelns aktivitet",
+        "Ett kemiskt ämne som utsöndras av en körtel, transporteras med blodet och påverkar ett organ på annan plats i kroppen",
+        "En typ av nervcell som finns i hjärnan"
+      ],
+      "correct": 2,
+      "explanation": "Hormoner är kemiska budbärare. De tillverkas i körtlar, åker med blodet runt i kroppen och 'levererar sitt meddelande' till ett specifikt organ. Det är som att skicka ett brev – det tar lite tid men når fram. Jämfört med nervimpulser är hormoner långsammare men varar längre."
+    },
+    {
+      "id": 16,
+      "question": "Vilken är hypofysens uppgift?",
+      "options": [
+        "Den producerar adrenalin vid fara",
+        "Den reglerar blodsockret",
+        "Den kallas 'körtelns körtel' och styr många andra körtlar i kroppen via hormoner",
+        "Den producerar melatonin för att reglera sömnen"
+      ],
+      "correct": 2,
+      "explanation": "Hypofysen är en liten körtel i hjärnan som kallas 'körtelns körtel' – den skickar ut hormoner som styr andra körtlar (t.ex. sköldkörteln och binjurarna). Den fungerar som en dirigent som koordinerar hela hormonsystemet."
+    },
+    {
+      "id": 17,
+      "question": "Vad gör adrenalin i kroppen?",
+      "options": [
+        "Det sänker hjärtrytmen och gör att man somnar lättare",
+        "Det reglerar blodsockret efter en måltid",
+        "Det förbereder kroppen för kamp eller flykt: hjärtat slår snabbare, musklerna får mer blod och man blir alert",
+        "Det reglerar kroppens vätskebalans"
+      ],
+      "correct": 2,
+      "explanation": "Adrenalin utsöndras av binjurarna vid stress eller fara. Det är kroppens 'alarmsignal': hjärtat slår snabbare, blodtrycket stiger, musklerna får mer blod och socker, pupillerna vidgas. Allt för att du ska kunna fly eller slåss. Det är därför hjärtat bultar när du är rädd!"
+    },
+    {
+      "id": 18,
+      "question": "Vad är insulinets funktion?",
+      "options": [
+        "Det höjer blodsockret när vi inte har ätit på länge",
+        "Det sänker blodsockret genom att hjälpa cellerna ta upp socker från blodet efter en måltid",
+        "Det reglerar sömn och vakenhet",
+        "Det styr könsutvecklingen i puberteten"
+      ],
+      "correct": 1,
+      "explanation": "Insulin utsöndras av bukspottkörteln när blodsockret stiger (t.ex. efter en måltid). Det fungerar som en 'nyckel' som öppnar cellerna så att de kan ta upp socker från blodet. På så sätt sjunker blodsockret tillbaka till en lagom nivå. Diabetes innebär att insulinsystemet inte fungerar som det ska."
+    },
+    {
+      "id": 19,
+      "question": "Vad gör melatonin?",
+      "options": [
+        "Det ökar energinivån på morgonen",
+        "Det reglerar dygnsrytmen och talar om för kroppen att det är dags att sova",
+        "Det styr tillväxten under puberteten",
+        "Det skyddar kroppen mot infektioner"
+      ],
+      "correct": 1,
+      "explanation": "Melatonin produceras av tallkottkörteln i hjärnan och kallas sömnhormonet. Det utsöndras när det blir mörkt och signalerar till kroppen att det är dags att sova. Det förklarar varför det är svårare att sova när det är ljust (t.ex. på sommaren) och varför skärmar på kvällen stör sömnen – ljuset från skärmen minskar melatoninproduktionen."
+    },
+    {
+      "id": 20,
+      "question": "Vilket är ett kvinnligt könshormon och vilket är ett manligt?",
+      "options": [
+        "Insulin (kvinnligt) och adrenalin (manligt)",
+        "Melatonin (kvinnligt) och kortisol (manligt)",
+        "Östrogen (kvinnligt) och testosteron (manligt)",
+        "Progesteron (manligt) och testosteron (kvinnligt)"
+      ],
+      "correct": 2,
+      "explanation": "Östrogen är det viktigaste kvinnliga könshormonet och styr bl.a. mensen och bröstens utveckling. Testosteron är det viktigaste manliga könshormonet och styr bl.a. muskeltillväxt och skäggutveckling. OBS: båda könen har faktiskt båda hormoner – det är bara mängderna som skiljer sig."
+    },
+    {
+      "id": 21,
+      "question": "Vad menas med hälsa enligt en bred definition?",
+      "options": [
+        "Att man inte har några sjukdomar",
+        "Att man tränar regelbundet och äter rätt",
+        "Ett tillstånd av fysiskt, psykiskt och socialt välbefinnande – inte bara frånvaron av sjukdom",
+        "Att man har ett starkt immunförsvar"
+      ],
+      "correct": 2,
+      "explanation": "WHO:s definition av hälsa är: ett tillstånd av fullständigt fysiskt, psykiskt och socialt välbefinnande. Det räcker alltså inte att bara vara fri från sjukdom – man behöver också må bra psykiskt och ha goda relationer och ett socialt liv."
+    },
+    {
+      "id": 22,
+      "question": "Vad stämmer om vaccin?",
+      "options": [
+        "Vaccin dödar bakterier i kroppen precis som antibiotika",
+        "Vaccin introducerar en ofarlig del av ett smittämne så att immunförsvaret lär sig känna igen det – och har utrotat sjukdomar som smittkoppor",
+        "Vaccin fungerar bara mot bakterier, inte virus",
+        "Vaccin ger omedelbart skydd men håller bara i en vecka"
+      ],
+      "correct": 1,
+      "explanation": "Vaccin 'tränar' immunförsvaret på ett smittämne utan att man faktiskt blir sjuk. Kroppen bygger upp ett minne och kan snabbt slå tillbaka om man möter riktiga smittämnet. Tack vare vaccin har sjukdomar som smittkoppor utrotats helt, och polio är nära utrotning."
+    },
+    {
+      "id": 23,
+      "question": "Vad är antibiotikaresistens och varför är det ett problem?",
+      "options": [
+        "Att människor utvecklar allergi mot antibiotika",
+        "Att antibiotika inte längre produceras i tillräckliga mängder",
+        "Att bakterier muterar och blir motståndskraftiga mot antibiotika, vilket gör att de inte dör av behandlingen",
+        "Att virus blivit resistenta mot antibiotika"
+      ],
+      "correct": 2,
+      "explanation": "Antibiotika dödar bakterier. Men om man tar för mycket antibiotika, eller inte fullföljer kuren, kan vissa bakterier överleva och föröka sig. Dessa 'superresistenta' bakterier sprids och kan orsaka infektioner som är mycket svåra att behandla. Det är ett av världens största folkhälsoproblem."
+    },
+    {
+      "id": 24,
+      "question": "Vilka yttre faktorer ökar risken att drabbas av cancer?",
+      "options": [
+        "Att dricka för mycket vatten och motionera för mycket",
+        "Rökning, för mycket solning (UV-strålning), alkohol och exponering för farliga kemikalier",
+        "Att äta för mycket grönsaker",
+        "Kyla och fukt"
+      ],
+      "correct": 1,
+      "explanation": "Cancer uppstår när celler börjar dela sig okontrollerat. Yttre faktorer som ökar risken är: rökning (vanligaste orsaken till lungcancer), för mycket UV-strålning från solen (hudcancer), alkohol, övervikt och exponering för vissa kemikalier. Många cancerfall går att förebygga!"
+    },
+    {
+      "id": 25,
+      "question": "Varför är sömnen viktig för kropp och hjärna?",
+      "options": [
+        "Sömnen behövs bara för att vila musklerna",
+        "Under sömnen repareras kroppen, hjärnan rensar ut slaggprodukter, minnen befästs och hormoner (bl.a. tillväxthormon) utsöndras",
+        "Sömnen är viktig bara för barn och tonåringar, inte för vuxna",
+        "Sömn behövs för att matsmältningen ska fungera"
+      ],
+      "correct": 1,
+      "explanation": "Sömn är mycket mer än vila. Under sömnen: repareras vävnader, immunförsvaret stärks, hjärnan rensar ut avfallsprodukter (bl.a. proteiner kopplade till Alzheimers), minnen och inlärning befästs, och tillväxthormon utsöndras. Sömnbrist påverkar koncentration, minne, humör och immunförsvar negativt."
+    }
+  ]
+}

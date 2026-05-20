@@ -1,0 +1,248 @@
+{
+  "title": "Ekologi",
+  "subject": "Biologi",
+  "description": "Flervalsfrågor om ekologi, cellen, fotosyntes och cellandning",
+  "generated": "2026-05-20",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Var i cellen sker fotosyntesen?",
+      "options": [
+        "I mitokondrierna",
+        "I cellkärnan",
+        "I kloroplasterna",
+        "I cellmembranet"
+      ],
+      "correct": 2,
+      "explanation": "Fotosyntesen sker i kloroplasterna som innehåller det gröna pigmentet klorofyll. Klorofyllet fångar solljusets energi och driver omvandlingen av koldioxid och vatten till druvsocker och syre."
+    },
+    {
+      "id": 2,
+      "question": "Var i cellen sker cellandningen?",
+      "options": [
+        "I kloroplasterna",
+        "I mitokondrierna",
+        "I cellväggen",
+        "I vakuolen"
+      ],
+      "correct": 1,
+      "explanation": "Cellandningen sker i mitokondrierna, som kallas cellens kraftverk. Här bryts druvsocker ner med hjälp av syre och energi frigörs."
+    },
+    {
+      "id": 3,
+      "question": "Vad är det korrekta schemat för fotosyntesen?",
+      "options": [
+        "Druvsocker + Syre → Koldioxid + Vatten + Energi",
+        "Koldioxid + Vatten + Solljus → Druvsocker + Syre",
+        "Syre + Ljus → Koldioxid + Druvsocker",
+        "Vatten + Närsalter + Ljus → Stärkelse + Koldioxid"
+      ],
+      "correct": 1,
+      "explanation": "Fotosyntesen: Koldioxid + Vatten + Solljus → Druvsocker + Syre. Växten tar in koldioxid via klyvöppningarna, vatten via rötterna, och använder solljus för att driva reaktionen i kloroplasterna."
+    },
+    {
+      "id": 4,
+      "question": "Vilken är den viktigaste skillnaden mellan en växtcell och en djurcell?",
+      "options": [
+        "Växtceller har mitokondrier, djurceller har inte det",
+        "Djurceller har cellkärna, växtceller har inte det",
+        "Växtceller har cellvägg och kloroplaster, djurceller saknar dessa",
+        "Djurceller har cellmembran, växtceller har inte det"
+      ],
+      "correct": 2,
+      "explanation": "Växtceller har cellvägg (av cellulosa) som ger extra stöd, och kloroplaster för fotosyntesen. Djurceller saknar dessa strukturer. Båda celltyper har däremot cellmembran, cellkärna och mitokondrier."
+    },
+    {
+      "id": 5,
+      "question": "Vad menas med en producent i ett ekosystem?",
+      "options": [
+        "Ett djur som äter andra djur",
+        "En organism, vanligtvis en grön växt, som tillverkar energirik mat via fotosyntesen",
+        "En organism som bryter ned döda växter och djur",
+        "Ett djur som äter både växter och kött"
+      ],
+      "correct": 1,
+      "explanation": "En producent är en organism som tillverkar sin egen mat via fotosyntesen – vanligtvis gröna växter och alger. De bildar basen i alla näringskedjor."
+    },
+    {
+      "id": 6,
+      "question": "Vad händer med energin när den rör sig uppåt i en näringspyramid?",
+      "options": [
+        "Energin ökar för varje steg uppåt",
+        "Energin förblir konstant genom hela kedjan",
+        "Ungefär 90% av energin förloras som värme vid varje nivåövergång",
+        "Energin fördubblas när rovdjur äter bytesdjur"
+      ],
+      "correct": 2,
+      "explanation": "Vid varje steg uppåt i näringspyramiden förloras ungefär 90% av energin som värme. Därför finns det alltid mycket mer biomassa (och energi) längst ner i pyramiden hos producenterna än längst upp hos toppkonsumenterna."
+    },
+    {
+      "id": 7,
+      "question": "Vad är en nedbrytare?",
+      "options": [
+        "Ett rovdjur som dödar och äter bytesdjur",
+        "En växt som konkurrerar ut andra växter",
+        "Bakterier, svampar och smådjur som bryter ned döda organismer och frigör närsalter",
+        "En organism som lever som parasit på ett annat djur"
+      ],
+      "correct": 2,
+      "explanation": "Nedbrytare är organismer som bakterier, svampar, insekter och maskar. De bryter ner döda växter och djur samt spillning, och frigör på så sätt enkla närsalter som kan tas upp av växterna igen."
+    },
+    {
+      "id": 8,
+      "question": "Vad är skillnaden mellan en biotisk och en abiotisk faktor?",
+      "options": [
+        "Biotisk = icke-levande, abiotisk = levande",
+        "Biotisk = levande organismer, abiotisk = icke-levande delar som temperatur och ljus",
+        "Biotisk = växter, abiotisk = djur",
+        "Biotisk = land, abiotisk = hav"
+      ],
+      "correct": 1,
+      "explanation": "Biotiska faktorer är de levande delarna av ett ekosystem: djur, växter, bakterier, svampar. Abiotiska faktorer är de icke-levande: temperatur, ljus, vatten, salthalt, vind."
+    },
+    {
+      "id": 9,
+      "question": "Vad är kolets kretslopp?",
+      "options": [
+        "Kolatomernas väg enbart genom havet och atmosfären",
+        "Kolatomernas ständiga cirkulation mellan atmosfären, levande organismer, marken och havet",
+        "Processen där växter omvandlar kol till syre",
+        "Rörelsen av kol enbart i jordmånen"
+      ],
+      "correct": 1,
+      "explanation": "Kolets kretslopp innebär att kolatomer ständigt cirkulerar. Växter tar upp CO₂ via fotosyntesen, djur äter växter och andas ut CO₂, nedbrytare frigör kol när de bryter ned döda organismer, och kol återgår till atmosfären."
+    },
+    {
+      "id": 10,
+      "question": "Vad är kvävefixering?",
+      "options": [
+        "Processen där växter tar upp kväve via fotosyntesen",
+        "Processen där djur utsöndrar kväve som urin",
+        "Processen där speciella bakterier omvandlar luftens kvävegas till närsalter som växter kan ta upp",
+        "Processen där kväve frigörs när organismer dör"
+      ],
+      "correct": 2,
+      "explanation": "Kvävefixering utförs av speciella bakterier (bl.a. i baljväxternas rötter) som omvandlar luftens kvävegas (N₂) till ammoniakföreningar som växter kan ta upp. Det är avgörande för närsalternas kretslopp."
+    },
+    {
+      "id": 11,
+      "question": "Vad menas med parasitism?",
+      "options": [
+        "Båda arter gynnas av varandra",
+        "En art lever på eller inuti en annan art och tar näring från den utan att direkt döda den",
+        "Två arter tävlar om samma mat",
+        "En art äter en annan art"
+      ],
+      "correct": 1,
+      "explanation": "Parasitism innebär att parasiten lever på eller inuti värden och tar näring. Parasiten gynnas, värden tar skada. Exempel: loppor, fästingar, bandmaskar. Det skiljer sig från rovdjur–bytesdjur eftersom parasiten normalt inte dödar värden direkt."
+    },
+    {
+      "id": 12,
+      "question": "Hur påverkar rovdjur och bytesdjur varandra i ett ekosystem?",
+      "options": [
+        "Rovdjuren ökar alltid, bytesdjuren minskar alltid",
+        "De påverkar inte varandra",
+        "De bildar en cykel – när bytesdjur ökar, ökar rovdjur; när rovdjur ökar, minskar bytesdjur",
+        "Bytesdjuren styr alltid rovdjurens antal utan att påverkas tillbaka"
+      ],
+      "correct": 2,
+      "explanation": "Rovdjur och bytesdjur påverkar varandra i en ständig cykel: fler bytesdjur → fler rovdjur → färre bytesdjur → färre rovdjur → fler bytesdjur igen. Denna dynamik håller populationerna i balans."
+    },
+    {
+      "id": 13,
+      "question": "Vad är skillnaden mellan en specialist och en opportunist?",
+      "options": [
+        "En specialist äter kött, en opportunist äter växter",
+        "En specialist har högt ställda krav på sin miljö, en opportunist anpassar sig lätt till nya förhållanden",
+        "En specialist lever i vatten, en opportunist lever på land",
+        "Det är samma sak, bara olika namn"
+      ],
+      "correct": 1,
+      "explanation": "En specialist (t.ex. pandabjörnen) har högt ställda krav och är sårbar för förändringar. En opportunist (t.ex. råttan, kråkan) kan snabbt anpassa sig till nya förhållanden och utnyttja tillfälliga resurser."
+    },
+    {
+      "id": 14,
+      "question": "Vad är en pionjärart?",
+      "options": [
+        "Det rovdjur som är överst i en näringskedja",
+        "En art som kan utnyttja tillfälliga störningar och kolonisera ny eller störd mark",
+        "En art som bara finns i ett specifikt geografiskt område",
+        "En producent som fotosyntiserar snabbare än andra växter"
+      ],
+      "correct": 1,
+      "explanation": "En pionjärart kan snabbt kolonisera mark som störts, t.ex. efter en skogsbrand eller jordskred. Mjölkört är ett klassiskt exempel – den slår snabbt rot på bränd mark och förbereder för att andra arter ska kunna etablera sig."
+    },
+    {
+      "id": 15,
+      "question": "Varför är närsalternas kretslopp viktigt?",
+      "options": [
+        "Utan det skulle inga djur kunna andas",
+        "Det är det som håller jordens temperatur stabil",
+        "Utan det skulle närsalter ta slut i marken och växter inte kunna växa",
+        "Det är bara viktigt i havet, inte på land"
+      ],
+      "correct": 2,
+      "explanation": "Närsalter (kväve, fosfor m.fl.) är livsnödvändiga för växters tillväxt. Om de inte cirkulerade – via nedbrytare, kvävefixerande bakterier och växtupptag – skulle de ansamlas i döda organismer och det skulle till slut bli brist på närsalter i marken."
+    },
+    {
+      "id": 16,
+      "question": "Vad menas med en nyckelart (keystone species)?",
+      "options": [
+        "Den vanligaste arten i ett ekosystem",
+        "Den art som producerar mest biomassa",
+        "En art vars bortfall skulle drastiskt förändra hela ekosystemet, trots att den kanske inte är den mest talrika",
+        "Den art som är längst upp i näringskedjan"
+      ],
+      "correct": 2,
+      "explanation": "En nyckelart håller ihop ekosystemet. Om den försvinner förändras eller kollapsar ekosystemet dramatiskt. Det klassiska exemplet är vargen i Yellowstone – när den återinfördes förändrades hela ekosystemet i en kedjereaktion."
+    },
+    {
+      "id": 17,
+      "question": "Vad är biomagnifikation?",
+      "options": [
+        "Att biomassa ökar uppåt i näringspyramiden",
+        "Att ett giftigt ämne anrikas mer och mer ju högre upp i näringskedjan man kommer",
+        "Processen där växter växer snabbt när det finns gott om närsalter",
+        "Att mikroorganismer förstoras i mikroskop"
+      ],
+      "correct": 1,
+      "explanation": "Biomagnifikation innebär att miljögifter (t.ex. DDT, kvicksilver) inte bryts ner utan ansamlas i fettvävnad. För varje steg uppåt i näringskedjan koncentreras giftet mer. Toppkonsumenter (t.ex. örnen, sälen) drabbas hårdast."
+    },
+    {
+      "id": 18,
+      "question": "Vad är skillnaden mellan en näringskedja och en näringsväv?",
+      "options": [
+        "En näringskedja finns i havet, en näringsväv finns på land",
+        "En näringskedja visar ett linjärt flöde från producent till toppkonsument, en näringsväv visar flera sammankopplade kedjor",
+        "En näringsväv är en förenkling av en näringskedja",
+        "Det är samma sak"
+      ],
+      "correct": 1,
+      "explanation": "En näringskedja visar ett enkelt, linjärt flöde: växt → växtätare → rovdjur. En näringsväv är mer verklighetstrogen och visar hur flera arter äter flera olika saker – hur kedjorna är sammankopplade i ett nät."
+    },
+    {
+      "id": 19,
+      "question": "Klyvöppningarna på bladen har en viktig funktion – vad är den?",
+      "options": [
+        "De fångar solljus för fotosyntesen",
+        "De pumpar vatten uppåt från rötterna",
+        "De är öppningar för gasutbyte: koldioxid tas in och syre och vattenånga släpps ut",
+        "De skyddar bladet mot insekter"
+      ],
+      "correct": 2,
+      "explanation": "Klyvöppningarna är små hål på bladets undersida. Genom dem tar växten in koldioxid (som behövs för fotosyntesen) och släpper ut syre (biprodukt) och vattenånga. De kan öppnas och stängas för att reglera vattenförlust."
+    },
+    {
+      "id": 20,
+      "question": "Hur skiljer sig en växtcell åt från en djurcell när det gäller cellandning och fotosyntes?",
+      "options": [
+        "Växtceller utför bara fotosyntes, djurceller utför bara cellandning",
+        "Varken växtceller eller djurceller utför cellandning – det gör bara bakterier",
+        "Växtceller utför både fotosyntes (i kloroplasterna) och cellandning (i mitokondrierna), djurceller utför bara cellandning",
+        "Djurceller utför fotosyntes med hjälp av syret de andas in"
+      ],
+      "correct": 2,
+      "explanation": "Växtceller utför BOTH fotosyntes (i kloroplasterna, när det finns ljus) OCH cellandning (i mitokondrierna, hela dygnet). Djurceller saknar kloroplaster och kan inte fotosyntisera – de utför bara cellandning och är beroende av att äta för att få energi."
+    }
+  ]
+}
