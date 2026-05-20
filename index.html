@@ -1,0 +1,526 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Quiz</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@400;500&display=swap" rel="stylesheet" />
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --ink: #1c1917;
+  --ink2: #57534e;
+  --ink3: #a8a29e;
+  --paper: #faf9f7;
+  --card: #ffffff;
+  --line: #e7e5e4;
+  --line2: #d6d3d1;
+  --accent: #2d6a4f;
+  --accent-bg: #d8f3dc;
+  --accent-text: #1b4332;
+  --warn: #92400e;
+  --warn-bg: #fef3c7;
+  --danger: #991b1b;
+  --danger-bg: #fee2e2;
+  --blue: #1e40af;
+  --blue-bg: #dbeafe;
+  --r: 10px;
+  --r-lg: 16px;
+}
+
+body {
+  font-family: 'DM Sans', sans-serif;
+  background: var(--paper);
+  color: var(--ink);
+  min-height: 100vh;
+}
+
+h1, h2, h3, .display {
+  font-family: 'Fraunces', serif;
+}
+
+.page { display: none; }
+.page.active { display: block; }
+
+/* ── HEADER ── */
+header {
+  border-bottom: 1px solid var(--line);
+  padding: 1rem 2rem;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: var(--card);
+}
+.wordmark {
+  font-family: 'Fraunces', serif;
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--accent);
+  letter-spacing: -0.3px;
+}
+.header-sub {
+  font-size: 13px;
+  color: var(--ink3);
+  margin-left: auto;
+  font-style: italic;
+  font-family: 'Fraunces', serif;
+}
+
+/* ── LAYOUT ── */
+.container { max-width: 640px; margin: 0 auto; padding: 2rem 1.5rem; }
+
+/* ── HOME PAGE ── */
+.home-title {
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: -0.5px;
+  margin-bottom: 6px;
+  color: var(--ink);
+}
+.home-sub {
+  font-size: 15px;
+  color: var(--ink2);
+  font-style: italic;
+  margin-bottom: 2.5rem;
+}
+.section-label {
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink3);
+  margin-bottom: 12px;
+}
+.quiz-grid { display: flex; flex-direction: column; gap: 10px; margin-bottom: 2rem; }
+
+.quiz-card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--r-lg);
+  padding: 1rem 1.25rem;
+  cursor: pointer;
+  transition: border-color 0.15s, transform 0.1s;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  text-align: left;
+}
+.quiz-card:hover { border-color: var(--accent); transform: translateY(-1px); }
+.quiz-card-icon {
+  width: 42px; height: 42px;
+  border-radius: var(--r);
+  background: var(--accent-bg);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 20px;
+  flex-shrink: 0;
+}
+.quiz-card-body { flex: 1; }
+.quiz-card-title { font-family: 'Fraunces', serif; font-size: 16px; font-weight: 600; color: var(--ink); margin-bottom: 2px; }
+.quiz-card-meta { font-size: 13px; color: var(--ink2); }
+.quiz-card-badge {
+  font-size: 11px; padding: 3px 10px;
+  border-radius: 999px;
+  background: var(--accent-bg);
+  color: var(--accent-text);
+  font-weight: 500;
+  flex-shrink: 0;
+}
+.empty-state {
+  text-align: center;
+  padding: 3rem 1rem;
+  color: var(--ink3);
+  border: 1px dashed var(--line2);
+  border-radius: var(--r-lg);
+  font-style: italic;
+  font-family: 'Fraunces', serif;
+}
+.loading-dots { display: inline-flex; gap: 4px; }
+.loading-dots span {
+  width: 6px; height: 6px; border-radius: 50%;
+  background: var(--ink3);
+  animation: dot 1.2s infinite;
+}
+.loading-dots span:nth-child(2) { animation-delay: 0.2s; }
+.loading-dots span:nth-child(3) { animation-delay: 0.4s; }
+@keyframes dot { 0%,80%,100% { opacity: 0.2; } 40% { opacity: 1; } }
+
+/* ── QUIZ PAGE ── */
+.quiz-header {
+  margin-bottom: 1.5rem;
+}
+.back-btn {
+  font-size: 13px; color: var(--ink2);
+  background: none; border: none; cursor: pointer;
+  padding: 0; margin-bottom: 1.25rem;
+  display: flex; align-items: center; gap: 5px;
+}
+.back-btn:hover { color: var(--ink); }
+.quiz-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem; margin-bottom: 1rem; }
+.quiz-page-title { font-size: 26px; font-weight: 600; letter-spacing: -0.3px; line-height: 1.2; }
+.score-chip {
+  font-size: 13px; font-weight: 500;
+  background: var(--accent-bg); color: var(--accent-text);
+  padding: 4px 12px; border-radius: 999px;
+  white-space: nowrap; flex-shrink: 0;
+  margin-top: 4px;
+}
+
+/* Progress */
+.prog-row { display: flex; align-items: center; gap: 12px; margin-bottom: 1.5rem; }
+.prog-track { flex: 1; height: 4px; background: var(--line); border-radius: 999px; overflow: hidden; }
+.prog-fill { height: 100%; background: var(--accent); border-radius: 999px; transition: width 0.4s ease; }
+.prog-label { font-size: 13px; color: var(--ink3); white-space: nowrap; }
+
+/* Question card */
+.q-card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--r-lg);
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+}
+.q-text {
+  font-family: 'Fraunces', serif;
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: var(--ink);
+  margin-bottom: 1.25rem;
+}
+.opts { display: flex; flex-direction: column; gap: 8px; }
+.opt {
+  display: flex; align-items: flex-start; gap: 10px;
+  padding: 11px 14px;
+  border: 1px solid var(--line);
+  border-radius: var(--r);
+  background: var(--paper);
+  cursor: pointer;
+  font-size: 14px; color: var(--ink);
+  text-align: left;
+  transition: border-color 0.1s, background 0.1s;
+  width: 100%;
+  font-family: 'DM Sans', sans-serif;
+}
+.opt:hover:not(:disabled) { border-color: var(--accent); background: var(--accent-bg); }
+.opt:disabled { cursor: default; }
+.opt.correct { background: var(--accent-bg); border-color: var(--accent); color: var(--accent-text); }
+.opt.wrong { background: var(--danger-bg); border-color: #fca5a5; color: var(--danger); }
+.opt-key {
+  width: 22px; height: 22px; flex-shrink: 0;
+  border-radius: 6px; border: 1px solid var(--line2);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 11px; font-weight: 500; color: var(--ink3);
+  margin-top: 1px;
+}
+.opt.correct .opt-key { background: var(--accent); border-color: var(--accent); color: #fff; }
+.opt.wrong .opt-key { background: #fca5a5; border-color: #fca5a5; color: var(--danger); }
+
+.explanation {
+  margin-top: 14px;
+  padding: 12px 14px;
+  background: var(--paper);
+  border-left: 3px solid var(--accent);
+  border-radius: 0 var(--r) var(--r) 0;
+  font-size: 13px; color: var(--ink2); line-height: 1.6;
+  display: none;
+}
+.explanation strong { color: var(--ink); }
+
+.next-btn {
+  width: 100%; padding: 12px;
+  background: var(--ink); color: #fff;
+  border: none; border-radius: var(--r);
+  font-size: 15px; font-weight: 500;
+  cursor: pointer; margin-top: 4px;
+  font-family: 'DM Sans', sans-serif;
+  transition: opacity 0.15s;
+  display: none;
+}
+.next-btn:hover { opacity: 0.85; }
+
+/* ── RESULT PAGE ── */
+.result-wrap { text-align: center; padding: 2rem 0 1.5rem; }
+.result-score {
+  font-family: 'Fraunces', serif;
+  font-size: 72px; font-weight: 600;
+  line-height: 1;
+  color: var(--accent);
+  margin-bottom: 4px;
+}
+.result-score.bad { color: var(--danger); }
+.result-score.ok { color: var(--warn); }
+.result-label {
+  font-family: 'Fraunces', serif;
+  font-size: 22px; font-style: italic;
+  color: var(--ink); margin-bottom: 6px;
+}
+.result-sub { font-size: 14px; color: var(--ink2); }
+.result-stats {
+  display: grid; grid-template-columns: repeat(3, 1fr);
+  gap: 10px; margin: 1.5rem 0;
+}
+.stat-card {
+  background: var(--card); border: 1px solid var(--line);
+  border-radius: var(--r); padding: 14px 10px; text-align: center;
+}
+.stat-val { font-family: 'Fraunces', serif; font-size: 26px; font-weight: 600; color: var(--ink); }
+.stat-lbl { font-size: 12px; color: var(--ink3); margin-top: 2px; }
+.result-actions { display: flex; flex-direction: column; gap: 10px; }
+.btn-primary {
+  width: 100%; padding: 12px;
+  background: var(--ink); color: #fff;
+  border: none; border-radius: var(--r);
+  font-size: 15px; font-weight: 500; cursor: pointer;
+  font-family: 'DM Sans', sans-serif;
+  transition: opacity 0.15s;
+}
+.btn-primary:hover { opacity: 0.85; }
+.btn-secondary {
+  width: 100%; padding: 11px;
+  background: transparent; color: var(--ink);
+  border: 1px solid var(--line2); border-radius: var(--r);
+  font-size: 15px; cursor: pointer;
+  font-family: 'DM Sans', sans-serif;
+}
+.btn-secondary:hover { background: var(--line); }
+.btn-secondary:disabled { opacity: 0.35; cursor: not-allowed; }
+
+/* ── TOAST ── */
+.toast {
+  position: fixed; bottom: 1.5rem; left: 50%; transform: translateX(-50%);
+  background: var(--ink); color: #fff;
+  font-size: 13px; padding: 8px 16px; border-radius: 999px;
+  opacity: 0; pointer-events: none; transition: opacity 0.2s;
+  white-space: nowrap; z-index: 100;
+}
+.toast.show { opacity: 1; }
+</style>
+</head>
+<body>
+
+<header>
+  <span class="wordmark">Quiz</span>
+  <span class="header-sub">Välj ett quiz och testa dina kunskaper</span>
+</header>
+
+<!-- HOME -->
+<div class="page active" id="p-home">
+  <div class="container">
+    <h1 class="home-title">Välj ett quiz</h1>
+    <p class="home-sub">Frågor genererade från ditt studiematerial</p>
+    <p class="section-label">Tillgängliga quiz</p>
+    <div class="quiz-grid" id="quiz-grid">
+      <div class="empty-state">
+        <div class="loading-dots"><span></span><span></span><span></span></div>
+        <br>Hämtar quiz…
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- QUIZ -->
+<div class="page" id="p-quiz">
+  <div class="container">
+    <div class="quiz-header">
+      <button class="back-btn" onclick="goHome()">← Alla quiz</button>
+      <div class="quiz-title-row">
+        <h2 class="quiz-page-title" id="q-title"></h2>
+        <div class="score-chip" id="score-chip">0 rätt</div>
+      </div>
+      <div class="prog-row">
+        <div class="prog-track"><div class="prog-fill" id="prog-fill" style="width:0%"></div></div>
+        <span class="prog-label" id="prog-label">1 / 10</span>
+      </div>
+    </div>
+
+    <div class="q-card">
+      <div class="q-text" id="q-text"></div>
+      <div class="opts" id="opts"></div>
+      <div class="explanation" id="explanation"></div>
+    </div>
+    <button class="next-btn" id="next-btn" onclick="nextQ()"></button>
+  </div>
+</div>
+
+<!-- RESULT -->
+<div class="page" id="p-result">
+  <div class="container">
+    <button class="back-btn" onclick="goHome()">← Alla quiz</button>
+    <div class="result-wrap">
+      <div class="result-score" id="res-score"></div>
+      <div class="result-label" id="res-label"></div>
+      <div class="result-sub" id="res-sub"></div>
+    </div>
+    <div class="result-stats">
+      <div class="stat-card"><div class="stat-val" id="r-correct" style="color:var(--accent)"></div><div class="stat-lbl">Rätt</div></div>
+      <div class="stat-card"><div class="stat-val" id="r-wrong" style="color:var(--danger)"></div><div class="stat-lbl">Fel</div></div>
+      <div class="stat-card"><div class="stat-val" id="r-time"></div><div class="stat-lbl">Tid</div></div>
+    </div>
+    <div class="result-actions">
+      <button class="btn-primary" onclick="retryAll()">Kör om hela quizet</button>
+      <button class="btn-secondary" id="retry-wrong-btn" onclick="retryWrong()">Öva på felaktiga svar</button>
+    </div>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+const SUBJECTS = { Biologi:'🌿', Historia:'📜', Matematik:'📐', Kemi:'⚗️', Fysik:'⚡', Geografi:'🌍', Svenska:'📖', Engelska:'🗣️', default:'📚' };
+
+let allQuestions = [], activeQuestions = [], cur = 0, correctCount = 0, wrongIds = [], answered = false, startTime = 0, currentTitle = '';
+
+async function loadHome() {
+  const grid = document.getElementById('quiz-grid');
+  try {
+    const res = await fetch('quizzes/index.json');
+    if (!res.ok) throw new Error();
+    const list = await res.json();
+    if (!list.length) {
+      grid.innerHTML = '<div class="empty-state">Inga quiz hittades ännu.<br>Lägg till en JSON-fil i mappen <em>quizzes/</em>.</div>';
+      return;
+    }
+    grid.innerHTML = '';
+    list.forEach(q => {
+      const icon = SUBJECTS[q.subject] || SUBJECTS.default;
+      const card = document.createElement('button');
+      card.className = 'quiz-card';
+      card.innerHTML = `
+        <div class="quiz-card-icon">${icon}</div>
+        <div class="quiz-card-body">
+          <div class="quiz-card-title">${q.title}</div>
+          <div class="quiz-card-meta">${q.subject} · ${q.questionCount} frågor · ${q.date}</div>
+        </div>
+        <span class="quiz-card-badge">${q.subject}</span>`;
+      card.onclick = () => loadQuiz(q.id, q.title);
+      grid.appendChild(card);
+    });
+  } catch(e) {
+    grid.innerHTML = '<div class="empty-state">Kunde inte ladda quiz.<br>Kontrollera att <em>quizzes/index.json</em> finns.</div>';
+  }
+}
+
+async function loadQuiz(id, title) {
+  try {
+    const res = await fetch(`quizzes/${id}.json`);
+    if (!res.ok) throw new Error();
+    const data = await res.json();
+    allQuestions = data.questions;
+    currentTitle = title || data.title;
+    startQuiz(allQuestions);
+  } catch(e) {
+    showToast('Kunde inte ladda quizet.');
+  }
+}
+
+function startQuiz(questions) {
+  activeQuestions = questions.map((q, i) => ({ ...q, _idx: i }));
+  cur = 0; correctCount = 0; wrongIds = []; answered = false;
+  startTime = Date.now();
+  document.getElementById('q-title').textContent = currentTitle;
+  updateScoreChip();
+  showPage('p-quiz');
+  loadQ();
+}
+
+function loadQ() {
+  const d = activeQuestions[cur]; answered = false;
+  const total = activeQuestions.length;
+  document.getElementById('prog-fill').style.width = `${Math.round(((cur + 1) / total) * 100)}%`;
+  document.getElementById('prog-label').textContent = `${cur + 1} / ${total}`;
+  document.getElementById('q-text').textContent = d.question;
+  document.getElementById('explanation').style.display = 'none';
+  document.getElementById('explanation').innerHTML = '';
+  document.getElementById('next-btn').style.display = 'none';
+
+  const opts = document.getElementById('opts');
+  opts.innerHTML = '';
+  const keys = ['A','B','C','D'];
+  d.options.forEach((opt, i) => {
+    const btn = document.createElement('button');
+    btn.className = 'opt';
+    btn.innerHTML = `<span class="opt-key">${keys[i]}</span>${opt}`;
+    btn.onclick = () => answer(i, btn, d);
+    opts.appendChild(btn);
+  });
+}
+
+function answer(idx, btn, d) {
+  if (answered) return; answered = true;
+  const btns = document.querySelectorAll('.opt');
+  btns.forEach((b, i) => {
+    if (i === d.correct) b.classList.add('correct');
+    else if (i === idx) b.classList.add('wrong');
+    b.disabled = true;
+  });
+  if (idx === d.correct) { correctCount++; }
+  else { wrongIds.push(d._idx ?? d.id); }
+  updateScoreChip();
+  if (d.explanation) {
+    const el = document.getElementById('explanation');
+    el.innerHTML = `<strong>Förklaring:</strong> ${d.explanation}`;
+    el.style.display = 'block';
+  }
+  const nb = document.getElementById('next-btn');
+  nb.textContent = cur < activeQuestions.length - 1 ? 'Nästa fråga →' : 'Visa resultat →';
+  nb.style.display = 'block';
+}
+
+function updateScoreChip() {
+  document.getElementById('score-chip').textContent = `${correctCount} rätt`;
+}
+
+function nextQ() { cur++; cur < activeQuestions.length ? loadQ() : showResult(); }
+
+function showResult() {
+  const elapsed = Math.round((Date.now() - startTime) / 1000);
+  const m = Math.floor(elapsed / 60), s = elapsed % 60;
+  const total = activeQuestions.length;
+  const pct = Math.round((correctCount / total) * 100);
+
+  const scoreEl = document.getElementById('res-score');
+  scoreEl.textContent = pct + '%';
+  scoreEl.className = 'result-score' + (pct >= 80 ? '' : pct >= 50 ? ' ok' : ' bad');
+
+  const labels = [[80,'Utmärkt jobbat!'],[60,'Bra kämpat!'],[40,'Nästan där!'],[0,'Fortsätt öva!']];
+  document.getElementById('res-label').textContent = labels.find(([t]) => pct >= t)[1];
+  document.getElementById('res-sub').textContent = `${correctCount} av ${total} rätta svar`;
+  document.getElementById('r-correct').textContent = correctCount;
+  document.getElementById('r-wrong').textContent = total - correctCount;
+  document.getElementById('r-time').textContent = `${m}:${s.toString().padStart(2,'0')}`;
+
+  const retryBtn = document.getElementById('retry-wrong-btn');
+  retryBtn.disabled = wrongIds.length === 0;
+  retryBtn.textContent = wrongIds.length > 0 ? `Öva på ${wrongIds.length} felaktiga svar` : 'Inga fel – bra jobbat!';
+
+  showPage('p-result');
+}
+
+function retryAll() { startQuiz(allQuestions); }
+
+function retryWrong() {
+  const wrong = allQuestions.filter(q => wrongIds.includes(q._idx ?? q.id));
+  if (!wrong.length) return;
+  startQuiz(wrong);
+}
+
+function goHome() { showPage('p-home'); }
+function showPage(id) {
+  document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+  document.getElementById(id).classList.add('active');
+  window.scrollTo(0, 0);
+}
+
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg; t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 3000);
+}
+
+loadHome();
+</script>
+</body>
+</html>

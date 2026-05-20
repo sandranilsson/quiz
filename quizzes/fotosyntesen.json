@@ -1,0 +1,29 @@
+{
+  "title": "Fotosyntesen",
+  "subject": "Biologi",
+  "description": "Flervalsfrågor om hur fotosyntesen fungerar",
+  "generated": "2026-05-19",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Vilket ämne tar växter upp från luften under fotosyntesen?",
+      "options": ["Syre (O₂)", "Koldioxid (CO₂)", "Kväve (N₂)", "Väte (H₂)"],
+      "correct": 1,
+      "explanation": "Växter absorberar koldioxid via klyvöppningarna i bladen och omvandlar det till socker med hjälp av solljus och vatten."
+    },
+    {
+      "id": 2,
+      "question": "Var i växten sker fotosyntesen främst?",
+      "options": ["I roten", "I stammen", "I bladen", "I blommorna"],
+      "correct": 2,
+      "explanation": "Bladen innehåller kloroplaster med klorofyll som fångar solljus och driver fotosyntesen."
+    },
+    {
+      "id": 3,
+      "question": "Vilket pigment ger växter sin gröna färg?",
+      "options": ["Antocyanin", "Karoten", "Klorofyll", "Xantofyll"],
+      "correct": 2,
+      "explanation": "Klorofyll absorberar rött och blått ljus men reflekterar grönt, vilket ger växten dess gröna färg."
+    }
+  ]
+}
