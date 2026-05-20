@@ -1,0 +1,248 @@
+{
+  "title": "Islam",
+  "subject": "Religion",
+  "description": "Flervalsfrågor om islam baserade på Sol Nova 7, s. 135–163",
+  "generated": "2026-05-20",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Vad betyder ordet 'islam' på arabiska?",
+      "options": [
+        "Tro och kärlek",
+        "Underkastelse eller att leva i fred och lydnad",
+        "Den sanna vägen",
+        "Guds budskap"
+      ],
+      "correct": 1,
+      "explanation": "Islam betyder ungefär underkastelse eller att leva i fred och lydnad. Muhammeds anhängare kallades muslimer, som betyder de som underkastar sig Guds vilja."
+    },
+    {
+      "id": 2,
+      "question": "Var och när föddes profeten Muhammed?",
+      "options": [
+        "I Medina, omkring år 610 e.Kr.",
+        "I Jerusalem, omkring år 570 e.Kr.",
+        "I Mekka, omkring år 570 e.Kr.",
+        "I Mekka, omkring år 622 e.Kr."
+      ],
+      "correct": 2,
+      "explanation": "Profeten Muhammed föddes omkring år 570 e.Kr. i Mekka i nuvarande Saudiarabien."
+    },
+    {
+      "id": 3,
+      "question": "Vad kallas den byggnad i Mekka som muslimer vallfärdar till och vandrar runt?",
+      "options": [
+        "Moskén",
+        "Minareten",
+        "Medina",
+        "Kaba"
+      ],
+      "correct": 3,
+      "explanation": "Kaba är en fyrkantig byggnad i Mekka som pilgrimerna vandrar runt sju varv motsols. Enligt islam byggdes den av Abraham och Ismael."
+    },
+    {
+      "id": 4,
+      "question": "Vad kallas Muhammeds flykt från Mekka till Jatrib år 622 e.Kr., som räknas som tidpunkten då islam grundas?",
+      "options": [
+        "Ashura",
+        "Hidrja",
+        "Shahada",
+        "Sunna"
+      ],
+      "correct": 1,
+      "explanation": "Flykten kallas hidrja och räknas av muslimer som tidpunkten då islam grundas. Jatrib fick senare det nya namnet Medina, som betyder profetens stad."
+    },
+    {
+      "id": 5,
+      "question": "Vilka är islams fem pelare?",
+      "options": [
+        "Trosbekännelsen, bönen, fastan, vallfärden och jihad",
+        "Trosbekännelsen, bönen, allmosan, fastan och vallfärden",
+        "Koranen, haditherna, bönen, fastan och allmosan",
+        "Bönen, fastan, vallfärden, allmosan och omskärelsen"
+      ],
+      "correct": 1,
+      "explanation": "Islams fem pelare är trosbekännelsen (shahada), bönen (salat), allmosan (zakat), fastan (sawn) och vallfärden (hajj). Alla muslimer förväntas följa dem."
+    },
+    {
+      "id": 6,
+      "question": "Vad kallas islams trosbekännelse och vad lyder den?",
+      "options": [
+        "Salat – 'Gud är störst och Muhammed är hans profet'",
+        "Sunna – 'Det finns ingen gud utom Allah och Muhammed är Guds sändebud'",
+        "Shahada – 'Det finns ingen gud utom Allah och Muhammed är Allahs sändebud'",
+        "Zakat – 'Jag underkastar mig Allah och följer profetens sunna'"
+      ],
+      "correct": 2,
+      "explanation": "Trosbekännelsen kallas shahada och lyder: 'Det finns ingen gud utom Allah och Muhammed är Allahs sändebud.' Det är det formella kravet för att kalla sig muslim."
+    },
+    {
+      "id": 7,
+      "question": "Hur många gånger per dygn ska en muslim be enligt profetens sunna?",
+      "options": [
+        "En gång, vid soluppgången",
+        "Tre gånger, morgon, middag och kväll",
+        "Fem gånger vid bestämda tillfällen",
+        "Sju gånger, en för varje dag i veckan"
+      ],
+      "correct": 2,
+      "explanation": "Bönen, salat, ska göras vid fem bestämda tillfällen varje dygn. Under bönen ska man vara vänd mot Kaba i Mekka."
+    },
+    {
+      "id": 8,
+      "question": "Vad innebär allmosan (zakat) enligt islam?",
+      "options": [
+        "Att fasta under Ramadan som en gåva till Gud",
+        "Att ge en gåva till den som är fattig eller i nöd, förväntat 2,5 procent av överskottet",
+        "Att vallfärda till Mekka minst en gång i livet",
+        "Att läsa Koranen högt i moskén varje fredag"
+      ],
+      "correct": 1,
+      "explanation": "Allmosan, zakat, innebär att ge en gåva till den som är fattig eller i nöd. Enligt islam förväntas en muslim ge 2,5 procent av sitt överskott som zakat."
+    },
+    {
+      "id": 9,
+      "question": "Under vilken månad fastar muslimer, och vad innebär fastan?",
+      "options": [
+        "Under Ashura – man avstår från kött och alkohol",
+        "Under Ramadan – man äter och dricker ingenting från gryningen till skymningen",
+        "Under Eid al-Adha – man ger mat till fattiga istället för att äta själv",
+        "Under Hidrja – man ber extra mycket och läser Koranen"
+      ],
+      "correct": 1,
+      "explanation": "Fastan, sawn, genomförs under fastemånaden Ramadan. Man äter och dricker ingenting från gryningen till skymningen. Ramadan infaller olika tid på året eftersom islam följer månkalendern."
+    },
+    {
+      "id": 10,
+      "question": "Vad kallas islams heliga skrift och på vilket språk är den skriven?",
+      "options": [
+        "Haditherna, skriven på arabiska och persiska",
+        "Sunna, skriven enbart på klassisk arabiska",
+        "Koranen, skriven på klassisk arabiska och indelad i 114 suror",
+        "Torahn, skriven på hebreiska och översatt till arabiska"
+      ],
+      "correct": 2,
+      "explanation": "Koranen är islams heliga skrift. Den är skriven på klassisk arabiska och indelad i 114 suror (kapitel). På arabiska heter den al-Qurūān, som betyder den ädla recitationen."
+    },
+    {
+      "id": 11,
+      "question": "Vad är haditherna?",
+      "options": [
+        "De 114 kapitlen i Koranen",
+        "Textsamlingar där profetens sunna – vad Muhammed sa och gjorde – finns nedskrivet",
+        "Islams fem pelare sammanfattade i skrift",
+        "Böner som reciteras vid de fem dagliga bönetillfällena"
+      ],
+      "correct": 1,
+      "explanation": "Haditherna är textsamlingar där profetens sunna finns nedskrivet. Muhammeds anhängare skrev ner allt profeten sa och gjorde i olika situationer. Koranens regler säger vad en muslim ska göra, medan haditherna visar hur."
+    },
+    {
+      "id": 12,
+      "question": "Vad är sharia?",
+      "options": [
+        "Det arabiska ordet för vallfärd till Mekka",
+        "En islamistisk politisk rörelse",
+        "Den gudomliga lagen om rätt och fel som Gud har gett människan, som betyder ungefär vägen till vattenkällan",
+        "En samling hadither som bara shiiter följer"
+      ],
+      "correct": 2,
+      "explanation": "Enligt islam är sharia den gudomliga lagen om rätt och fel som Gud har gett människan. Sharia betyder ungefär vägen till vattenkällan. Det som är tillåtet kallas halal och det som är förbjudet kallas haram."
+    },
+    {
+      "id": 13,
+      "question": "Hur ser islam på Gud (Allah)?",
+      "options": [
+        "Gud är en av flera gudar och den mäktigaste av dem",
+        "Gud är en och evig, har all makt och har skapat allt – det är otänkbart att avbilda honom",
+        "Gud är barmhärtig men kan inte döma människor",
+        "Gud kommunicerar med alla människor direkt genom bönen"
+      ],
+      "correct": 1,
+      "explanation": "Enligt islam är Gud en och evig, har all makt och har skapat allt genom sitt ord. För de flesta muslimer är det otänkbart att rita av eller avbilda Gud eftersom Gud är större än någon människa kan föreställa sig."
+    },
+    {
+      "id": 14,
+      "question": "Vad kallas muslimernas böne- och samlingslokal?",
+      "options": [
+        "Synagogan",
+        "Katedralen",
+        "Templet",
+        "Moskén"
+      ],
+      "correct": 3,
+      "explanation": "Moskén är muslimernas bönelokal och samlingsplats. I en moské finns inga bilder eftersom en bild eller staty av Gud skulle förminska och göra Gud mänsklig."
+    },
+    {
+      "id": 15,
+      "question": "Vilka är de två stora högtiderna inom islam?",
+      "options": [
+        "Ramadan och Ashura",
+        "Hidrja och Ödets natt",
+        "Eid al-Fitr och Eid al-Adha",
+        "Shahada och Salat"
+      ],
+      "correct": 2,
+      "explanation": "De två stora högtiderna är eid al-Fitr, festen som bryter fastan efter Ramadan, och eid al-Adha, offerhögtiden som avslutar vallfärdstiden. Eid betyder fest."
+    },
+    {
+      "id": 16,
+      "question": "Hur uppstod splittringen mellan sunni och shia?",
+      "options": [
+        "Shia uppstod som en reaktion mot korruptionen bland de tidiga kaliferna och ville ha en mer demokratisk ledning",
+        "Splittringen uppstod efter Muhammeds död om vem som skulle efterträda honom – sunni ville välja den bäst lämpade, shia ville ha en ledare från Muhammeds släkt",
+        "Sunni och shia hade olika versioner av Koranen och kunde inte enas om vilken som var riktig",
+        "Shia bildades när en grupp muslimer vägrade genomföra vallfärden till Mekka"
+      ],
+      "correct": 1,
+      "explanation": "Splittringen uppstod efter Muhammeds död. Sunni tyckte att efterträdaren skulle väljas bland dem som var bäst lämpade, medan den grupp som senare kallas shia ville ha en religiös ledare från Muhammeds släkt – de såg Ali, Muhammeds kusin, som ledare."
+    },
+    {
+      "id": 17,
+      "question": "Vad skiljer sunni och shia åt i synen på religiösa ledare?",
+      "options": [
+        "Sunni har kalifer med gudomlig kunskap, shia väljer sina ledare demokratiskt",
+        "Inom sunni har ledaren ingen särskild religiös funktion, inom shia ses imamerna som släkt med Muhammed och bärare av gudomlig kunskap",
+        "Shia erkänner inte Koranen som helig skrift, till skillnad från sunni",
+        "Sunni följer bara Koranen, shia följer enbart haditherna"
+      ],
+      "correct": 1,
+      "explanation": "Inom sunni har den religiösa och politiska ledaren ingen särskild religiös funktion som vägledare. Inom shia kallas ledarna imamer, ses som släkt med Muhammed och sägs bära på en gudomlig kunskap och vara ofelbara."
+    },
+    {
+      "id": 18,
+      "question": "Vad innebär begreppen 'islamist' och 'sekularist'?",
+      "options": [
+        "Islamist är en praktiserande muslim, sekularist är en icke-troende",
+        "Islamister vill ha en islamisk stat styrd av sharia, sekularister vill att religionen ska vara skild från politik och samhällsfunktioner",
+        "Islamister tillhör shia, sekularister tillhör sunni",
+        "Islamist betyder fundamentalist, sekularist betyder modernist inom islam"
+      ],
+      "correct": 1,
+      "explanation": "Islamister menar att västerländsk kultur har förstört sann islam och vill ha en islamisk stat styrd av religiöst lärda där sharia gäller. Sekulariserade muslimer och sekularister vill att religionen ska vara skild från politik, rättsväsende och samhällsfunktioner."
+    },
+    {
+      "id": 19,
+      "question": "Vad är islams symbol?",
+      "options": [
+        "En öppen hand, kallad Fatimas hand",
+        "En halvmåne och en stjärna – varken Koranen eller haditherna lyfter fram en särskild symbol men dessa används av många",
+        "Kaba-byggnaden i Mekka",
+        "En grön flagga med arabisk skrift"
+      ],
+      "correct": 1,
+      "explanation": "Varken Koranen eller haditherna lyfter fram några särskilda symboler för islam, men många använder en halvmåne och en stjärna för att symbolisera religionen. Varför just dessa symboler används är oklart."
+    },
+    {
+      "id": 20,
+      "question": "Hur ska en muslim begränsas enligt islamisk begravningstradition, och varför föredras jordbegravning?",
+      "options": [
+        "Begravningen ska ske inom sju dagar och kremering är tillåten om familjen önskar det",
+        "Begravningen ska ske inom 36 timmar efter döden, och jordbegravning föredras eftersom kroppen ska återuppstå på domedagen",
+        "Begravningen ska alltid ske i Mekka, och kroppen ska balsameras för att bevara den",
+        "Begravningen sker när familjen är samlad, och man väljer fritt mellan jordbegravning och kremering"
+      ],
+      "correct": 1,
+      "explanation": "Enligt islamisk tradition ska begravningen ske inom 36 timmar efter döden. Eftersom kroppen ska återuppstå på domedagen är det vanligast med jordbegravning istället för kremering, då kroppen bränns."
+    }
+  ]
+}

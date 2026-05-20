@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Quizverktyg — GitHub Pages
 
 ## Mappstruktur
@@ -155,3 +156,6 @@ Klistra in detta när du laddar upp material:
 > }
 > ```
 > Gör frågorna varierade i svårighetsgrad. Varje fråga ska direkt baseras på materialet.
+=======
+# quiz
+>>>>>>> 455ac4e7841d2e89f0d96a69aeac1d4baccd6fb3
