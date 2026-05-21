@@ -426,6 +426,14 @@ function startQuiz(questions) {
   loadQ();
 }
 
+function shuffle(arr) {
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
+
 function loadQ() {
   const d = activeQuestions[cur]; answered = false;
   const total = activeQuestions.length;
@@ -436,27 +444,32 @@ function loadQ() {
   document.getElementById('explanation').innerHTML = '';
   document.getElementById('next-btn').style.display = 'none';
 
+  // Shuffla alternativen och håll koll på vilket som är rätt
+  const indexed = d.options.map((opt, i) => ({ opt, isCorrect: i === d.correct }));
+  shuffle(indexed);
+  const shuffledCorrect = indexed.findIndex(o => o.isCorrect);
+
   const opts = document.getElementById('opts');
   opts.innerHTML = '';
   const keys = ['A','B','C','D'];
-  d.options.forEach((opt, i) => {
+  indexed.forEach(({ opt }, i) => {
     const btn = document.createElement('button');
     btn.className = 'opt';
     btn.innerHTML = `<span class="opt-key">${keys[i]}</span>${opt}`;
-    btn.onclick = () => answer(i, btn, d);
+    btn.onclick = () => answer(i, btn, shuffledCorrect, d);
     opts.appendChild(btn);
   });
 }
 
-function answer(idx, btn, d) {
+function answer(idx, btn, correctIdx, d) {
   if (answered) return; answered = true;
   const btns = document.querySelectorAll('.opt');
   btns.forEach((b, i) => {
-    if (i === d.correct) b.classList.add('correct');
+    if (i === correctIdx) b.classList.add('correct');
     else if (i === idx) b.classList.add('wrong');
     b.disabled = true;
   });
-  if (idx === d.correct) { correctCount++; }
+  if (idx === correctIdx) { correctCount++; }
   else { wrongIds.push(d._idx ?? d.id); }
   updateScoreChip();
   if (d.explanation) {
