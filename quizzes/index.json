@@ -1,12 +1,5 @@
 [
-  {
-    "id": "fotosyntesen",
-    "title": "Fotosyntesen",
-    "subject": "Biologi",
-    "description": "Flervalsfrågor om hur fotosyntesen fungerar",
-    "date": "2026-05-19",
-    "questionCount": 3
-  },
+  
   {
   "id": "islam",
   "title": "Islam åk 8",
@@ -30,5 +23,13 @@
   "description": "Nervsystemet, hjärnan, hormoner och hälsa",
   "date": "2026-05-20",
   "questionCount": 25
+},
+{
+  "id": "svenska_grammatik",
+  "title": "Ordklasser och satslära",
+  "subject": "Svenska",
+  "description": "Identifiera ordklasser och satsdelar",
+  "date": "2026-05-25",
+  "questionCount": 32
 }
 ]
