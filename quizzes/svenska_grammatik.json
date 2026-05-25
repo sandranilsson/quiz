@@ -1,0 +1,392 @@
+{
+  "title": "Svenska – ordklasser och satslära",
+  "subject": "Svenska",
+  "description": "Identifiera ordklasser och satsdelar, och förstå deras definitioner",
+  "generated": "2026-05-25",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Vad är ett substantiv?",
+      "options": [
+        "Ett ord som beskriver en handling eller ett tillstånd",
+        "Ett ord som betecknar en person, plats, ett ting eller ett ämne – t.ex. bil, kärlek, Stockholm",
+        "Ett ord som beskriver hur något görs",
+        "Ett ord som binder samman två meningar"
+      ],
+      "correct": 1,
+      "explanation": "Substantiv betecknar personer, platser, ting eller ämnen. Ett enkelt test: kan du sätta 'en', 'ett' eller 'flera' framför ordet? Då är det troligen ett substantiv. Exempel: en blomma, ett hus, flera tankar."
+    },
+    {
+      "id": 2,
+      "question": "Vilken ordklass tillhör ordet 'kärlek'?",
+      "options": [
+        "Verb",
+        "Adjektiv",
+        "Substantiv",
+        "Adverb"
+      ],
+      "correct": 2,
+      "explanation": "'Kärlek' är ett abstrakt substantiv – det betecknar ett ämne eller begrepp man inte kan ta på. Andra abstrakta substantiv: tanke, rädsla, glädje. Konkreta substantiv är saker man kan se och röra: stol, bil, blomma."
+    },
+    {
+      "id": 3,
+      "question": "Vad är ett verb?",
+      "options": [
+        "Ett ord som anger antal eller ordning",
+        "Ett ord som beskriver ett substantiv",
+        "Ett ord som uttrycker handlingar, tillstånd eller processer",
+        "Ett ord som visar förhållanden mellan saker, t.ex. 'på' eller 'under'"
+      ],
+      "correct": 2,
+      "explanation": "Verb uttrycker handlingar (springa, äta), tillstånd (sova, vara) och processer (växa, förändras). Verb böjs i tempus: presens (jag går), preteritum (jag gick), futurum (jag ska gå)."
+    },
+    {
+      "id": 4,
+      "question": "Vilket av dessa ord är ett verb i preteritum (dåtid)?",
+      "options": [
+        "springer",
+        "ska springa",
+        "sprang",
+        "springa"
+      ],
+      "correct": 2,
+      "explanation": "Preteritum är dåtidsform av ett verb – det som redan hänt. 'Sprang' är preteritum av 'springa'. Presens = springer (nu), preteritum = sprang (igår), futurum = ska springa (imorgon)."
+    },
+    {
+      "id": 5,
+      "question": "Vad är ett adjektiv?",
+      "options": [
+        "Ett ord som ersätter ett substantiv",
+        "Ett ord som beskriver ett substantiv eller ett pronomen",
+        "Ett ord som anger tid eller plats",
+        "Ett ord som binder samman satser"
+      ],
+      "correct": 1,
+      "explanation": "Adjektiv beskriver och ger mer information om ett substantiv eller pronomen. Exempel: en RÖD bil, ett STORT hus, flera GLADA barn. Adjektiv böjs efter ordet det beskriver och kan kompareras: snabb – snabbare – snabbast."
+    },
+    {
+      "id": 6,
+      "question": "I meningen 'Hon köpte en röd jacka' – vilken ordklass är 'röd'?",
+      "options": [
+        "Substantiv",
+        "Adverb",
+        "Adjektiv",
+        "Pronomen"
+      ],
+      "correct": 2,
+      "explanation": "'Röd' beskriver substantivet 'jacka' och är alltså ett adjektiv. Testet: adjektiv kan kompareras – röd, rödare, rödast. De böjs också efter genus: en röd jacka, ett rött hus."
+    },
+    {
+      "id": 7,
+      "question": "Vilket är komparativformen av adjektivet 'snabb'?",
+      "options": [
+        "snabbast",
+        "snabbare",
+        "snabbaste",
+        "mycket snabb"
+      ],
+      "correct": 1,
+      "explanation": "Adjektiv kompareras i tre steg: positiv (snabb), komparativ (snabbare) och superlativ (snabbast). Komparativ används när man jämför två saker: 'Den här bilen är snabbare än den andra.'"
+    },
+    {
+      "id": 8,
+      "question": "Vad är ett adverb?",
+      "options": [
+        "Ett ord som beskriver ett substantiv",
+        "Ett ord som anger antal",
+        "Ett ord som beskriver en handling eller ett tillstånd – svarar på frågor som Var? När? Hur?",
+        "Ett ord som visar vem som äger något"
+      ],
+      "correct": 2,
+      "explanation": "Adverb beskriver hur, när, var eller i vilken grad något sker. De fyra typerna: tid (nu, igår, snart), sätt (snabbt, försiktigt), plats (här, ute, där) och grad (mycket, ganska, lite). Skillnad mot adjektiv: adjektiv beskriver substantiv, adverb beskriver verb."
+    },
+    {
+      "id": 9,
+      "question": "I meningen 'Han sprang snabbt hem' – vilken ordklass är 'snabbt'?",
+      "options": [
+        "Adjektiv",
+        "Substantiv",
+        "Konjunktion",
+        "Adverb"
+      ],
+      "correct": 3,
+      "explanation": "'Snabbt' beskriver hur han sprang – det är ett adverb av typen sättsadverb (svarar på frågan Hur?). Notera: 'snabb' (utan -t) vore ett adjektiv som beskriver ett substantiv, t.ex. 'en snabb löpare'."
+    },
+    {
+      "id": 10,
+      "question": "Vad är ett pronomen och varför används det?",
+      "options": [
+        "Ett ord som anger ordning, t.ex. första, andra",
+        "Ett ord som används istället för ett namn på en person, sak, djur eller växt för att variera språket",
+        "Ett ord som beskriver förhållanden, t.ex. på, under, mellan",
+        "Ett ord som uttrycker en stark känsla"
+      ],
+      "correct": 1,
+      "explanation": "Pronomen ersätter substantiv för att undvika upprepning. Utan pronomen: 'Lisa gick till affären. Lisa köpte mjölk. Lisa kom hem.' Med pronomen: 'Lisa gick till affären. Hon köpte mjölk. Hon kom hem.' Mycket smidigare!"
+    },
+    {
+      "id": 11,
+      "question": "Vilket av dessa är ett possessivt pronomen?",
+      "options": [
+        "hon",
+        "de",
+        "hennes",
+        "vem"
+      ],
+      "correct": 2,
+      "explanation": "Possessiva pronomen visar ägande: min, din, hans, hennes, vår, er, deras. 'Hennes' visar att något tillhör henne. Personliga pronomen (jag, du, han, hon, vi, ni, de) ersätter bara namnet utan att visa ägande."
+    },
+    {
+      "id": 12,
+      "question": "Vad är en konjunktion?",
+      "options": [
+        "Ett ord som beskriver handlingen i en sats",
+        "Ett ord som binder samman ord eller satser och beskriver förhållandet mellan dem",
+        "Ett ord som visar var något befinner sig",
+        "Ett ord som anger hur många av något"
+      ],
+      "correct": 1,
+      "explanation": "Konjunktioner limmar ihop ord och satser: 'och' (adderar), 'men' (kontrast), 'eller' (alternativ), 'för' (orsak), 'medan' (samtidighet). Exempel: 'Jag ville gå ut MEN det regnade' – 'men' binder ihop och visar kontrast."
+    },
+    {
+      "id": 13,
+      "question": "I meningen 'Jag ville sova men jag var tvungen att stiga upp' – vilken ordklass är 'men'?",
+      "options": [
+        "Adverb",
+        "Preposition",
+        "Konjunktion",
+        "Interjektion"
+      ],
+      "correct": 2,
+      "explanation": "'Men' binder samman de två satserna och visar en kontrast mellan dem – det är en konjunktion. Andra konjunktioner: och, eller, fast, för, både...och, antingen...eller, medan."
+    },
+    {
+      "id": 14,
+      "question": "Vad är en preposition?",
+      "options": [
+        "Ett ord som uttrycker en känsla, t.ex. 'aj' eller 'oj'",
+        "Ett ord som beskriver förhållanden mellan personer, platser eller saker, t.ex. på, i, under, mellan",
+        "Ett ord som anger dåtid, nutid eller framtid",
+        "Ett ord som anger ordning, t.ex. första eller tredje"
+      ],
+      "correct": 1,
+      "explanation": "Prepositioner visar var, när eller hur något förhåller sig till något annat: boken ligger PÅ bordet, vi möts EFTER skolan, hon bor I Stockholm. Vanliga prepositioner: på, i, under, ovanför, mellan, utan, bakom, framför, vid."
+    },
+    {
+      "id": 15,
+      "question": "Vilken ordklass tillhör 'aj', 'oj' och 'hej'?",
+      "options": [
+        "Konjunktioner",
+        "Adverb",
+        "Prepositioner",
+        "Interjektioner"
+      ],
+      "correct": 3,
+      "explanation": "Interjektioner är utrop som uttrycker starka känslor, hälsningar eller reaktioner: aj (smärta), oj (förvåning), usch (äckel), hej (hälsning). De har ingen grammatisk funktion i satsen utan 'bara' uttrycker en känsla."
+    },
+    {
+      "id": 16,
+      "question": "Vad är skillnaden mellan grundtal och ordningstal?",
+      "options": [
+        "Grundtal anger hur stor något är, ordningstal anger hur snabbt det rör sig",
+        "Grundtal anger antal (ett, två, tre), ordningstal anger position i en serie (första, andra, tredje)",
+        "Grundtal används bara i matematik, ordningstal bara i svenska",
+        "Det är samma sak, bara olika namn"
+      ],
+      "correct": 1,
+      "explanation": "Grundtal svarar på frågan 'hur många?': ett, två, tio, hundra. Ordningstal svarar på 'vilken plats i ordningen?': första, andra, tionde, hundrade. Exempel: 'Tre barn' (grundtal) vs 'Det tredje barnet' (ordningstal)."
+    },
+    {
+      "id": 17,
+      "question": "Vad är ett subjekt i en sats?",
+      "options": [
+        "Det som beskriver var handlingen sker",
+        "Den som utför handlingen – svarar på frågan 'Vem gör något?'",
+        "Det som tar emot handlingen",
+        "Det som beskriver hur handlingen utförs"
+      ],
+      "correct": 1,
+      "explanation": "Subjektet är 'den som gör'. Knepet: ställ frågan 'Vem [predikat]?' till meningen. I 'Katten jagar musen' – vem jagar? Katten! Alltså är 'katten' subjekt. Subjektet kan vara en person, ett djur, en sak eller ett pronomen."
+    },
+    {
+      "id": 18,
+      "question": "I meningen 'Hunden skällde på brevbäraren' – vad är subjektet?",
+      "options": [
+        "skällde",
+        "brevbäraren",
+        "på",
+        "Hunden"
+      ],
+      "correct": 3,
+      "explanation": "Fråga: Vem skällde? → Hunden! Alltså är 'hunden' subjektet. 'Brevbäraren' är det indirekta objektet (den som utsätts). 'Skällde' är predikatet (handlingen). 'På' är en preposition."
+    },
+    {
+      "id": 19,
+      "question": "Vad är ett predikat?",
+      "options": [
+        "Den som utför handlingen i satsen",
+        "Det som handlingen riktas mot",
+        "Handlingen i satsen – beskriver vad subjektet gör eller är",
+        "En beskrivning av tid eller plats"
+      ],
+      "correct": 2,
+      "explanation": "Predikatet är 'det subjektet gör eller är'. Knepet: ställ frågan 'Vad gör/är [subjektet]?' I 'Lisa läser en bok' – vad gör Lisa? Läser! Alltså är 'läser' predikatet. Predikatet är alltid ett verb (eller verbfras)."
+    },
+    {
+      "id": 20,
+      "question": "I meningen 'De tre barnen lekte i parken' – vad är predikatet?",
+      "options": [
+        "De tre barnen",
+        "lekte",
+        "i parken",
+        "tre"
+      ],
+      "correct": 1,
+      "explanation": "Fråga: Vad gjorde barnen? → Lekte! Alltså är 'lekte' predikatet. 'De tre barnen' är subjektet, 'i parken' är ett rumsadverbial (var?)."
+    },
+    {
+      "id": 21,
+      "question": "Vad är ett direkt objekt (DO)?",
+      "options": [
+        "Den som utför handlingen",
+        "Det som utsätts för handlingen och påverkas direkt – svarar på frågan 'Vad?'",
+        "Mottagaren av något",
+        "En beskrivning av subjektet"
+      ],
+      "correct": 1,
+      "explanation": "Det direkta objektet är 'det som handlingen drabbar'. Knepet: fråga 'Vad [predikat] [subjektet]?' I 'Hon läser en tidning' – vad läser hon? En tidning! Alltså är 'en tidning' det direkta objektet."
+    },
+    {
+      "id": 22,
+      "question": "I meningen 'Farmor gav barnen en present' – vad är det direkta objektet (DO)?",
+      "options": [
+        "Farmor",
+        "gav",
+        "barnen",
+        "en present"
+      ],
+      "correct": 3,
+      "explanation": "Fråga: Vad gav farmor? → En present! Det är det direkta objektet. 'Barnen' är det indirekta objektet (mottagaren – till vem gav hon det?). 'Farmor' är subjektet och 'gav' är predikatet."
+    },
+    {
+      "id": 23,
+      "question": "Vad är ett indirekt objekt (IO)?",
+      "options": [
+        "Det som utför handlingen",
+        "Det som beskriver hur handlingen går till",
+        "Mottagaren av något – svarar på frågan 'Till/åt vem?'",
+        "En beskrivning av subjektet som står efter vara eller bli"
+      ],
+      "correct": 2,
+      "explanation": "Det indirekta objektet är mottagaren. Knepet: fråga 'Till/åt vem [predikat] [subjektet] [DO]?' I 'Jag gav honom boken' – åt vem gav jag boken? Honom! Alltså är 'honom' det indirekta objektet. IO kommer nästan alltid FÖRE DO i meningen."
+    },
+    {
+      "id": 24,
+      "question": "I meningen 'Läraren skickade eleverna ett meddelande' – vad är det indirekta objektet (IO)?",
+      "options": [
+        "Läraren",
+        "skickade",
+        "eleverna",
+        "ett meddelande"
+      ],
+      "correct": 2,
+      "explanation": "Fråga: Till vem skickade läraren meddelandet? → Eleverna! Det är det indirekta objektet (IO). 'Ett meddelande' är det direkta objektet (DO – vad skickades?). IO = mottagaren, DO = det som skickas/ges."
+    },
+    {
+      "id": 25,
+      "question": "Vad är en predikatsfyllnad (PF)?",
+      "options": [
+        "Det som handlingen riktas mot",
+        "En beskrivning av subjektet som står efter verb som vara, bli, heta eller kallas",
+        "Den som utför handlingen i en passiv sats",
+        "En tidsbestämning som anger när något sker"
+      ],
+      "correct": 1,
+      "explanation": "Predikatsfyllnaden beskriver vad subjektet ÄR eller BLIR. Den känns igen på att den kommer efter verb som vara, bli, heta, kallas. Exempel: Hon ÄR lärare (lärare = PF), Han BLEV glad (glad = PF), Jag HETER Hedda (Hedda = PF). Knepet: fråga 'Vad är/blir subjektet?'"
+    },
+    {
+      "id": 26,
+      "question": "I meningen 'Han blev väldigt trött efter matchen' – vad är predikatsfyllnaden (PF)?",
+      "options": [
+        "Han",
+        "blev",
+        "väldigt trött",
+        "efter matchen"
+      ],
+      "correct": 2,
+      "explanation": "Fråga: Vad blev han? → Väldigt trött! Det är predikatsfyllnaden – den beskriver subjektet 'han' och står efter verbet 'blev'. 'Efter matchen' är ett tidsadverbial (när?)."
+    },
+    {
+      "id": 27,
+      "question": "Vad är ett adverbial och vilka typer finns det?",
+      "options": [
+        "Adverbialet är handlingen i satsen och finns bara som tidsadverbial",
+        "Adverbialet bestämmer verbet och kan ange tid (när?), plats (var?), sätt (hur?) eller orsak (varför?)",
+        "Adverbialet är alltid ett pronomen och beskriver subjektet",
+        "Adverbialet är mottagaren av handlingen"
+      ],
+      "correct": 1,
+      "explanation": "Adverbial ger extra information om handlingen. Det finns tre huvudtyper: Rumsadverbial (RA) – Var? Vart? Varifrån? (Han bor I STOCKHOLM), Tidsadverbial (TA) – När? Hur länge? (De kommer SNART), Sättsadverbial (SA) – Hur? (Hon sjunger VACKERT)."
+    },
+    {
+      "id": 28,
+      "question": "I meningen 'Vi ses imorgon på biblioteket' – vilket ord är ett tidsadverbial?",
+      "options": [
+        "Vi",
+        "ses",
+        "imorgon",
+        "på biblioteket"
+      ],
+      "correct": 2,
+      "explanation": "'Imorgon' svarar på frågan När? – det är ett tidsadverbial (TA). 'På biblioteket' svarar på frågan Var? – det är ett rumsadverbial (RA). En mening kan alltså ha flera adverbial av olika typer."
+    },
+    {
+      "id": 29,
+      "question": "Vad är en agent (Ag) och i vilken typ av sats finns den?",
+      "options": [
+        "Agenten är subjektet i en aktiv sats och utför handlingen direkt",
+        "Agenten är den som utför handlingen i en passiv sats – svarar på frågan 'Av vem?' och är kopplad till 'av'",
+        "Agenten är mottagaren av handlingen och svarar på frågan 'Till vem?'",
+        "Agenten är en beskrivning av platsen där handlingen sker"
+      ],
+      "correct": 1,
+      "explanation": "I en passiv sats är subjektet den som utsätts, inte den som gör. Agenten är den egentliga utföraren och introduceras med 'av'. Aktiv: 'Anna läste boken' (Anna = subjekt). Passiv: 'Boken lästes av Anna' (boken = subjekt, Anna = agent). Fråga: Av vem lästes boken? → Av Anna."
+    },
+    {
+      "id": 30,
+      "question": "I meningen 'Köket städades av barnen' – vad är agenten?",
+      "options": [
+        "Köket",
+        "städades",
+        "av",
+        "barnen"
+      ],
+      "correct": 3,
+      "explanation": "Fråga: Av vem städades köket? → Av barnen! 'Barnen' är agenten – de är de egentliga utförarna, men i den passiva satsen är 'köket' subjektet (det som utsätts). Agenten är alltid kopplad till prepositionen 'av'."
+    },
+    {
+      "id": 31,
+      "question": "Vad är skillnaden mellan en huvudsats och en bisats?",
+      "options": [
+        "En huvudsats är alltid kortare än en bisats",
+        "En huvudsats kan stå ensam som en fullständig mening, en bisats kan inte det utan behöver en huvudsats",
+        "En bisats börjar alltid med ett verb, en huvudsats börjar alltid med ett substantiv",
+        "Det är samma sak – skillnaden är bara stilistisk"
+      ],
+      "correct": 1,
+      "explanation": "Huvudsats: kan stå för sig själv och ger full mening. 'Jag går hem.' ✓ Bisats: kan INTE stå ensam. 'eftersom jag är trött' – vad hände? Man undrar. Bisatser inleds ofta av ord som: eftersom, trots att, när, om, att, som, för att."
+    },
+    {
+      "id": 32,
+      "question": "Vilket av dessa är en bisats?",
+      "options": [
+        "Vi stannade ute.",
+        "Hunden sover.",
+        "trots att det var sent",
+        "Lisa läser en bok."
+      ],
+      "correct": 2,
+      "explanation": "'Trots att det var sent' kan inte stå ensam – man väntar på mer information. Det är en bisats. De tre andra alternativen är fullständiga meningar som kan stå för sig själva, alltså huvudsatser. Bisatser inleds ofta av subjunktioner som: trots att, eftersom, när, om, fast."
+    }
+  ]
+}
