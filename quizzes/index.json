@@ -1,5 +1,20 @@
 [
-  
+  {
+  "id": "geografi-endogena",
+  "title": "Endogena processer – jordens inre krafter",
+  "subject": "Geografi",
+  "description": "Jordens uppbyggnad, plattektonik, jordbävningar och vulkaner (Sol Nova Geografi 7, s. 49–65).",
+  "date": "2026-10-06",
+  "questionCount": 106
+},
+{
+  "id": "geografi-exogena",
+  "title": "Exogena processer – jordens yttre krafter",
+  "subject": "Geografi",
+  "description": "Vittring, erosion, floder, glaciärer, människans påverkan och det geologiska kretsloppet (Sol Nova Geografi 7, s. 68–81).",
+  "date": "2026-10-06",
+  "questionCount": 68
+}
   {
   "id": "islam",
   "title": "Islam åk 8",

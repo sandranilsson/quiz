@@ -1,0 +1,1280 @@
+{
+  "title": "Endogena processer – jordens inre krafter",
+  "subject": "Geografi",
+  "description": "Jordens uppbyggnad, plattektonik, jordbävningar och vulkaner (Sol Nova Geografi 7, s. 49–65).",
+  "generated": "2026-10-06",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Ungefär hur gammal är planeten jorden?",
+      "options": [
+        "Cirka 4,6 miljoner år",
+        "Cirka 4,6 miljarder år",
+        "Cirka 460 miljoner år",
+        "Cirka 46 miljarder år"
+      ],
+      "correct": 1,
+      "explanation": "Enligt läroboken (s. 50) bildades jorden för omkring 4,6 miljarder år sedan."
+    },
+    {
+      "id": 2,
+      "question": "Hur såg jorden ut i början, enligt läroboken?",
+      "options": [
+        "Ett hett stoftmoln som packades ihop till ett glödande klot",
+        "En färdig fast planet med hav, berg och kontinenter från början",
+        "Ett jättelikt havsområde som långsamt fylldes av vulkanisk aska",
+        "En stor isboll av frusna gaser som värmdes upp av solen"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 50) beskriver att jorden från början var ett hett stoftmoln som packades samman till ett glödande klot."
+    },
+    {
+      "id": 3,
+      "question": "Hur fick jorden sin hårda yta, jordskorpan?",
+      "options": [
+        "Meteoriter slog ihop stora stenar på ytan",
+        "Havsvattnet frös till is som blev till berg",
+        "Det glödande klotet svalnade långsamt så att ytan blev hård",
+        "Vulkaner täckte hela planeten med stelnad lava på några år"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 50): när det glödande klotet långsamt svalnade fick det en hård yta som kallas jordskorpan."
+    },
+    {
+      "id": 4,
+      "question": "Läroboken jämför jordskorpan med skalet på ett äpple. Vad vill man visa med jämförelsen?",
+      "options": [
+        "Att jordskorpan är röd och glansig som ett äpple",
+        "Att jordskorpan är lika tjock som hela manteln",
+        "Att jordskorpan är mycket tunn jämfört med hela jorden",
+        "Att jordskorpan är mjuk och går lätt att skära i"
+      ],
+      "correct": 2,
+      "explanation": "Äppelskalet är tunt jämfört med äpplet. På samma sätt är jordskorpan (5–70 km) tunn jämfört med jordens hela inre (läroboken s. 50 och 52)."
+    },
+    {
+      "id": 5,
+      "question": "Vilken ordning stämmer för jordens lager, från ytan och inåt?",
+      "options": [
+        "Jordskorpa – yttre kärna – mantel – inre kärna",
+        "Jordskorpa – mantel – yttre kärna – inre kärna",
+        "Mantel – jordskorpa – inre kärna – yttre kärna",
+        "Jordskorpa – mantel – inre kärna – yttre kärna"
+      ],
+      "correct": 1,
+      "explanation": "Bilden på s. 52 visar ordningen: jordskorpan ytterst, sedan manteln, sedan den yttre kärnan och innerst den inre kärnan."
+    },
+    {
+      "id": 6,
+      "question": "Hur djup är manteln?",
+      "options": [
+        "Upp till cirka 2 900 km",
+        "Upp till cirka 29 km",
+        "Upp till cirka 29 000 km",
+        "Upp till cirka 290 km"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 52): manteln sträcker sig ner till ungefär 2 900 km djup. Jordskorpan är bara 5–70 km tjock."
+    },
+    {
+      "id": 7,
+      "question": "Vad är litosfären?",
+      "options": [
+        "Det trögflytande lagret strax under jordskorpan",
+        "Jordskorpan tillsammans med mantelns yttre, hårda lager",
+        "Jordskorpan tillsammans med den yttre kärnan",
+        "Hela manteln från skorpan ner till kärnan"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 52): det yttersta lagret av manteln är hårt och bildar tillsammans med jordskorpan litosfären."
+    },
+    {
+      "id": 8,
+      "question": "Hur är astenosfären?",
+      "options": [
+        "Mjuk och trögflytande, med glödande bergmassa",
+        "Hård och stel, precis som jordskorpan ovanför",
+        "Fast och iskall, med lager av is",
+        "Helt flytande som vatten och mycket kall"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 52): under litosfären är manteln mjuk och trögflytande. Den delen kallas astenosfären och där finns magman."
+    },
+    {
+      "id": 9,
+      "question": "Vilken skillnad finns mellan litosfären och astenosfären?",
+      "options": [
+        "Litosfären är en del av kärnan, astenosfären är en del av jordskorpan",
+        "Båda är flytande men litosfären är kallare",
+        "Litosfären är hård och fast, astenosfären är mjuk och trögflytande",
+        "Litosfären är mjuk och trögflytande, astenosfären är hård och fast"
+      ],
+      "correct": 2,
+      "explanation": "Litosfären (skorpan + mantelns yttre del) är hård. Astenosfären ligger under och är mjuk och trögflytande (läroboken s. 52)."
+    },
+    {
+      "id": 10,
+      "question": "Vad består jordens kärna av?",
+      "options": [
+        "Främst kalksten och sand blandat med vatten",
+        "Främst granit som är hård och kall",
+        "Främst smält bly som cirkulerar långsamt",
+        "Främst järn, flytande i den yttre delen"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 52): kärnans yttre del består av hett flytande järn."
+    },
+    {
+      "id": 11,
+      "question": "Den inre kärnan är nära 6 000 °C, men antas ändå vara fast. Varför?",
+      "options": [
+        "Den är kyld av havsvattnet",
+        "Det enorma trycket gör att den håller sig fast",
+        "Den består av sten och inte av järn",
+        "Den ligger närmast jordytan där det är kallt"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 52): kärnans innersta del antas vara fast på grund av det höga trycket, trots temperaturen på nära 6 000 °C."
+    },
+    {
+      "id": 12,
+      "question": "Ungefär hur varm är jordens innersta kärna?",
+      "options": [
+        "Nära 6 000 °C",
+        "Nära 60 000 °C",
+        "Nära 600 °C",
+        "Nära 60 °C"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 52): kärnans innersta del har en temperatur på nära 6 000 °C."
+    },
+    {
+      "id": 13,
+      "question": "Hur vet forskarna något om hur det ser ut inuti jorden, fast ingen kan åka dit?",
+      "options": [
+        "De har borrat sig hela vägen ner till jordens kärna",
+        "De har skickat små robotar ner genom vulkanernas kratrar",
+        "De mäter hur vågor från jordbävningar och explosioner rör sig genom jorden",
+        "De har fotograferat kärnan med kraftiga satelliter från rymden"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 52): genom att mäta hur tryckvågor från explosioner och jordskalv rör sig har forskarna skapat en bild av jordens inre."
+    },
+    {
+      "id": 14,
+      "question": "Vad är magma?",
+      "options": [
+        "Glödande, smält bergmassa i jordens inre",
+        "Het aska som sprutas upp i luften",
+        "Flytande järn i den inre kärnan",
+        "Sten som har stelnat efter ett vulkanutbrott"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 52): i astenosfären finns den glödande bergmassa som kallas magma."
+    },
+    {
+      "id": 15,
+      "question": "Vad antas få magman i astenosfären att röra sig (cirkulera)?",
+      "options": [
+        "Månens dragningskraft på jorden",
+        "Strömmarna i havet ovanför",
+        "Hettan från den inre kärnan",
+        "Vindarna högt upp i atmosfären"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 52): man antar att magman cirkulerar i långsamma rörelser som drivs av hettan från jordens innersta kärna."
+    },
+    {
+      "id": 16,
+      "question": "Hur kan magma ta sig upp mot jordytan?",
+      "options": [
+        "Genom hål som människor har borrat",
+        "Genom att jordskorpan smälter helt",
+        "Genom att havet pressar upp den",
+        "Genom sprickor i jordskorpan"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 52): magman kan tränga upp genom sprickor i jordskorpan och bilda vulkaner eller lavafält."
+    },
+    {
+      "id": 17,
+      "question": "Hur har Island bildats?",
+      "options": [
+        "Ett stycke av Europa har lossnat och flutit iväg",
+        "Magma har trängt upp genom sprickor och stelnat",
+        "Inlandsisen har lämnat kvar stora högar av morän",
+        "Floder har fört dit sediment som byggt upp ön"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 52) nämner Island som exempel på land som byggts upp av magma som trängt upp genom sprickor och stelnat."
+    },
+    {
+      "id": 18,
+      "question": "Vad menas med endogena processer?",
+      "options": [
+        "Det människan gör när hon bygger städer och vägar",
+        "Jordens inre krafter som bygger upp, formar och förändrar jordskorpan",
+        "Krafter från vinden, vattnet och isen som bryter ner berg",
+        "Krafter som kommer från solen och månen"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 52): jordens inre krafter kallas med ett geografiskt begrepp endogena processer."
+    },
+    {
+      "id": 19,
+      "question": "Var har de endogena krafterna sitt ursprung?",
+      "options": [
+        "I solens strålning",
+        "I havsströmmarna",
+        "I vinden och vädret",
+        "I jordens heta inre"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 52): krafterna har sitt ursprung i jordens heta inre."
+    },
+    {
+      "id": 20,
+      "question": "Vilka två händelser är exempel på snabba och dramatiska förändringar som orsakas av de inre krafterna?",
+      "options": [
+        "Ras och laviner",
+        "Översvämningar och torka",
+        "Jordbävningar och vulkanutbrott",
+        "Frostsprängning och solsprängning"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 52): ibland sker förändringarna dramatiskt och snabbt, som vid jordbävningar eller vulkanutbrott. Frostsprängning, översvämningar och ras beror på yttre krafter."
+    },
+    {
+      "id": 21,
+      "question": "Vilka tre slags krafter gör att landskapet hela tiden förändras?",
+      "options": [
+        "Solens strålning, vindar och havsströmmar tillsammans",
+        "Vittring, erosion och sedimentering i en lång kedja",
+        "Inre krafter, yttre krafter och mänsklig verksamhet",
+        "Vulkaner, jordbävningar och tsunamier som följer varandra"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 50): de tre krafterna är naturens inre och yttre krafter samt mänskliga verksamheter."
+    },
+    {
+      "id": 22,
+      "question": "Vad är den viktigaste skillnaden mellan naturens krafter och människans verksamheter, enligt läroboken?",
+      "options": [
+        "Människans verksamheter kan vi påverka, men inte naturens krafter",
+        "Det finns ingen skillnad, båda kan vi styra",
+        "Naturens krafter kan vi styra, men inte människans verksamheter",
+        "Naturens krafter är nyare än människans påverkan"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 51): det finns en viktig skillnad – de mänskliga verksamheterna kan vi påverka, men inte naturens krafter."
+    },
+    {
+      "id": 23,
+      "question": "Hur samverkar de inre och yttre krafterna?",
+      "options": [
+        "De inre krafterna bygger upp landskapet och de yttre krafterna bryter ner det",
+        "Båda bygger bara upp landskapet",
+        "De arbetar aldrig på samma plats",
+        "De inre krafterna bryter ner landskapet och de yttre krafterna bygger upp det"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 51): jordytan byggs upp av inre krafter (t.ex. bergskedjeveckning och vulkanism) och nöts samtidigt ner av yttre krafter."
+    },
+    {
+      "id": 24,
+      "question": "Vad är kontinenter?",
+      "options": [
+        "Stora öar som bildats av vulkaner de senaste hundra åren",
+        "Lager av is som täcker stora delar av jordens yta",
+        "Hav som blivit instängda mellan höga bergskedjor",
+        "Stora landmassor som bildats när jordskorpan spruckit och rört sig"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 52): jordskorpan har under miljarder år spruckit sönder, rört sig och bildat stora landmassor – kontinenter."
+    },
+    {
+      "id": 25,
+      "question": "Varför tror forskare att Sydamerika och Afrika en gång suttit ihop?",
+      "options": [
+        "De är lika stora och har exakt samma klimat i dag",
+        "Man har hittat en gammal bro av sten mellan dem på havsbotten",
+        "Båda kontinenterna har exakt lika många vulkaner och floder",
+        "Kustlinjerna passar ihop som pusselbitar och berggrunden stämmer överens"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 53): Sydamerikas östkust och Afrikas västkust passar som pusselbitar, och studier av berggrunden har hjälpt forskarna att lägga pusslet."
+    },
+    {
+      "id": 26,
+      "question": "Vad var Pangea?",
+      "options": [
+        "Den allra första bergskedjan som bildades på jorden",
+        "En superkontinent där alla landmassor satt ihop",
+        "Det första havet som bildades när jorden svalnade",
+        "En jättelik ö i Stilla havet full av vulkaner"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 53): Pangea var en stor superkontinent där kontinenterna flutit ihop."
+    },
+    {
+      "id": 27,
+      "question": "Ordet Pangea kommer från grekiskan. Vad betyder det?",
+      "options": [
+        "Heta berg (pan = het, gea = berg)",
+        "Stort hav (pan = stor, gea = vatten)",
+        "Allt land (pan = allt, gea = land)",
+        "Ny jord (pan = ny, gea = jord)"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 53): pan = allt, gea = land."
+    },
+    {
+      "id": 28,
+      "question": "För ungefär hur länge sedan fanns Pangea som en enda stor kontinent?",
+      "options": [
+        "För cirka 225 tusen år sedan",
+        "För cirka 225 miljoner år sedan",
+        "För cirka 2,25 miljarder år sedan",
+        "För cirka 22 miljoner år sedan"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 53): för 225 miljoner år sedan hade kontinenterna flutit ihop till en enda kontinent, Pangea."
+    },
+    {
+      "id": 29,
+      "question": "Vad hände med Pangea?",
+      "options": [
+        "Den smälte av en jättelik vulkan och blev flytande",
+        "Den sjönk ner i havet och försvann under miljoner år",
+        "Den förvandlades till Antarktis och slutade röra sig",
+        "Den sprack upp i två delar, Laurasien och Gondwanaland"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 53): Pangea sprack upp i två delar, Laurasien och Gondwanaland, och sedan har litosfären spruckit upp i fler delar som bildat nya kontinenter."
+    },
+    {
+      "id": 30,
+      "question": "Vad menas med kontinentaldrift?",
+      "options": [
+        "Att havsströmmar för med sig stora isberg mot kusten",
+        "Att vulkaner flyttar sig längs med kusterna varje år",
+        "Att jordskorpan blir tunnare och tunnare med tiden",
+        "Att kontinenterna långsamt flyttar sig över jordytan"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 53–54): kontinenterna ändrar läge långsamt över tid, eftersom de sitter på litosfärplattor som rör sig."
+    },
+    {
+      "id": 31,
+      "question": "Vad heter teorin som förklarar hur jordens kontinenter rör sig i förhållande till varandra?",
+      "options": [
+        "Magmateorin",
+        "Erosionsteorin",
+        "Plattektonik",
+        "Tsunamiteorin"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 54): den teori som förklarar hur kontinenterna rör sig i förhållande till varandra kallas plattektonik."
+    },
+    {
+      "id": 32,
+      "question": "Vad är litosfärplattor?",
+      "options": [
+        "Bitar av jordens yttre kärna som lossnat och stelnat",
+        "Lager av tjock is som täcker stora delar av haven",
+        "Stora stenblock som ligger utspridda på havsbotten",
+        "Stora bitar av litosfären som flyter på astenosfären"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 54): jordskorpan är i dag sönderspruckad i sju stora och flera mindre plattor, litosfärplattor, som flyter omkring på astenosfären."
+    },
+    {
+      "id": 33,
+      "question": "Vad är det som bryter sönder jordskorpan och får litosfärplattorna att röra sig?",
+      "options": [
+        "Vindarna högt upp i atmosfären",
+        "De heta strömmarna i astenosfären",
+        "Flodernas och glaciärernas erosion",
+        "Månens dragningskraft på haven"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 54–55): det är de heta strömmarna i astenosfären som bryter sönder och förändrar jordskorpan och får plattorna att flyta omkring."
+    },
+    {
+      "id": 34,
+      "question": "Hur snabbt rör sig litosfärplattorna?",
+      "options": [
+        "Några kilometer per år",
+        "Några centimeter per år, ungefär lika fort som dina naglar växer",
+        "Några meter per sekund",
+        "Några meter per år, lika fort som en gående människa"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 54): plattorna rör sig med några centimeter per år, ungefär lika fort som dina naglar växer."
+    },
+    {
+      "id": 35,
+      "question": "Ungefär hur många stora litosfärplattor finns det?",
+      "options": [
+        "Ungefär 2–3 stora plattor",
+        "Ungefär 50–60 stora plattor",
+        "Ungefär 7–10 stora plattor",
+        "Ungefär 20–25 stora plattor"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 54) nämner sju stora plattor och flera mindre. Facit till instuderingsfrågorna anger 10. Båda ligger i spannet 7–10."
+    },
+    {
+      "id": 36,
+      "question": "Vad är det som skiljer en kontinentalplatta från en oceanplatta?",
+      "options": [
+        "Det finns ingen skillnad i tjocklek eller tyngd mellan dem",
+        "Kontinentalplattan består av vatten, oceanplattan består av sten",
+        "Kontinentalplattan är tunnare och tyngre, oceanplattan är tjockare och lättare",
+        "Kontinentalplattan är tjockare men lättare, oceanplattan är tunnare men tyngre"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 54): kontinentalplattor är 10–70 km tjocka, oceanplattor 5–10 km. Enligt facit har oceanplattor högre densitet, alltså är tyngre."
+    },
+    {
+      "id": 37,
+      "question": "Varför är det oftast oceanplattan som glider ner under kontinentalplattan när de krockar?",
+      "options": [
+        "Oceanplattan rör sig alltid snabbare",
+        "Oceanplattan är tjockare",
+        "Oceanplattan är tyngre (har högre densitet)",
+        "Kontinentalplattan är hårdare på ytan"
+      ],
+      "correct": 2,
+      "explanation": "Oceanplattor är tunna men har hög densitet, alltså väger de mer. Därför tvingas de ner under den lättare kontinentalplattan (facit, fråga 22 och 26)."
+    },
+    {
+      "id": 38,
+      "question": "Stillahavsplattan är ett exempel på en…",
+      "options": [
+        "Spridningszon, eftersom den är en lång spricka",
+        "Oceanplatta, eftersom den bara består av havsbotten",
+        "Kollisionszon, eftersom den är en bergskedja",
+        "Kontinentalplatta, eftersom den bär en hel kontinent"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 54): det finns plattor som bara består av oceanbotten, till exempel Stillahavsplattan. De kallas oceanplattor."
+    },
+    {
+      "id": 39,
+      "question": "Vad kallas ett område där två plattor glider isär från varandra?",
+      "options": [
+        "Djuphavsgrav",
+        "Veckad bergskedja",
+        "Kollisionszon",
+        "Spridningszon"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 55): där plattorna glider isär kallas områdena spridningszoner."
+    },
+    {
+      "id": 40,
+      "question": "Vad händer i en spridningszon i havet?",
+      "options": [
+        "Plattorna glider förbi varandra utan att något bildas",
+        "Magma tränger upp, stelnar och bildar ny jordskorpa",
+        "Den ena plattan sjunker ner och smälter i manteln",
+        "Plattorna pressas ihop och en bergskedja veckas upp"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 55): i gränsområdet tränger glödhet magma upp från manteln, stelnar och blir till ny jordskorpa."
+    },
+    {
+      "id": 41,
+      "question": "Vad är en mittoceanisk rygg?",
+      "options": [
+        "En djup ravin på havsbotten där plattorna krockat",
+        "En lång bergskedja på havsbotten längs en spridningszon",
+        "Ett område där två kontinentalplattor krockat",
+        "En rad vulkanöar som bildats av en het fläck"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 55): den stelnande magman bildar långa bergskedjor längs sprickorna på havsbotten, till exempel Mittatlantiska ryggen."
+    },
+    {
+      "id": 42,
+      "question": "Varför kallas mittoceaniska ryggar för 'födelseplatser' för ny berggrund?",
+      "options": [
+        "Där tränger magma upp och stelnar, så ny skorpa bildas hela tiden",
+        "Där samlas allt sediment som floderna för med sig",
+        "Där slår meteoriter ner och skapar nya sorters bergarter",
+        "Där sjunker gammal berggrund ner och bildar ny skorpa"
+      ],
+      "correct": 0,
+      "explanation": "Vid spridningszoner bildas hela tiden ny berggrund av stelnad magma (läroboken s. 55). Därför finns jordens yngsta berggrund där."
+    },
+    {
+      "id": 43,
+      "question": "Island och Azorerna ligger på Mittatlantiska ryggen. Hur har de bildats?",
+      "options": [
+        "De är bitar som lossnat från Europa och flutit ut i havet",
+        "De har byggts upp av sediment som floder lämnat kvar",
+        "De har skapats av inlandsisens tryck och slipning",
+        "Bergskedjan på havsbotten når upp över havsytan på vissa ställen"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 55): på vissa ställen når bergskedjan upp ovanför havsytan och bildar öar. Island och Azorerna är exempel."
+    },
+    {
+      "id": 44,
+      "question": "Vad är Riftdalen i östra Afrika?",
+      "options": [
+        "En mittoceanisk rygg som ligger på havsbotten",
+        "En spridningszon inom en kontinent där Afrika sakta glider isär",
+        "En kollisionszon där två kontinenter sakta pressas ihop",
+        "En ravin som en flod har skurit ut genom tusentals år"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 55): Riftdalen är en spridningszon där den afrikanska kontinentalplattan glider isär, och i en avlägsen framtid kommer ett nytt hav att bildas."
+    },
+    {
+      "id": 45,
+      "question": "Vad bildas när två kontinentalplattor glider isär?",
+      "options": [
+        "En stor och djup dalgång (ravin)",
+        "En veckad bergskedja",
+        "En sköldvulkan som sprutar lava i hundratals år",
+        "En djuphavsgrav"
+      ],
+      "correct": 0,
+      "explanation": "Enligt facit bildas en stor och djup ravin när två kontinentalplattor separeras. Riftdalen i Afrika är ett exempel (läroboken s. 55)."
+    },
+    {
+      "id": 46,
+      "question": "Vad kallas ett område där två plattor stöter emot varandra?",
+      "options": [
+        "Kollisionszon",
+        "Mittoceanisk rygg",
+        "Spridningszon",
+        "Hotspot"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 55): områden där plattorna stöter emot varandra kallas kollisionszoner."
+    },
+    {
+      "id": 47,
+      "question": "Vad händer när en oceanplatta krockar med en kontinentalplatta?",
+      "options": [
+        "Plattorna glider förbi varandra och en förkastning bildas",
+        "Kontinentalplattan glider ner under oceanplattan och en rift bildas",
+        "Båda plattorna skrynklas ihop och veckas upp till en bergskedja",
+        "Oceanplattan glider ner under kontinentalplattan och en djuphavsgrav bildas"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 55–56): där en oceanplatta krockar med en kontinent glider oceanplattan ned under kontinentalplattan och en djuphavsgrav bildas."
+    },
+    {
+      "id": 48,
+      "question": "Varför bildas ofta vulkaner på land där en oceanplatta glider ner under en kontinentalplatta?",
+      "options": [
+        "Oceanplattan smälter i hettan och bildar ny magma som trycks upp",
+        "Havsvatten rinner ner i marken och exploderar av trycket",
+        "Kontinentalplattan spricker av kyla och släpper ut gas",
+        "Oceanplattan skjuts upp ovanpå kontinenten och spricker"
+      ],
+      "correct": 0,
+      "explanation": "Enligt facit tvingas oceanplattan ner i astenosfären, smälter och bildar ny magma som trängs upp. Därför får man vulkaner och bergskedjor vid kusten."
+    },
+    {
+      "id": 49,
+      "question": "Vilket exempel på en djuphavsgrav nämns i läroboken?",
+      "options": [
+        "Den längs Afrikas östkust, cirka 40 mil lång",
+        "Den utanför Australiens sydkust, cirka 40 mil lång",
+        "Den längs Sydamerikas västkust, cirka 400 mil lång",
+        "Den mellan Island och Grönland, cirka 400 mil lång"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 56): en djuphavsgrav löper fyrahundra mil längs med Sydamerikas västkust."
+    },
+    {
+      "id": 50,
+      "question": "Vad händer när två kontinentalplattor krockar?",
+      "options": [
+        "Plattorna skrynklas ihop och en veckad bergskedja bildas",
+        "Den ena plattan sjunker ner och en djuphavsgrav bildas",
+        "En ny mittoceanisk rygg bildas mitt emellan dem",
+        "Plattorna glider förbi varandra utan att något bildas"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 56): där två kontinentalplattor krockar skrynklas plattorna ihop, pressas uppåt och bildar en veckad bergskedja."
+    },
+    {
+      "id": 51,
+      "question": "Varför sjunker ingen av plattorna ner när två kontinentalplattor krockar?",
+      "options": [
+        "Båda är tunna och tunga, så de fastnar i varandra",
+        "Båda är tjocka och lätta, så de veckas upp i stället",
+        "Det finns ingen magma under dem som kan driva dem",
+        "De rör sig för långsamt för att kunna krocka alls"
+      ],
+      "correct": 1,
+      "explanation": "Facit (fråga 26): ingen platta tvingar sig under den andra utan båda vecklas upp. Kontinentalplattor är tjocka och har lägre densitet."
+    },
+    {
+      "id": 52,
+      "question": "Vilket påstående om Alperna och Himalaya stämmer?",
+      "options": [
+        "De är mittoceaniska ryggar som har stigit upp ur havet",
+        "De är vulkaner som bildats vid heta fläckar i manteln",
+        "De är unga veckberg där två kontinentalplattor krockat",
+        "De är gamla bergskedjor som slipats fram av inlandsisen"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 56): Alperna och Himalaya är två exempel på unga (60 miljoner år), höga veckberg som bildats där två plattor krockat."
+    },
+    {
+      "id": 53,
+      "question": "Vad är en veckad bergskedja?",
+      "options": [
+        "En bergskedja som glaciärer slipat fram i dalarna",
+        "En bergskedja som pressats upp när plattor skrynklats ihop",
+        "En bergskedja på havsbotten som bildas vid en spridningszon",
+        "En bergskedja som bildats av lava som stelnat upprepade gånger"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 56): när kontinentalplattor skrynklas ihop pressas de uppåt och bildar en veckad bergskedja."
+    },
+    {
+      "id": 54,
+      "question": "Vad händer vid San Andreas-förkastningen i Kalifornien?",
+      "options": [
+        "Två kontinentalplattor pressas ihop till en bergskedja",
+        "Två plattor glider isär och magma tränger upp",
+        "En oceanplatta glider ner under en kontinentalplatta",
+        "Två plattor glider förbi varandra i sidled, i motsatta riktningar"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 56): San Andreas-förkastningen är gränsen mellan två litosfärplattor som sakta glider i sidled utmed varandra."
+    },
+    {
+      "id": 55,
+      "question": "Varför är jordbävningar vanliga längs San Andreas-förkastningen?",
+      "options": [
+        "Där försvinner jordskorpan ner i manteln och smälter helt",
+        "Där ligger det många aktiva vulkaner som skakar marken",
+        "Spänningar byggs upp när plattorna fastnar, och släpper plötsligt",
+        "Där tränger lava upp ur marken och exploderar i luften"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 56 och 57): spänningar mellan plattorna orsakar återkommande jordbävningar i området."
+    },
+    {
+      "id": 56,
+      "question": "En bild visar två plattor som rör sig bort från varandra mitt ute i havet och ny havsbotten bildas i mitten. Vilken plattgräns visar bilden?",
+      "options": [
+        "En hotspot",
+        "En kollisionszon",
+        "San Andreas-typen, där plattor glider förbi varandra",
+        "En spridningszon"
+      ],
+      "correct": 3,
+      "explanation": "Pilar som pekar bort från varandra och ny jordskorpa i mitten är kännetecken på en spridningszon (läroboken s. 55)."
+    },
+    {
+      "id": 57,
+      "question": "En bild visar två plattor med pilar som pekar mot varandra. Den ena plattan, en oceanplatta, böjer ner under den andra. Vad visar bilden?",
+      "options": [
+        "En plattgräns där plattorna glider förbi varandra",
+        "En spridningszon",
+        "En hotspot",
+        "En kollisionszon med subduktion (en djuphavsgrav bildas)"
+      ],
+      "correct": 3,
+      "explanation": "Pilar mot varandra och en platta som dras ner är kännetecken på en kollisionszon (läroboken s. 55–56)."
+    },
+    {
+      "id": 58,
+      "question": "Vilka bevis har vi för att kontinenterna rör sig?",
+      "options": [
+        "Haven blir saltare ju längre från kusterna man kommer",
+        "Samma fossil finns på kontinenter som ligger långt isär i dag",
+        "Alla vulkaner ligger mitt på de stora kontinenterna i dag",
+        "Floderna rinner alltid åt samma håll sedan jorden bildades"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 80) nämner rester av samma berggrund i Skanderna, Appalacherna, Skottland och Grönland. Facit nämner fossil, satellitbilder och ny berggrund vid mittoceaniska ryggar."
+    },
+    {
+      "id": 59,
+      "question": "Skanderna (på gränsen mellan Sverige och Norge) och Appalacherna i USA har rester av samma berggrund. Hur kan man förklara det?",
+      "options": [
+        "De bildades när två plattor krockade och har sedan glidit isär",
+        "Inlandsisen släpade stenarna med sig över hela Atlanten",
+        "Det är en slump, berggrunden är lika av en ren tillfällighet",
+        "En jättelik flod har fört stenarna över havet för länge sedan"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 80): Skanderna bildades för cirka 400 miljoner år sedan när plattorna krockade. Sedan dess har de glidit isär och Atlanten har bildats."
+    },
+    {
+      "id": 60,
+      "question": "Hur uppstår en jordbävning?",
+      "options": [
+        "Magma kyls snabbt och drar ihop sig så att marken spricker upp",
+        "Havsvatten rinner ner i jordskorpan och värms upp till ånga",
+        "Plattkanter hakar fast, spänning byggs upp och släpper plötsligt",
+        "Stora meteoriter slår ner i jordskorpan och skakar marken"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 57): vid plattgränser byggs spänningar upp där plattorna fastnat. Plötsligt kan kanterna glida flera meter och jordytan skakar."
+    },
+    {
+      "id": 61,
+      "question": "Varför kan en stor jordbävning komma plötsligt efter många år av lugn?",
+      "options": [
+        "Jordens kärna har plötsligt blivit varmare",
+        "Under alla de åren har spänningen och energin byggts upp medan plattorna suttit fast",
+        "Magman har kylts ner och stelnat",
+        "Plattorna har stått stilla och sedan börjat röra sig för första gången"
+      ],
+      "correct": 1,
+      "explanation": "Facit (fråga 30): när plattorna fastnar sparas energin i många år, och när de släpper rör de sig mer än vanligt – det skapar vibrationerna."
+    },
+    {
+      "id": 62,
+      "question": "Var på jorden inträffar de flesta jordbävningar?",
+      "options": [
+        "Mitt på kontinentalplattorna",
+        "Bara i öknar",
+        "Bara nära ekvatorn",
+        "Nära plattgränser"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 54 och 60) visar att jordbävningar och vulkaner främst finns i gränsområdena mellan plattor. Facit: risken är störst nära plattgränser."
+    },
+    {
+      "id": 63,
+      "question": "Vad är efterskalv?",
+      "options": [
+        "Mindre jordbävningar som kommer efter en stor jordbävning",
+        "En vulkan som får ett utbrott efter en jordbävning",
+        "Ett instrument som mäter jordbävningar",
+        "En tsunamivåg som kommer efter en jordbävning"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 57): en stor jordbävning följs ofta av flera mindre, så kallade efterskalv."
+    },
+    {
+      "id": 64,
+      "question": "Vad är en seismograf?",
+      "options": [
+        "En skala från 1 till 10 som visar hur kraftig en jordbävning är",
+        "Ett varningssystem som varnar för tsunamis vid kusten",
+        "En karta som visar alla plattgränser, vulkaner och hav",
+        "Ett mätinstrument som registrerar jordbävningar och hur kraftiga de är"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 57): seismografen är ett känsligt instrument som är fast förankrat i berggrunden och registrerar och mäter jordbävningar."
+    },
+    {
+      "id": 65,
+      "question": "Vad mäter Richterskalan?",
+      "options": [
+        "Hur djupt ner i jorden en vulkan når",
+        "Hur högt en tsunamivåg blir",
+        "Hur stark (kraftig) en jordbävning är",
+        "Hur många människor som drabbas"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 57): jordbävningens styrka mäts på den så kallade Richterskalan."
+    },
+    {
+      "id": 66,
+      "question": "Richterskalan är logaritmisk. Hur mycket mer energi frigör en jordbävning på 6 jämfört med en på 5?",
+      "options": [
+        "Ungefär 6 gånger mer energi",
+        "Ungefär 2 gånger mer energi",
+        "Ungefär 10 gånger mer energi",
+        "Ungefär 32 gånger mer energi"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 57): varje steg på Richterskalan innebär att jordbävningen är 32 gånger kraftigare."
+    },
+    {
+      "id": 67,
+      "question": "Hur kan man se på Richterskalan att jordbävningen i Chile 1960 (9,5) var mycket kraftigare än jordbävningen i Haiti 2010 (7,8)?",
+      "options": [
+        "Chile ligger närmare ekvatorn än Haiti, så skalvet blev större",
+        "Skalan är jämn, så 9,5 är bara en aning starkare än 7,8",
+        "Man mäter bara hur många hus som rasar, och det var fler i Chile",
+        "Skalan är logaritmisk, så små skillnader i tal ger enorma skillnader i energi"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 57 och 61): Richterskalan är logaritmisk, varje steg är 32 gånger kraftigare. Chile 1960 är den kraftigaste som uppmätts (9,5)."
+    },
+    {
+      "id": 68,
+      "question": "Vad kan en jordbävning orsaka på land?",
+      "options": [
+        "Marken kan spricka och hus och byggnader kan rasa samman",
+        "Nya hav bildas på bara en enda dag längs kusten",
+        "Floder byter riktning över hela kontinenter på en dag",
+        "Vulkaner slocknar och bryter aldrig mer ut i närheten"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 57): i värsta fall rasar hus samman och marken spricker. Facit: omskakningar som förstör infrastruktur."
+    },
+    {
+      "id": 69,
+      "question": "Hur kan en tsunami uppstå?",
+      "options": [
+        "Kraftiga vindar vid kusten pressar ihop vattnet till en våg",
+        "Månen drar upp vattnet mot kusten under en stormflod",
+        "En vulkan på land rinner ut i havet och trycker undan vattnet",
+        "En jordbävning under havet frigör energi som skapar en jättevåg"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 57): om jordbävningen sker under havsbotten kan den frigjorda energin utlösa en tsunami, en kraftig havsvåg."
+    },
+    {
+      "id": 70,
+      "question": "Vad händer med en tsunamivåg när den kommer in på grunt vatten nära kusten?",
+      "options": [
+        "Den blir lägre och försvinner",
+        "Den växer i höjd",
+        "Den förvandlas till is",
+        "Den delar sig i tusen små vågor"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 57): tsunamin är en havsvåg som växer i höjden när den kommer in på grunt vatten längs en kust."
+    },
+    {
+      "id": 71,
+      "question": "Vilken konsekvens är typisk för en jordbävning i havet, men inte för en på land?",
+      "options": [
+        "Att marken skakar",
+        "Att byggnader skadas",
+        "Efterskalv",
+        "Tsunami"
+      ],
+      "correct": 3,
+      "explanation": "Facit (fråga 31): i hav kan jordbävningar leda till tsunamis, medan jordbävningar på land framför allt skakar och förstör infrastruktur."
+    },
+    {
+      "id": 72,
+      "question": "I Chile 1960 omkom cirka 6 000 människor. Vad orsakade de flesta dödsfallen?",
+      "options": [
+        "Tsunamin som nådde kusten efter jordbävningen",
+        "Vulkanutbrott i Anderna som kom efter jordbävningen",
+        "Lavaströmmar som rann ner från bergen efter skalvet",
+        "Ett askmoln som täckte himlen efter jordbävningen"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 61): de flesta dödsoffren krävdes när den efterföljande tsunamin nådde kusten."
+    },
+    {
+      "id": 73,
+      "question": "Vad hände i Japan 2011 (magnitud 9,1)?",
+      "options": [
+        "En sköldvulkan rann över byarna och förstörde hela kusten",
+        "Ett stort utbrott på Fuji täckte Tokyo med aska i flera veckor",
+        "Två kontinentalplattor krockade och Himalaya växte på en natt",
+        "Jordbävning och tsunami när Stillahavsplattan gled in under en annan platta"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 61): delar av Stillahavsplattan gled in under den nordamerikanska plattan, vilket orsakade jordbävningen och tsunamin."
+    },
+    {
+      "id": 74,
+      "question": "Hur många jordbävningar registreras ungefär varje år, och hur många av dem märks av människor?",
+      "options": [
+        "Omkring en halv miljon, men de allra flesta märks inte",
+        "Omkring en halv miljon, och alla förstör hus och vägar",
+        "Omkring tio per år, och alla orsakar jättelika tsunamis",
+        "Omkring hundra per år, och alla märks tydligt av människor"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 57): varje år registreras omkring en halv miljon jordbävningar, men bara ett tusental är så kraftiga att de drabbar människor."
+    },
+    {
+      "id": 75,
+      "question": "Tokyo och Los Angeles är exempel på…",
+      "options": [
+        "Stora städer som ligger i områden som riskerar att drabbas av jordbävningar",
+        "Städer som ligger mitt på en kontinentalplatta där det aldrig skakar",
+        "Städer som förstörts av en tsunami för tio år sedan",
+        "Städer som byggts på en sköldvulkan"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 57): många av jordens största städer ligger i områden som riskerar att drabbas av jordbävningar, till exempel Tokyo och Los Angeles."
+    },
+    {
+      "id": 76,
+      "question": "Kan forskare förutsäga exakt när en stor jordbävning ska komma?",
+      "options": [
+        "Ja, men bara när jordbävningen sker ute i havet långt från land",
+        "Nej, för jordbävningar har inget med plattornas rörelser att göra",
+        "Nej, små rörelser föregår ofta stora skalv men metoderna är osäkra",
+        "Ja, forskarna kan förutsäga både exakt tid och exakt plats"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 62): det är svårt att göra exakta förutsägelser. Seismologer analyserar vibrationer, men än finns inget helt säkert sätt."
+    },
+    {
+      "id": 77,
+      "question": "Vad är en sårbar plats?",
+      "options": [
+        "En plats där det aldrig inträffar några naturkatastrofer alls",
+        "En plats där naturkatastrofer kan orsaka stora skador för dem som bor där",
+        "En plats där det inte bor några människor eftersom det är för farligt",
+        "En plats som ligger långt från alla plattgränser och vulkaner"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 64): en sårbar plats är en plats där naturkatastrofer kan orsaka stora skador och allvarliga konsekvenser för befolkningen."
+    },
+    {
+      "id": 78,
+      "question": "Varför drabbas människor i låginkomstländer ofta hårdare av jordbävningar än i höginkomstländer?",
+      "options": [
+        "Det finns inga seismografer eller kartor i låginkomstländer",
+        "Det finns färre resurser till jordbävningssäkra hus, varning och räddning",
+        "Plattorna rör sig snabbare under låginkomstländer än under rika länder",
+        "Jordbävningarna är i sig kraftigare i fattiga länder än i rika"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 64): i låginkomstländer är många hus inte byggda för att klara jordbävningar och det är svårare att få räddningsinsatser att fungera."
+    },
+    {
+      "id": 79,
+      "question": "Hur går ett vulkanutbrott till?",
+      "options": [
+        "Havsvatten rinner ner i vulkanen och förångas till stora moln",
+        "Lava som svalnat spricker och faller ner i kratern och exploderar",
+        "Vulkanen suger in luft och blåser ut den som aska och rök",
+        "Trycket i jordens inre blir för högt, så gaser, aska och magma släpps ut"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 58): vulkaner fungerar som ventiler som öppnas och släpper ut gaser, aska och magma när trycket från jordens heta inre blir för högt."
+    },
+    {
+      "id": 80,
+      "question": "Vad menas med att vulkaner fungerar som 'ventiler' för jordens heta inre?",
+      "options": [
+        "De släpper ut gaser, aska och magma så att trycket minskar",
+        "De blåser in kall luft i jordens inre för att kyla det",
+        "De mäter temperaturen i manteln och varnar för utbrott",
+        "De suger in vatten från haven för att kyla manteln"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 58): vulkanerna öppnas och släpper ut gaser, aska och magma när trycket blir för högt."
+    },
+    {
+      "id": 81,
+      "question": "Vad är skillnaden mellan magma och lava?",
+      "options": [
+        "Magma finns under jordytan, och när den kommit upp kallas den lava",
+        "Magma är lava som stelnat på havsbotten och blivit till berg",
+        "Magma finns bara i sköldvulkaner och lava bara i stratovulkaner",
+        "Magma är kall och fast medan lava är het och flytande"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 58): magma som sprids på jordytan kallas lava, och när den stelnar bildas lavabergarter."
+    },
+    {
+      "id": 82,
+      "question": "Vad kallas öppningen längst upp på en vulkan där lavan sprutar ut?",
+      "options": [
+        "Rift",
+        "Krater",
+        "Magmakammare",
+        "Spridningszon"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 58): den lava som sprutar ut ur vulkanens krater, öppning, har samlats under vulkanen."
+    },
+    {
+      "id": 83,
+      "question": "Vad kallas den plats under en vulkan där magman samlas?",
+      "options": [
+        "Magmakammare",
+        "Astenosfär",
+        "Delta",
+        "Krater"
+      ],
+      "correct": 0,
+      "explanation": "Facit (fråga 36): kratern är öppningen, och magmakammaren är där magman samlas under vulkanen."
+    },
+    {
+      "id": 84,
+      "question": "Vilka två bergarter bildas när lava stelnar?",
+      "options": [
+        "Basalt och pimpsten",
+        "Sand och lera",
+        "Morän och grus",
+        "Kalksten och sandsten"
+      ],
+      "correct": 0,
+      "explanation": "Facit (fråga 39): basalt och pimpsten är exempel på bergarter från stelnad lava. Läroboken (s. 58) kallar dem lavabergarter."
+    },
+    {
+      "id": 85,
+      "question": "Vad kännetecknar en stratovulkan?",
+      "options": [
+        "Lättflytande lava som sprider sig över stora områden i en låg kulle",
+        "En vulkan som bara finns på havsbotten och aldrig syns",
+        "Trögflytande lava, branta toppiga berg och plötsliga, våldsamma utbrott",
+        "Lava som aldrig stelnar utan rinner ända ner till havet"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 58): om lavan är trögflytande och stelnar bildas ett konformat berg med branta sidor. Stratovulkaner har få plötsliga och våldsamma utbrott."
+    },
+    {
+      "id": 86,
+      "question": "Vad kännetecknar en sköldvulkan?",
+      "options": [
+        "Lättflytande lava som sprider sig och bildar en låg kulle med mildare utbrott",
+        "En krater som alltid är fylld med vatten och aldrig bryter ut",
+        "Enbart aska och gas som sprutar upp utan att någon lava bildas",
+        "Trögflytande lava som bygger upp ett högt, spetsigt berg med våldsamma utbrott"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 58): vid lättflytande lava flyter lavan ut över ett större område och bildar en kulle istället för ett högt berg. Utbrotten är oftast inte lika kraftfulla."
+    },
+    {
+      "id": 87,
+      "question": "Varför blir en stratovulkan så brant och toppig?",
+      "options": [
+        "Vulkanen suger in sten från omgivningen",
+        "Lavan rinner långt bort och stelnar där",
+        "Lavan är trögflytande och stelnar nära kratern",
+        "Lavan är så het att den flyter uppåt"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 58): när lavan är trögflytande och stelnar bildas ett konformat berg med branta sidor."
+    },
+    {
+      "id": 88,
+      "question": "En vulkan är bred och låg med många kratrar, och lavan rinner ut som slem. Vilken typ är det mest troligt?",
+      "options": [
+        "Veckad bergskedja",
+        "Sköldvulkan",
+        "Stratovulkan",
+        "Hotspot"
+      ],
+      "correct": 1,
+      "explanation": "Facit (fråga 41): sköldvulkaner är plattare, har många kratrar och lavan lägger sig som slem över ett stort område."
+    },
+    {
+      "id": 89,
+      "question": "Vilket par är båda stratovulkaner?",
+      "options": [
+        "Mauna Loa och Fuji",
+        "Mauna Loa och Piton de la Fournaise",
+        "Etna och Piton de la Fournaise",
+        "Fuji och Etna"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 58): Fuji, Etna och Kilimanjaro är stratovulkaner. Mauna Loa och Piton de la Fournaise är sköldvulkaner."
+    },
+    {
+      "id": 90,
+      "question": "Varför bor så många människor nära aktiva vulkaner, fast det är farligt?",
+      "options": [
+        "Vulkaner gör att klimatet blir svalt och behagligt",
+        "Askan gör jorden bördig, och utbrott sker sällan",
+        "Vulkanerna värmer husen så att man slipper elräkningar",
+        "Det är förbjudet att flytta därifrån enligt lagen"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 59): riskerna avskräcker inte eftersom askan bildar jordar som är lätta att odla och ger stora skördar. Utbrotten sker sällan."
+    },
+    {
+      "id": 91,
+      "question": "Java i Indonesien är ett exempel på hur vulkaner påverkar människor. Vad stämmer?",
+      "options": [
+        "Ön är obebodd eftersom vulkanerna har gjort jorden giftig",
+        "Ön har inga vulkaner men är bördig tack vare flodernas sediment",
+        "Ön är täckt av en inlandsis och har bara få invånare",
+        "Ön har många vulkaner och bördig jord, så den kan försörja 150 miljoner"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 59): Java har många aktiva vulkaner och är världens folkrikaste ö. Den bördiga jorden gör att ön kan försörja 150 miljoner människor."
+    },
+    {
+      "id": 92,
+      "question": "Hur kan ett kraftigt vulkanutbrott påverka jordens temperatur?",
+      "options": [
+        "Temperaturen påverkas inte alls, utbrotten är för små",
+        "Lavan värmer haven över hela jorden så att isen smälter",
+        "Askan värmer jorden som en filt så att temperaturen stiger",
+        "Aska och svavelmoln hindrar solstrålarna, så temperaturen sjunker en tid"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 59): stoft, aska och svavelmoln hindrar solstrålarna, och medeltemperaturen sjunker under några år."
+    },
+    {
+      "id": 93,
+      "question": "Vulkanen Pinatubo fick utbrott 1991. Vad hände med jordens temperatur?",
+      "options": [
+        "Medeltemperaturen sjönk med cirka 0,5 grader",
+        "Medeltemperaturen steg med cirka 5 grader",
+        "Medeltemperaturen sjönk med cirka 15 grader",
+        "Medeltemperaturen var oförändrad under åren efter"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 59): efter utbrottet på Filippinerna sjönk jordens medeltemperatur med 0,5 grader under åren 1991–1992."
+    },
+    {
+      "id": 94,
+      "question": "Varför kallas 1816 för 'året utan sommar'?",
+      "options": [
+        "Efter Tambora-utbrottet 1815 blockerade aska och svavelmoln solstrålarna",
+        "Jordens bana ändrades så att den kom längre från solen under ett år",
+        "En ny istid inleddes och varade i flera hundra år",
+        "Solen slocknade och tändes igen efter några månader"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 61): Tambora 1815 spred stoft och svavelmoln i atmosfären som hindrade solstrålarna från att värma jorden."
+    },
+    {
+      "id": 95,
+      "question": "Vilken del av ett vulkanutbrott är farligast för människor, enligt facit?",
+      "options": [
+        "Lava som stelnar",
+        "Kratern som öppnas",
+        "Askröken (askmolnet)",
+        "Berget som skakar"
+      ],
+      "correct": 2,
+      "explanation": "Facit (fråga 44): askrök är farligast för människor, likt en brand där röken är farligare än själva lågorna."
+    },
+    {
+      "id": 96,
+      "question": "Vad hände efter vulkanutbrottet vid Eyjafjallajökull på Island 2010?",
+      "options": [
+        "Alla vulkaner i Europa slocknade samtidigt av trycket",
+        "Lavaströmmar täckte flygplatserna i södra Europa i flera veckor",
+        "Askan kunde skada flygplansmotorer, så tusentals flygningar ställdes in",
+        "Tsunamivågor översvämmade Islands kust och flygplatserna"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 61): askan kunde skada flygplansmotorer och tusentals flygningar i hela Europa ställdes in."
+    },
+    {
+      "id": 97,
+      "question": "Hur bildades ön Surtsey vid Island 1963?",
+      "options": [
+        "En stor jordbävning slet loss ön från fastlandet Island",
+        "En vulkan på havsbotten sprutade aska och lava i månader tills en ö bildats",
+        "Floder fyllde havet med sediment i tusentals år tills en ö bildades",
+        "En glaciär lämnade ön kvar när inlandsisen smälte bort"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 61): vulkanutbrottet på havsbotten pågick i flera månader och gjorde att en helt ny ö bildades."
+    },
+    {
+      "id": 98,
+      "question": "Vad är 'ring of fire' (eldringen)?",
+      "options": [
+        "Ett bälte av heta gaser som omger jordens inre kärna",
+        "En ring av vulkaner runt Medelhavet och Alperna",
+        "Området runt Stilla havet med många vulkaner och jordbävningar",
+        "En ring av heta källor och gejsrar som ligger på Island"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 60): flest vulkaner finns runt Stilla havet längs det som kallas the ring of fire. Facit: längs hela gränsen till Stillahavsplattan är risken för jordbävningar och vulkaner större."
+    },
+    {
+      "id": 99,
+      "question": "Varför finns det så många vulkaner och jordbävningar runt Stilla havet?",
+      "options": [
+        "Där är havsvattnet saltare än på andra platser",
+        "Där finns inga litosfärplattor alls under haven",
+        "Där är jordskorpan tunn och därför lätt att spränga",
+        "Där ligger många plattgränser runt Stillahavsplattan"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 60) visar att eldringen följer plattgränserna runt Stillahavsplattan. Där möts plattor, och därför är risken stor."
+    },
+    {
+      "id": 100,
+      "question": "Vad är en hotspot (het fläck)?",
+      "options": [
+        "Ett ställe där havet är hetare än resten av havet",
+        "Ett ställe där manteln är extra het, ofta långt från plattgränser",
+        "Ett ställe där jordskorpan är mycket tjock och kall",
+        "Ett ställe där två kontinentalplattor krockar och veckas"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 60): hot spots bildas där manteln är extra het under plattan. Facit: ett naturfenomen långt från plattgränserna."
+    },
+    {
+      "id": 101,
+      "question": "Hawaiiöarna har bildats av en hotspot. Varför bildas en kedja av öar (ett pärlband)?",
+      "options": [
+        "Hotspoten ligger still medan plattan ovanför glider, så nya vulkaner bildas",
+        "Havsytan stiger och sjunker i omgångar så öar dyker upp",
+        "Vulkanerna själva flyttar sig över havsbotten i en jämn rad",
+        "Hotspoten rör sig längs havsbotten och lämnar vulkaner efter sig"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 60): den heta fläcken ligger stilla medan jordskorpan sakta rör sig över den. Då bildas vulkaner där skorpan just ligger över fläcken, och de bildar ett pärlband."
+    },
+    {
+      "id": 102,
+      "question": "Kanarieöarna och Hawaii har gemensamt att…",
+      "options": [
+        "de är rester av Pangea som aldrig flyttat sig",
+        "de ligger vid en kollisionszon mellan två plattor",
+        "de har bildats av inlandsisens tryck och smältvatten",
+        "vulkanerna där har bildats av heta fläckar (hotspots)"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 60): vulkanerna på Hawaii och Kanarieöarna har bildats av heta fläckar."
+    },
+    {
+      "id": 103,
+      "question": "Hur skiljer sig en hotspot från vulkaner vid plattgränser?",
+      "options": [
+        "En hotspot har aldrig någon lava eller några vulkaner",
+        "En hotspot ligger alltid mitt i en kollisionszon vid en djuphavsgrav",
+        "En hotspot finns bara på land och aldrig under haven",
+        "En hotspot ligger mitt på en platta, långt från plattgränserna"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 60): det finns även vulkaner inne på en platta, de bildas av heta fläckar. De flesta andra vulkaner ligger nära plattgränser."
+    },
+    {
+      "id": 104,
+      "question": "Var på jorden är risken för jordbävningar och vulkaner störst?",
+      "options": [
+        "Närmast polerna där det är kallast",
+        "I gränsområdena mellan litosfärplattorna",
+        "I de största öknarna på jorden",
+        "Långt in på de stora kontinenterna"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 54, 60 och 62): jordbävningar och vulkaner förekommer främst i gränsområdena mellan plattor."
+    },
+    {
+      "id": 105,
+      "question": "Ungefär hur stor del av jordens befolkning bor i områden som riskerar att drabbas av vulkaner eller jordbävningar?",
+      "options": [
+        "Nästan alla",
+        "Nästan hälften",
+        "Ungefär en tiondel",
+        "Mindre än en procent"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 60): nästan hälften av jordens befolkning bor i områden som riskerar att drabbas av vulkaner eller jordbävningar."
+    },
+    {
+      "id": 106,
+      "question": "Var ligger de flesta av jordens vulkaner?",
+      "options": [
+        "Nära plattgränserna, där plattor möts eller glider isär",
+        "Jämnt utspridda över hela jordens yta och haven",
+        "Bara långt inne på de stora kontinenterna",
+        "Bara i länder där det är varmt hela året"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 60): de flesta vulkaner ligger nära plattgränserna, både där plattor glider isär och där de kolliderar."
+    }
+  ]
+}

@@ -1,0 +1,824 @@
+{
+  "title": "Exogena processer – jordens yttre krafter",
+  "subject": "Geografi",
+  "description": "Vittring, erosion, floder, glaciärer, människans påverkan och det geologiska kretsloppet (Sol Nova Geografi 7, s. 68–81).",
+  "generated": "2026-10-06",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Vad menas med exogena processer?",
+      "options": [
+        "Yttre krafter som vind, vatten och is, som bryter ner jordytan",
+        "Det som människan gör när hon bygger städer och vägar",
+        "Krafter som bara verkar nere i haven och på havsbotten",
+        "Jordens inre krafter som bygger upp berg och vulkaner"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 68): jordytan formas av yttre krafter, de så kallade exogena processerna, som vinden, rinnande vatten och glaciärer."
+    },
+    {
+      "id": 2,
+      "question": "Vad är den största skillnaden mellan endogena och exogena processer?",
+      "options": [
+        "Endogena bryter ner utifrån, exogena bygger upp inifrån",
+        "Endogena bygger upp inifrån, exogena bryter ner utifrån",
+        "Endogena finns bara på land, exogena finns bara i haven",
+        "Det finns ingen skillnad, bara olika ord för samma sak"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 51 och 68): samtidigt som jordytan byggs upp av de inre krafterna bryts den ner och jämnas ut av de yttre."
+    },
+    {
+      "id": 3,
+      "question": "Vad är vittring?",
+      "options": [
+        "När magma stelnar och bildar nytt berg i jordskorpan",
+        "När glaciärer sakta glider nedför en bergssluttning",
+        "När sand och grus flyttas av vind och vatten till nya platser",
+        "När berg och stenar bryts ner till grus, sand och mindre korn"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 68): rinnande vatten, vågor, is och vind bryter långsamt ner berg, klippor och stenar till grus, sand och mindre korn. Det kallas vittring."
+    },
+    {
+      "id": 4,
+      "question": "På vilka två sätt kan vittring ske?",
+      "options": [
+        "Kemiskt och magnetiskt",
+        "Mekaniskt och elektriskt",
+        "Mekaniskt och kemiskt",
+        "Snabbt och långsamt"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 68): vittring kan ske på två sätt – antingen bryts berget loss mekaniskt eller så löses det upp kemiskt."
+    },
+    {
+      "id": 5,
+      "question": "Vad är mekanisk vittring?",
+      "options": [
+        "När berg löses upp av kemiska reaktioner med regnvatten",
+        "När berg sprängs sönder av fysisk kraft som frost eller solvärme",
+        "När magma stelnar till nytt berg långt nere i skorpan",
+        "När vinden flyttar sand från en plats till en annan plats"
+      ],
+      "correct": 1,
+      "explanation": "Facit (fråga 3): vittring som sker genom fysisk kraft, som frostsprängning eller solsprängning."
+    },
+    {
+      "id": 6,
+      "question": "Hur fungerar frostsprängning?",
+      "options": [
+        "Solen hettar upp berget om dagen så att det spricker",
+        "Vatten fryser i sprickor, utvidgar sig och spränger berget",
+        "Vinden blåser sand mot berget och slipar bort ytan",
+        "Kolsyra i regnvattnet löser sakta upp hela berget"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 68): vattnet som fryser till is i sprickorna utvidgar sig och bryter loss små bitar av berget."
+    },
+    {
+      "id": 7,
+      "question": "Hur fungerar solsprängning?",
+      "options": [
+        "Vinden slipar berget med sand och små stenar",
+        "Vatten fryser i sprickorna och trycker isär hela berget",
+        "Berget värms på dagen och kyls på natten så att ytan spricker",
+        "Regnvatten med kolsyra löser upp berget bit för bit"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 68): berget utvidgar sig av värmen på dagen och krymper på natten. Då spricker en liten del av ytan och små bitar lossnar."
+    },
+    {
+      "id": 8,
+      "question": "Vilken sorts vittring är vanligast på höga berg där temperaturen ofta växlar mellan plus- och minusgrader?",
+      "options": [
+        "Frostsprängning",
+        "Solsprängning",
+        "Vinderosion",
+        "Kemisk vittring genom kolsyra"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 68): i kalla områden och på höga berg är frostsprängning vanlig eftersom temperaturen ofta växlar mellan plus och minus."
+    },
+    {
+      "id": 9,
+      "question": "Varför är solsprängning särskilt vanligt i öknar?",
+      "options": [
+        "Temperaturskillnaden mellan dag och natt är ofta stor",
+        "Det regnar väldigt mycket och vattnet fryser",
+        "Det finns mycket is som fryser och tinar där",
+        "Det finns många vulkaner som värmer berget där"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 68): i varmare områden som öknar är solsprängning vanligt eftersom skillnaderna i temperatur mellan dag och natt ofta är stor."
+    },
+    {
+      "id": 10,
+      "question": "Vad är kemisk vittring?",
+      "options": [
+        "När berg värms på dagen och kyls ner på natten",
+        "När glaciärer nöter och slipar berget under sig",
+        "När bergarter löses upp av kemiska reaktioner med vatten",
+        "När stenar krossas av is som fryser i sprickor"
+      ],
+      "correct": 2,
+      "explanation": "Facit (fråga 7): bergarter löses upp på grund av kemiska reaktioner, oftast i samband med vatten."
+    },
+    {
+      "id": 11,
+      "question": "Vilken bergart kan lösas upp av kolsyra i vatten (kemisk vittring)?",
+      "options": [
+        "Pimpsten",
+        "Basalt",
+        "Granit",
+        "Kalksten"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 69): vissa bergarter, till exempel kalksten, kan lösas upp av kolsyra som finns i vatten."
+    },
+    {
+      "id": 12,
+      "question": "Vad kan kemisk vittring bilda i berggrunden?",
+      "options": [
+        "Stora bergskedjor, till exempel Alperna och Himalaya",
+        "Grottor och grottsystem, till exempel Lummelundagrottorna",
+        "Vulkaner och lavafält, till exempel Etna och Fuji",
+        "Floddeltan och slätter, till exempel Nilens mynning"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 69): kemisk vittring kan bilda stora grottsystem i berggrunden, Lummelundagrottorna på Gotland är ett exempel."
+    },
+    {
+      "id": 13,
+      "question": "Varför vittrar stenstatyer i städer snabbare i dag?",
+      "options": [
+        "Föroreningar i luften bidrar till kemisk vittring",
+        "Mänskliga händer slits ner på statyerna",
+        "Statyerna utsätts för solsprängning av gatlyktorna",
+        "Staden ligger vid en plattgräns"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 69): i dag bidrar föroreningar i luften till kemisk vittring, så även stenbyggnader och statyer vittrar sönder."
+    },
+    {
+      "id": 14,
+      "question": "Ett berg i en öken utsätts för stor temperaturskillnad mellan dag och natt. Vilken vittring är det troligast?",
+      "options": [
+        "Solsprängning (mekanisk vittring)",
+        "Frostsprängning, eftersom det finns mycket is",
+        "Ingen vittring alls sker i öknar",
+        "Kemisk vittring, eftersom det regnar mycket"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 68): solsprängning är vanligt i öknar på grund av de stora temperaturskillnaderna."
+    },
+    {
+      "id": 15,
+      "question": "Vad kallas det vittrade materialet (stenar, grus, sand och lera)?",
+      "options": [
+        "Lava",
+        "Sediment",
+        "Morän",
+        "Magma"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 69): det vittrade materialet, till exempel stenar, grus och sand, kallas sediment."
+    },
+    {
+      "id": 16,
+      "question": "Vilket påstående beskriver bäst skillnaden mellan vittring och erosion?",
+      "options": [
+        "Vittring sker bara på land medan erosion bara sker i havet",
+        "Det är två ord för samma sak, ingen skillnad alls",
+        "Vittring bryter sönder berget, erosion nöter ner och transporterar bort det",
+        "Vittring transporterar sedimentet och erosion bryter sönder berget"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 69): det vittrade materialet transporteras vidare av vind, rinnande vatten och glaciärer. Erosion är ett samlingsnamn för de yttre processer som bryter ner och omformar landskapet. Facit: nednötning och transport av sediment."
+    },
+    {
+      "id": 17,
+      "question": "Vilket är ett exempel på erosion, och inte bara vittring?",
+      "options": [
+        "Kolsyra som löser upp kalksten",
+        "Ett berg som spricker av stora temperaturskillnader",
+        "Vatten som fryser i en spricka och sprickan blir större",
+        "En flod som skär in i landskapet och för sediment med sig nedströms"
+      ],
+      "correct": 3,
+      "explanation": "Erosion handlar om att materialet nöts ner och transporteras (läroboken s. 69). De andra svaren är olika typer av vittring."
+    },
+    {
+      "id": 18,
+      "question": "Vilka krafter kan transportera sediment i landskapet?",
+      "options": [
+        "Bara människor med sina grävmaskiner och gruvor",
+        "Bara vulkaner och jordbävningar från jordens inre",
+        "Vind, rinnande vatten, glaciärer och tyngdkraften",
+        "Bara månens dragningskraft och solens strålning"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 69–70): erosion kan orsakas av tyngdkraften, vinden, rinnande vatten, glaciärer och även människan."
+    },
+    {
+      "id": 19,
+      "question": "Var kan sediment hamna efter att det transporterats iväg?",
+      "options": [
+        "I en flodbank, på botten av en sjö eller på havsbotten",
+        "Bara nere i vulkanernas magmakammare under jorden",
+        "Bara högt upp i atmosfären som fint damm",
+        "Alltid kvar uppe på berget där det vittrade"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 69): sedimenten kan hamna på helt andra ställen, till exempel i en flodbank, på botten av en sjö eller på havsbotten."
+    },
+    {
+      "id": 20,
+      "question": "Vad är massrörelser?",
+      "options": [
+        "När vinden bär sand över långa sträckor i öknen",
+        "När tyngdkraften drar material nedåt, till exempel ras",
+        "När litosfärplattor rör sig långsamt över manteln",
+        "När floder skär sig fram och byter riktning"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 70): material som förflyttas av tyngdkraften kallas massrörelser. Tydligaste formen är ras."
+    },
+    {
+      "id": 21,
+      "question": "Varför kan ett jordskred inträffa efter ett långvarigt regn?",
+      "options": [
+        "Regnet sänker grundvattnet så att marken torkar och rasar",
+        "Jorden mättas med vatten och blir tyngre, så hela områden kan glida ner",
+        "Regnet värmer upp jorden så att den smälter",
+        "Regnet fryser till is som sprängs sönder"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 70): när jorden mättas med vatten ökar tyngden och det kan leda till att hela områden plötsligt glider ner längs sluttningen."
+    },
+    {
+      "id": 22,
+      "question": "Vad är vinderosion?",
+      "options": [
+        "När vind packar snö till tjocka glaciärer i bergen",
+        "När vind bygger upp stora vulkaner av aska och lava",
+        "När vinden flyttar lös sand och jord och slipar klippor",
+        "När vind får vatten att frysa i sprickor i berget"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 70): vinden är en stark yttre kraft som kan förflytta löst material och nöta och slipa klippor."
+    },
+    {
+      "id": 23,
+      "question": "Hur kan sand från Sahara hamna som färg på snön i Norden?",
+      "options": [
+        "Vinden virvlar upp sand högt upp och bär den hundratals mil",
+        "En glaciär släpar sanden med sig hela vägen norrut",
+        "Havsströmmar bär sanden i vattnet hela vägen norrut",
+        "Människor flyger hit sanden med stora lastplan varje år"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 70): ibland virvlar vinden upp sand och jord till hög höjd. Sandstormar i Sahara kan färga snön gulröd flera hundra mil norrut."
+    },
+    {
+      "id": 24,
+      "question": "Hur kan människan öka vinderosionen i torra områden?",
+      "options": [
+        "Genom att stänga ner gamla gruvor och stenbrott",
+        "Genom att plöja, så att rötterna inte skyddar jorden",
+        "Genom att bygga dammar i floderna uppströms",
+        "Genom att plantera många nya träd och buskar"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 70): människan har bidragit till ökad vinderosion genom att plöja jorden så att växtligheten inte längre skyddar jorden från att blåsa bort."
+    },
+    {
+      "id": 25,
+      "question": "Vad är vågerosion?",
+      "options": [
+        "När regn spolar bort jord från en kulle",
+        "När vind bygger upp stora sanddyner i öknen",
+        "När glaciärer slipar bergen nedanför sig",
+        "När vågor och strömmar nöter på stränder och klippor"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 71): vågerosion är erosion som orsakas av vågor. Raukarna på Gotland är ett exempel."
+    },
+    {
+      "id": 26,
+      "question": "Vad är jorderosion?",
+      "options": [
+        "När människor gräver upp jorden för att bygga hus",
+        "När vulkaner täcker marken med ett tjockt askskikt",
+        "När regnvatten spolar bort jord ner mot bäckar och floder",
+        "När jorden skakar och spricker av jordbävningar"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 71): på sluttningar kan kraftiga regnskurar spola med sig sand, lera och jord ner mot bäckar och floder. Det kallas jorderosion."
+    },
+    {
+      "id": 27,
+      "question": "Vad händer när man skövlar bort växtligheten på en kulle?",
+      "options": [
+        "Kullen blir högre eftersom regnet byggt upp den",
+        "Ingenting förändras eftersom jorden ligger kvar",
+        "Jorden blir tjockare eftersom ingen växt tar upp näring",
+        "Jorden blir blottad och kan spolas eller blåsas bort"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 72): jorderosion är ett problem där man tagit bort växtligheten, som suger upp vatten och håller kvar jorden med sina rötter."
+    },
+    {
+      "id": 28,
+      "question": "Hur kan man minska jorderosion?",
+      "options": [
+        "Ta bort träd och buskar så att regnet når marken",
+        "Plöja jorden så ofta som möjligt för bättre skörd",
+        "Plantera flera sorters grödor vars rötter binder jorden",
+        "Låta boskap beta av all växtlighet på sluttningen"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 72): man kan plantera flera olika sorters grödor, vars rötter sprids och binder både vatten och jord."
+    },
+    {
+      "id": 29,
+      "question": "Vad har format Grand Canyon i USA?",
+      "options": [
+        "Glacialerosion – en inlandsis har skurit ut dalen",
+        "En jordbävning som slet isär marken på en dag",
+        "Ett vulkanutbrott som sprängde ut ett stort hål",
+        "Vattenerosion – Coloradofloden har skurit sig ner i berget"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 69): Coloradofloden har skurit sig 1 800 meter ner i allt äldre berglager. Facit nämner även att förkastningar har påverkat platsen."
+    },
+    {
+      "id": 30,
+      "question": "Hur djupt har Coloradofloden skurit sig i Grand Canyon?",
+      "options": [
+        "Cirka 1 800 meter",
+        "Cirka 18 meter",
+        "Cirka 180 meter",
+        "Cirka 18 000 meter"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 69): Coloradofloden har skurit sig 1 800 meter ner i allt äldre berglager."
+    },
+    {
+      "id": 31,
+      "question": "Hur ser en flod ut i början, högt upp i bergen?",
+      "options": [
+        "En bred, slingrande flod som formar meanderlopp",
+        "Ett stort delta av avlagrat sediment vid havet",
+        "Små rännilar som skär ner i marken i form av ett V",
+        "En U-formad dal där en glaciär glider fram"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 73, steg 1): vid flodens början forsar vattnet fram och skär ner i marken i form av ett V."
+    },
+    {
+      "id": 32,
+      "question": "Vad händer med floddalen längre ner (steg 2)?",
+      "options": [
+        "Den fylls av is som aldrig smälter under sommaren",
+        "Den blir smalare och brantare och floden rinner snabbare",
+        "Den ändras inte alls utan ser likadan ut som uppe i bergen",
+        "Den breddas, landskapet blir mindre brant och floden långsammare"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 73, steg 2): floddalen breddas genom fortsatt erosion och vittring. Landskapet är inte lika brant och flodens hastighet blir långsammare."
+    },
+    {
+      "id": 33,
+      "question": "Vad är meanderlopp?",
+      "options": [
+        "När floden fryser till is och blir en glaciär under vintern",
+        "När floden delar upp sig i många små kanaler vid havet",
+        "När floden rinner rakt ner för en brant bergssluttning med fors",
+        "När flodvatten letar sig fram över en platt slätt och slingrar sig"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 73, steg 3): flodvattnet letar sig fram över slätten och slingrar sig fram. Det kallas meanderlopp."
+    },
+    {
+      "id": 34,
+      "question": "Hur kan en korvsjö bildas?",
+      "options": [
+        "En flodslinga avsnörs när floden hittar en ny väg",
+        "En gammal vulkankrater fylls med regnvatten och snö",
+        "En glaciär smälter och lämnar ett stort hål efter sig",
+        "Havet översvämmar en dal vid kusten under en storm"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 73): avsnörda flodslingar, korvsjöar, uppstår när floden finner en annan riktning."
+    },
+    {
+      "id": 35,
+      "question": "Vad är ett floddelta?",
+      "options": [
+        "En skarp V-formad dal som floden skurit ner i berget",
+        "Platsen där floden börjar, högt upp i bergen där den rinner brant",
+        "En avsnörd slinga av floden som har blivit en egen sjö",
+        "Ett område vid flodens mynning där sediment avlagrats och bildat små öar"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 73, steg 4): små öar av flodens avlagringar bildar ett så kallat delta. Facit: många mindre och ytliga vattendrag."
+    },
+    {
+      "id": 36,
+      "question": "Varför avlagras sediment när en flod når havet?",
+      "options": [
+        "Saltet i havet klistrar ihop sedimentet till stora klumpar",
+        "Havet är kallare så att sedimentet fryser fast på botten",
+        "Flodens hastighet minskar så vattnet inte orkar bära sedimentet",
+        "Floden börjar rinna uppåt och släpper sedimentet"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 72): när vattnets hastighet minskar och det rinner ut i en sjö eller i havet sjunker stenar, sand och lera till botten och bildar lager av sediment."
+    },
+    {
+      "id": 37,
+      "question": "Var i en flod avlagras det mesta av sedimentet?",
+      "options": [
+        "Högst upp i bergen, där vattnet rinner som snabbast",
+        "Precis där berget vittrat, för sedimentet flyttas aldrig",
+        "På flodslätten och vid mynningen, där vattnet går långsammare",
+        "Lika mycket överallt längs hela floden från källa till hav"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 73): längre ner i floden minskar hastigheten, sediment avlagras och bygger upp flodslätten och deltat."
+    },
+    {
+      "id": 38,
+      "question": "Vilket samband finns mellan en flods lopp, erosion och bördiga flodslätter?",
+      "options": [
+        "Floden skapar slätter genom att frysa till is varje vinter",
+        "Floden för med sig sediment som avlagras och blir bördig jord",
+        "Flodslätter bildas av vulkaner som sprutat ut aska",
+        "Floden tar bort all jord på slätten så att inget växer"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 76): det är de yttre krafterna vi har att tacka för bördiga flodslätter och deltan som byggts upp av sediment som eroderat."
+    },
+    {
+      "id": 39,
+      "question": "Varför uppstod de första civilisationerna vid flodslätterna längs Nilen, Indus, Eufrat och Tigris?",
+      "options": [
+        "Där fanns många vulkaner som gav värme och bördig aska",
+        "Där fanns stora inlandsisar som gav rent dricksvatten",
+        "Där fanns bördig jord och nära till vatten, bra för jordbruk",
+        "Där fanns gott om gruvor och metaller för verktyg"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 76): här kunde man för första gången bedriva effektivt jordbruk tack vare den bördiga jorden som avlagrats av floderna, och det var nära till vatten."
+    },
+    {
+      "id": 40,
+      "question": "Hur bildas en glaciär?",
+      "options": [
+        "Stora isberg driver in och fastnar i dalgångarna",
+        "Snön smälter inte helt på sommaren utan packas ihop till is",
+        "Regn fryser direkt till is när det når marken",
+        "Havsvatten fryser och stiger sakta upp på land"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 74): högst upp på vissa berg hinner inte all snö smälta, den packas ihop och omvandlas till is. Då bildas en glaciär."
+    },
+    {
+      "id": 41,
+      "question": "Hur rör sig en glaciär?",
+      "options": [
+        "Den rör sig snabbt som en flod, flera kilometer om dagen",
+        "Den hoppar mellan bergen",
+        "Den 'rinner' som seg kola sakta nedför dalgången, några meter per år",
+        "Den står alltid stilla"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 74): glaciären ligger inte stilla utan rinner som seg kola sakta ner längs dalgångar med några meter per år."
+    },
+    {
+      "id": 42,
+      "question": "Hur påverkar en glaciär marken den rör sig över?",
+      "options": [
+        "Den nöter, slipar och formar marken",
+        "Den gör marken helt oförändrad",
+        "Den smälter marken",
+        "Den bygger upp berg av is"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 74): på sin väg nöter, slipar och formar glaciären marken. Isens förändring av landskapet kallas glacialerosion."
+    },
+    {
+      "id": 43,
+      "question": "Hur bildas en U-dal?",
+      "options": [
+        "En flod skär sig ner och gör en djup V-formad dal",
+        "Vinden blåser ut en dal i öknen under miljoner år",
+        "En glaciär glider mellan bergen och slipar fram en U-formad dal",
+        "Två kontinentalplattor krockar och pressar upp en dal"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 74): stora glaciärer kan bilda U-dalar mellan bergstoppar, ett exempel är Lapporten utanför Abisko."
+    },
+    {
+      "id": 44,
+      "question": "Vad skiljer en U-dal från en V-dal?",
+      "options": [
+        "U-dalen är format av en flod och V-dalen av en glaciär",
+        "Båda är formade av vinden",
+        "U-dalen är format av en glaciär och V-dalen av en flod",
+        "U-dalen har bildats av jordbävningar och V-dalen av vulkaner"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 73–74): en flod skär ner i ett V högt upp i bergen. En glaciär med tung tjock is formar landskapet som ett U."
+    },
+    {
+      "id": 45,
+      "question": "Hur tjocka är inlandsisarna i Antarktis och Grönland?",
+      "options": [
+        "Cirka 3 000–4 000 meter",
+        "Cirka 30 000–40 000 meter",
+        "Cirka 30–40 meter",
+        "Cirka 300–400 meter"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 75): inlandsisarna i Antarktis och Grönland är 3 000–4 000 meter tjocka och utgör omkring 95 procent av jordens totala istäcke."
+    },
+    {
+      "id": 46,
+      "question": "Vad är morän?",
+      "options": [
+        "En sorts salt som bildats när haven torkat ut",
+        "En sorts lava som stelnat till små runda stenar",
+        "En jordart av stora stenar, grus och sand från inlandsisen",
+        "En jordart som bara består av fin lera från havsbotten"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 75): inlandsisen förde med sig bitar från berggrunden. När isen smälte blev det en blandning av stora kantiga stenar, grus och sand – morän, Sveriges vanligaste jordart."
+    },
+    {
+      "id": 47,
+      "question": "Hur bildades rullstensåsarna?",
+      "options": [
+        "Vulkaner sprutade ut grus och sten i långa rader över landet",
+        "Smältvatten släppte först tunga stenar, sedan grus och lera",
+        "Jordbävningar lyfte upp delar av havsbotten i långa remsor",
+        "Människor staplade sten på sten för att bygga vägar"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 75): vid iskanten minskade vattnets hastighet och de tyngsta stenarna sjönk först, därefter grus och lera. Så bildades avlånga kullar, rullstensåsar."
+    },
+    {
+      "id": 48,
+      "question": "Vilka spår av inlandsisen kan vi se i det svenska landskapet?",
+      "options": [
+        "Rullstensåsar, rundhällar och flyttblock",
+        "Vulkaner, lavafält och kratrar",
+        "Djuphavsgravar, mittoceaniska ryggar och rift",
+        "Deltan, meanderlopp och korvsjöar"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 75): vi kan se spår från inlandsisen i landskapet, till exempel rullstensåsar, rundhällar och flyttblock."
+    },
+    {
+      "id": 49,
+      "question": "Varför stiger landytan fortfarande i Höga kusten?",
+      "options": [
+        "Där faller det mest regn och snö i hela Sverige",
+        "Där trycks två kontinentalplattor långsamt ihop",
+        "Där tränger magma upp och lyfter berget varje år",
+        "Isen var tyngst där, och trycket minskade när den smälte"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 75): när isen smälte minskade trycket och landytan började stiga. Landhöjningen pågår fortfarande där isen var som tyngst, till exempel Höga kusten."
+    },
+    {
+      "id": 50,
+      "question": "Vad är en rundhäll?",
+      "options": [
+        "Berggrund som slipats slät och rund av inlandsisen",
+        "En avlång kulle av grus och sand från smältvatten",
+        "En stor sten som flyttats med ett isberg",
+        "En grotta som kolsyra i vattnet har löst ut i kalksten"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 75): inlandsisen slipade berggrunden och bildade rundhällar. Isräfflorna visar i vilken riktning isen glidit."
+    },
+    {
+      "id": 51,
+      "question": "Vilken epok började för 11 700 år sedan när den senaste istiden tog slut?",
+      "options": [
+        "Antropocen",
+        "Pangea",
+        "Holocen",
+        "Kvartär istid"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 77): holocen omfattar tiden från den senaste istidens slut för 11 700 år sedan fram till våra dagar."
+    },
+    {
+      "id": 52,
+      "question": "Vad innebär antropocen?",
+      "options": [
+        "Den tid som började efter ett jättelikt asteroidnedslag",
+        "En ny geologisk epok, människans tidsålder, från 1800-talet",
+        "Den tid då superkontinenten Pangea fortfarande fanns",
+        "Den tid då inlandsisen täckte hela norra Europa"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 77): antropocen betyder 'människans tidsålder' och startade under den industriella revolutionen på 1800-talet."
+    },
+    {
+      "id": 53,
+      "question": "Varför menar forskare att vi lever i en ny epok, antropocen?",
+      "options": [
+        "Människans påverkan går så snabbt och lämnar outplånliga spår",
+        "Jorden har fått en helt ny kontinent i Stilla havet",
+        "Plattektoniken har stannat av och inga plattor rör sig mer",
+        "Solen har ändrat sin strålning så att det blivit varmare"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 77): i dag går förändringen så snabbt att forskare menar att vi lever i en ny geologisk epok."
+    },
+    {
+      "id": 54,
+      "question": "Hur har människan förstärkt de yttre krafternas påverkan, till exempel genom skogsavverkning?",
+      "options": [
+        "Jorderosion och uttorkning ökar när träden försvinner",
+        "Skogsavverkning påverkar varken jorden eller landskapet",
+        "Träden som tas bort skyddar marken ännu bättre mot regn",
+        "Bergen vittrar långsammare när skogen har försvunnit helt"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 77): när skogen försvinner ökar risken för kraftig jorderosion och uttorkning, eftersom vatten och jord inte längre hålls kvar av trädets rötter."
+    },
+    {
+      "id": 55,
+      "question": "Varför blir städer känsliga för översvämningar vid kraftiga regn?",
+      "options": [
+        "Husens värme gör att regnet blir kraftigare över staden",
+        "Asfalt och betong släpper inte igenom regnvattnet, och växter saknas",
+        "Städer ligger oftast på platser där havet kan stiga upp",
+        "Det regnar alltid mycket mer i städer än på landet"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 78): hårda material som asfalt och betong släpper inte igenom regnvatten, och vattnet kan inte tas upp av naturlig växtlighet."
+    },
+    {
+      "id": 56,
+      "question": "Vad är ett dagbrott?",
+      "options": [
+        "En gruva där man gräver långa tunnlar under jorden",
+        "En vulkankrater där lava samlas i en het sjö",
+        "En plats där man tvättar fram guld ur floder och bäckar",
+        "En gruva där malmen bryts direkt ur marken, ofta 200–300 m djup"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 79): majoriteten av all gruvdrift sker i dagbrott, där man bryter malmen eller mineralen direkt ur marken."
+    },
+    {
+      "id": 57,
+      "question": "Vad är det geologiska kretsloppet?",
+      "options": [
+        "Jordskorpans omvandling där inre krafter bygger upp och yttre bryter ner",
+        "Hur människor återvinner sten, metall och grus i samhället",
+        "Hur solen och månen cirklar runt jorden under ett år",
+        "Vattnets kretslopp mellan hav, moln, regn och floder"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 80): jordskorpan omvandlas hela tiden i ett långsamt pågående geologiskt kretslopp. De inre krafterna bygger upp och de yttre bryter ner."
+    },
+    {
+      "id": 58,
+      "question": "Hur lång tid kan ett varv i det geologiska kretsloppet ta?",
+      "options": [
+        "Ungefär 50 000 år",
+        "Ungefär 500 miljoner år",
+        "Ungefär 500 år",
+        "Ungefär 5 miljoner år"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 80): ett sådant varv kan ta 500 miljoner år eller mer."
+    },
+    {
+      "id": 59,
+      "question": "Vad driver det geologiska kretsloppet?",
+      "options": [
+        "Enbart människans gruvdrift och byggande",
+        "Enbart vulkanerna och deras utbrott över tid",
+        "Inre krafter som bygger upp och yttre som bryter ner",
+        "Enbart solens strålning och värme över tid"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 80): de inre krafterna bygger upp och skapar ny jordskorpa och de yttre krafterna bryter ner den."
+    },
+    {
+      "id": 60,
+      "question": "Var finns jordens yngsta berggrund?",
+      "options": [
+        "Mitt inne på de allra största kontinenterna",
+        "I Kanada där berggrunden är cirka 4 miljarder år",
+        "Långt från alla plattgränser och vulkaner",
+        "Vid plattgränser där magma väller upp, t.ex. i Atlanten"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 80): jordens yngsta berggrund finns där magma väller upp vid plattgränser. Facit: mittoceaniska ryggar, till exempel i Atlanten."
+    },
+    {
+      "id": 61,
+      "question": "Var finns jordens äldsta berggrund?",
+      "options": [
+        "På mittoceaniska ryggar där ny skorpa bildas",
+        "Långt från plattgränserna, till exempel i Kanada",
+        "Runt Stilla havet längs Ring of Fire",
+        "På Island där vulkanerna ständigt bildar nytt berg"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 80): den äldsta berggrunden finns långt från plattgränser. Den äldsta kända är cirka 4 miljarder år och finns bland annat i Kanada."
+    },
+    {
+      "id": 62,
+      "question": "Varför är berggrunden vid mittoceaniska ryggar ung men berggrunden långt från plattgränserna gammal?",
+      "options": [
+        "Berggrunden långt bort har skapats av inlandsisen nyligen",
+        "Gammal berggrund smälter bort vid alla plattgränser hela tiden",
+        "Ny berggrund bildas vid plattgränser och flyttas sedan sakta bort",
+        "Det beror på att havet kyler berggrunden olika mycket"
+      ],
+      "correct": 2,
+      "explanation": "Vid spridningszoner bildas ny skorpa hela tiden (läroboken s. 55). Det geologiska kretsloppet byter ut berggrunden med tiden, men områden långt från plattgränser förnyas inte lika ofta (s. 80)."
+    },
+    {
+      "id": 63,
+      "question": "Vad händer med berggrund som förs ner i jordskorpans djupare delar?",
+      "options": [
+        "Den fryser till is",
+        "Den förblir oförändrad",
+        "Den smälter av hettan",
+        "Den förvandlas till sediment"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 81): när berggrunden förs ner i jordskorpans djupare delar smälter den av hettan."
+    },
+    {
+      "id": 64,
+      "question": "Vad händer med sediment som sjunker till havsbotten och bildar tjocka lager?",
+      "options": [
+        "De förvandlas direkt till is",
+        "De smälter omedelbart till lava",
+        "De försvinner upp i atmosfären",
+        "Med tiden hårdnar lagren till berg"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 81): det finkorniga materialet förs ut i havet där det sjunker till botten, bildar tjocka lager och med tiden hårdnar till berg."
+    },
+    {
+      "id": 65,
+      "question": "Vilken ordning stämmer för stegen i det geologiska kretsloppet?",
+      "options": [
+        "Bergskedja bildas – vittring och erosion – sediment hårdnar till berg – berggrund smälter – ny bergskedja",
+        "Sediment hårdnar till berg – bergskedja bildas – vittring och erosion – berggrund smälter – ny bergskedja",
+        "Bergskedja bildas – sediment hårdnar till berg – vittring och erosion – berggrund smälter – ny bergskedja",
+        "Berggrund smälter – vittring och erosion – bergskedja bildas – sediment hårdnar till berg – ny bergskedja"
+      ],
+      "correct": 0,
+      "explanation": "Läroboken (s. 81) och facit (fråga 27) beskriver kretsloppet: berg bildas, vittras och eroderas, sediment avlagras och hårdnar till berg, förs ner och smälter, och kommer upp som ny berggrund."
+    },
+    {
+      "id": 66,
+      "question": "Vad händer med en bergskedja på några hundra miljoner år om bara de yttre krafterna verkar?",
+      "options": [
+        "Den växer och blir högre",
+        "Den förvandlas till en vulkan",
+        "Den nöts ner till en plan slätt",
+        "Den förblir exakt likadan"
+      ],
+      "correct": 2,
+      "explanation": "Läroboken (s. 81): på några hundra miljoner år har även den högsta bergskedjan nötts ner till en plan slätt."
+    },
+    {
+      "id": 67,
+      "question": "Vad skulle hända med jordytan på mycket lång sikt om de inre krafterna slutade verka?",
+      "options": [
+        "Jordytan skulle fyllas av nya höga bergskedjor hela tiden",
+        "Yttre krafter skulle slita ner bergen tills landskapet blev jämnt",
+        "Haven skulle torka ut och försvinna efter en tid",
+        "Allt skulle stelna och landskapet skulle aldrig förändras"
+      ],
+      "correct": 1,
+      "explanation": "Läroboken (s. 80–81): de inre krafterna bygger upp nya berg medan de yttre bryter ner. Utan uppbyggnad skulle nedbrytningen till slut jämna ut landskapet."
+    },
+    {
+      "id": 68,
+      "question": "Ett exempel på vilka krafter som formar ett landskap: höga berg, en slätt med floder och åkrar och byar. Vilka krafter har bidragit?",
+      "options": [
+        "Bara de yttre krafterna, eftersom de formar allt",
+        "Bara människan, eftersom hon bygger åkrar och byar",
+        "Bara de inre krafterna, eftersom de skapar allt",
+        "Inre (berg), yttre (slätt, flod) och människan (åkrar, byar)"
+      ],
+      "correct": 3,
+      "explanation": "Läroboken (s. 50): inre krafter har skapat bergskedjorna, yttre krafter har nött ner berget och format slätt och floder, och människan har förändrat landskapet genom odlingar, vägar och bebyggelse."
+    }
+  ]
+}
