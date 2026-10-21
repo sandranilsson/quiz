@@ -1,5 +1,13 @@
 [
   {
+  "id": "demografi-arskurs9",
+  "title": "Demografi – Jordens befolkning",
+  "subject": "Geografi",
+  "description": "Quiz om demografi för årskurs 9: nativitet, mortalitet, befolkningsförändring, urbanisering, befolkningspyramider, den demografiska transitionsmodellen, migration och familjeplanering.",
+  "date": "2026-10-21",
+  "questionCount": 28
+},
+  {
   "id": "geografi-endogena",
   "title": "Endogena processer – jordens inre krafter",
   "subject": "Geografi",

@@ -1,0 +1,344 @@
+{
+  "title": "Demografi – Jordens befolkning",
+  "subject": "Geografi",
+  "description": "Quiz om demografi för årskurs 9: nativitet, mortalitet, befolkningsförändring, urbanisering, befolkningspyramider, den demografiska transitionsmodellen, migration och familjeplanering.",
+  "generated": "2026-10-21",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Vad mäter nativitet (födelsetal)?",
+      "options": [
+        "Hur många som dör per 1 000 invånare under ett år",
+        "Hur många som flyttar in i landet per 1 000 invånare",
+        "Hur många levande barn som föds per 1 000 invånare under ett år",
+        "Hur många barn en kvinna i genomsnitt föder under sitt liv"
+      ],
+      "correct": 2,
+      "explanation": "Enligt begreppslistan är nativitet (födelsetal) antalet levande barn som föds i ett område på 1 000 personer under ett år. Hur många barn en kvinna föder i genomsnitt kallas fruktsamhetstal."
+    },
+    {
+      "id": 2,
+      "question": "Vad menas med mortalitet?",
+      "options": [
+        "Dödstal: hur många som dör per 1 000 invånare under ett år",
+        "Hur många som föds per 1 000 invånare under ett år",
+        "Hur länge nyfödda barn förväntas leva",
+        "Hur många som flyttar ut ur landet under ett år"
+      ],
+      "correct": 0,
+      "explanation": "Mortalitet är ett annat ord för dödstal eller dödlighet. Boken (s. 97) förklarar att det anger hur många som i genomsnitt dör i en grupp om 1 000 invånare under ett år."
+    },
+    {
+      "id": 3,
+      "question": "Vad är naturlig befolkningsökning?",
+      "options": [
+        "När fler människor flyttar in till landet än ut",
+        "När människor flyttar från landsbygden till städerna",
+        "När ett land har många barn men få äldre",
+        "När det under ett år föds fler människor än det dör i ett land"
+      ],
+      "correct": 3,
+      "explanation": "Naturlig folkökning (även kallad födelseöverskott) betyder att fler föds än dör under ett år. Människors flyttningar räknas inte in, vilket står i begreppslistan och på s. 97."
+    },
+    {
+      "id": 4,
+      "question": "I Sverige föddes 99 000 barn och 77 000 personer dog under ett år. Hur stort var födelseöverskottet?",
+      "options": [
+        "12 000",
+        "22 000",
+        "72 000",
+        "176 000"
+      ],
+      "correct": 1,
+      "explanation": "Födelseöverskottet är födda minus döda: 99 000 − 77 000 = 22 000. Samma exempel finns i rutan om Sveriges befolkningsförändring på s. 97."
+    },
+    {
+      "id": 5,
+      "question": "Ett land har under ett år 100 000 födda, 80 000 döda, 50 000 invandrade och 20 000 utvandrade. Hur mycket har befolkningen förändrats?",
+      "options": [
+        "Ökat med 30 000",
+        "Ökat med 20 000",
+        "Ökat med 150 000",
+        "Ökat med 50 000"
+      ],
+      "correct": 3,
+      "explanation": "Enligt s. 97 adderar man naturlig folkökning (födda minus döda = 20 000) och invandringsöverskott (inflyttade minus utflyttade = 30 000). Summan är 50 000, så befolkningen har ökat."
+    },
+    {
+      "id": 6,
+      "question": "Ett land har under ett år 60 000 födda, 70 000 döda, 5 000 invandrade och 3 000 utvandrade. Vad händer med befolkningen?",
+      "options": [
+        "Den minskar med 8 000",
+        "Den ökar med 8 000",
+        "Den minskar med 10 000",
+        "Den minskar med 2 000"
+      ],
+      "correct": 0,
+      "explanation": "Naturlig folkökning: 60 000 − 70 000 = −10 000. Invandringsöverskott: 5 000 − 3 000 = +2 000. Summan blir −8 000, alltså en befolkningsminskning (beräkningssättet står på s. 97)."
+    },
+    {
+      "id": 7,
+      "question": "Vilka två orsaker nämns i boken till att befolkningen minskar i länder som Japan och Ryssland?",
+      "options": [
+        "Många dör av svält och sjukdomar",
+        "Många flyttar från städerna till landsbygden",
+        "Det föds för få barn och invandringen är mycket låg",
+        "Medellivslängden har sjunkit och det föds för många barn"
+      ],
+      "correct": 2,
+      "explanation": "På s. 96 står att två orsaker till att befolkningen minskar i vissa länder, till exempel Japan och Ryssland, är att det föds för få barn och att invandringen är mycket låg."
+    },
+    {
+      "id": 8,
+      "question": "Vad är spädbarnsdödlighet?",
+      "options": [
+        "Hur många barn som dör före 18 års ålder",
+        "Hur många barn per 1 000 födda som dör under sitt första år",
+        "Hur många barn per 1 000 födda som dör under sina första fem år",
+        "Hur många kvinnor som dör när de föder barn"
+      ],
+      "correct": 1,
+      "explanation": "Enligt begreppslistan är spädbarnsdödlighet antalet födda barn som dör under sitt första levnadsår, beräknat per 1 000 födda barn."
+    },
+    {
+      "id": 9,
+      "question": "Vad är skillnaden mellan barnadödlighet och spädbarnsdödlighet?",
+      "options": [
+        "Barnadödlighet gäller bara flickor",
+        "Barnadödlighet mäts per 100 000 invånare",
+        "Det är ingen skillnad, orden betyder exakt samma sak",
+        "Barnadödlighet gäller barn under fem år, spädbarnsdödlighet gäller barn under ett år"
+      ],
+      "correct": 3,
+      "explanation": "Begreppslistan förklarar att man mäter barn som dör under sitt första år (spädbarnsdödlighet) eller sina första fem år (barnadödlighet). Båda räknas per 1 000 födda barn."
+    },
+    {
+      "id": 10,
+      "question": "Vilken är enligt boken den viktigaste förklaringen till att medellivslängden har ökat så mycket i världen?",
+      "options": [
+        "Att barnadödligheten har minskat i de flesta länder",
+        "Att det föds fler barn per kvinna",
+        "Att fler människor bor i städer",
+        "Att fler länder har blivit tätbefolkade"
+      ],
+      "correct": 0,
+      "explanation": "På s. 98 står att den viktigaste förklaringen till att medellivslängden ökat är att barnadödligheten minskat i de flesta länder. Då blir genomsnittet högre eftersom färre dör som barn."
+    },
+    {
+      "id": 11,
+      "question": "Vad betyder urbanisering?",
+      "options": [
+        "Att befolkningen i ett land ökar snabbt",
+        "Att människor flyttar från ett land till ett annat",
+        "Att människor flyttar från landsbygden till städerna",
+        "Att städer byggs om och blir mer miljövänliga"
+      ],
+      "correct": 2,
+      "explanation": "Urbanisering är ett geografiskt begrepp för att allt fler människor flyttar från landsbygden till städerna (s. 90). I dag bor mer än hälften av jordens befolkning i städer."
+    },
+    {
+      "id": 12,
+      "question": "Vilket påstående om urbanisering stämmer enligt boken?",
+      "options": [
+        "I höginkomstländer bor de flesta på landsbygden",
+        "I höginkomstländer som Sverige och Japan bor över 85 procent i städer, men i Kenya bara ungefär 25 procent",
+        "I Kenya bor över 85 procent av befolkningen i städer",
+        "Urbanisering sker bara i Europa och Nordamerika"
+      ],
+      "correct": 1,
+      "explanation": "På s. 92 står att i höginkomstländer som Sverige, Japan och Australien bor mer än 85 procent i städer, medan till exempel Kenya har cirka 25 procent stadsbor. Urbanisering pågår dessutom i de flesta länder i världen."
+    },
+    {
+      "id": 13,
+      "question": "Många unga flyttar från landsbygden till staden. Vad kan hända på landsbygden på sikt?",
+      "options": [
+        "Fler skolor och butiker öppnar eftersom det blir mer plats",
+        "Kollektivtrafiken byggs ut",
+        "Befolkningen ökar eftersom de äldre får fler barn",
+        "Skolor och butiker kan tvingas stänga, servicen dras in och ännu fler flyttar, så landsbygden avfolkas"
+      ],
+      "correct": 3,
+      "explanation": "Texten på s. 92–93 beskriver en kedja: unga flyttar, färre barn och kunder, skolor och butiker stänger, service som sjukhus och kollektivtrafik dras in och då flyttar ännu fler. Landsbygden avfolkas."
+    },
+    {
+      "id": 14,
+      "question": "Vad händer ofta i länder med sämre ekonomi när miljontals människor flyttar till städerna?",
+      "options": [
+        "Många får bo i stora slumområden i utkanten av staden",
+        "Alla får bra bostäder och arbeten direkt",
+        "Städerna slutar växa",
+        "Människorna flyttar tillbaka till landsbygden efter något år"
+      ],
+      "correct": 0,
+      "explanation": "Enligt s. 94 har länder med sämre ekonomiska förutsättningar inte samma möjligheter att ta hand om alla som flyttar in. Många får då bosätta sig i slumområden (kåkstäder) i utkanten av staden, där omkring en miljard människor bor i dag."
+    },
+    {
+      "id": 15,
+      "question": "Hur påverkade den industriella revolutionen jordens befolkning?",
+      "options": [
+        "Befolkningen minskade eftersom många dog i fabriker",
+        "Befolkningen förändrades inte alls",
+        "Befolkningen ökade kraftigt eftersom det blev mer mat, bättre hygien och medicinska framsteg som vaccin",
+        "Befolkningen ökade bara i Asien och Afrika"
+      ],
+      "correct": 2,
+      "explanation": "På s. 95 står att det framför allt var den industriella revolutionen och ett effektivare jordbruk i Europa och Nordamerika som gav mer mat. Bättre kunskap om hygien och vaccin räddade liv, fler levde längre och befolkningen ökade kraftigt."
+    },
+    {
+      "id": 16,
+      "question": "Hur såg befolkningsökningen ut före 1800-talet?",
+      "options": [
+        "Den ökade mycket långsamt eftersom hungersnöd, sjukdomar och ett hårt liv gjorde att många dog",
+        "Den ökade snabbare än någonsin",
+        "Den ökade jämnt med en miljard människor per århundrade",
+        "Den minskade stadigt tills 1900-talet"
+      ],
+      "correct": 0,
+      "explanation": "Boken (s. 95) förklarar att jordens befolkning ökade mycket långsamt fram till 1800-talet. Hungersnöd, sjukdomar och ett hårt liv gjorde att antalet människor vissa år till och med minskade. Först på 1800-talet tog ökningen fart."
+    },
+    {
+      "id": 17,
+      "question": "Vad visar en befolkningspyramid?",
+      "options": [
+        "Hur tätt människor bor i olika delar av ett land",
+        "Hur många som flyttar in och ut ur ett land",
+        "Hur många som bor i städer respektive på landsbygden",
+        "Hur många invånare ett land har i olika åldersklasser, uppdelat på män och kvinnor"
+      ],
+      "correct": 3,
+      "explanation": "Enligt s. 100 visar ett befolkningsdiagram hur fördelningen mellan olika åldersklasser och kön ser ut. Staplarna till vänster visar antalet män och staplarna till höger antalet kvinnor."
+    },
+    {
+      "id": 18,
+      "question": "Japans befolkningspyramid har en smal botten och många äldre. Vad kan man dra för slutsats?",
+      "options": [
+        "Befolkningen ökar snabbt eftersom det föds så många barn",
+        "Medellivslängden är mycket låg",
+        "Det föds färre barn än förr, befolkningen minskar och medellivslängden är hög",
+        "Nästan halva befolkningen är under 20 år"
+      ],
+      "correct": 2,
+      "explanation": "Boken (s. 100) förklarar att det i Japan bara är en liten del barn 0–4 år. Det betyder att det föds färre barn än för 40 år sedan, att befolkningen minskar och att medellivslängden är hög, vilket är typiskt för höginkomstländer."
+    },
+    {
+      "id": 19,
+      "question": "Nigerias befolkningspyramid är bred längst ner. Vad betyder det?",
+      "options": [
+        "Medellivslängden är högre än i Japan",
+        "Andelen barn och unga är stor, så befolkningen ökar snabbt",
+        "Det finns nästan inga barn i landet",
+        "Befolkningen minskar eftersom många är gamla"
+      ],
+      "correct": 1,
+      "explanation": "På s. 100 jämförs Nigeria med Japan. I Nigeria är nästan halva befolkningen under 20 år och varje kvinna föder i genomsnitt cirka 5 barn, så befolkningen ökar snabbt. Andelen äldre är låg och medellivslängden lägre."
+    },
+    {
+      "id": 20,
+      "question": "Vad är den demografiska transitionsmodellen?",
+      "options": [
+        "En modell i fem stadier som beskriver hur ett lands naturliga befolkningsökning förändras när landet utvecklas",
+        "En modell som visar hur tätt människor bor i olika länder",
+        "En modell med tre stadier som visar hur många som flyttar till städer",
+        "En modell som visar hur många barn som dör i olika länder"
+      ],
+      "correct": 0,
+      "explanation": "Den demografiska transitionsmodellen beskriver hur ett lands naturliga befolkningsökning förändras i takt med att landet utvecklas. Modellen innehåller fem stadier och bygger på balansen mellan födelsetal och dödstal."
+    },
+    {
+      "id": 21,
+      "question": "Vad kännetecknar stadie 2 i den demografiska transitionsmodellen?",
+      "options": [
+        "Födelsetalet är lägre än dödstalet och folkmängden minskar",
+        "Både födelsetal och dödstal är låga och folkmängden är stabil",
+        "Många barn föds och många dör, så folkmängden är stabil",
+        "Många barn föds men dödstalen börjar sjunka, så folkmängden ökar snabbt"
+      ],
+      "correct": 3,
+      "explanation": "I stadie 2 föds fortfarande många barn men dödstalen sjunker, till exempel för att fler kan äta sig mätta och för att sjukvård och mediciner räddar fler. Därför ökar folkmängden snabbt. Många västeuropeiska länder var här i slutet av 1800-talet."
+    },
+    {
+      "id": 22,
+      "question": "Före industrialiseringen på 1800-talet befann sig alla länder i stadie 1. Hur såg det ut då?",
+      "options": [
+        "Få barn föddes och få dog, så folkmängden växte snabbt",
+        "Folkmängden minskade kraftigt år efter år",
+        "Många barn föddes och många dog, så folkmängden var ganska stabil över längre tid",
+        "Dödstalen var mycket lägre än födelsetalen"
+      ],
+      "correct": 2,
+      "explanation": "Stadie 1 beskrivs som många födda och många döda, vilket ger en stabil folkmängd. Barnadödligheten var mycket hög och många vuxna dog av sjukdomar, undernäring eller naturkatastrofer."
+    },
+    {
+      "id": 23,
+      "question": "I stadie 5 är födelsetalet lägre än dödstalet och fruktsamhetstalet ligger kring 1,5. Vad händer med folkmängden?",
+      "options": [
+        "Den ökar snabbt",
+        "Den minskar, men invandring kan i vissa länder väga upp underskottet av födda",
+        "Den är helt stabil",
+        "Den fördubblas på 25 år"
+      ],
+      "correct": 1,
+      "explanation": "Enligt beskrivningen av stadie 5 minskar folkmängden när det föds färre än det dör. Minskningen kan i vissa länder kompenseras av hög invandring."
+    },
+    {
+      "id": 24,
+      "question": "Anna flyttar från Sverige till Kanada. Vilket påstående är rätt?",
+      "options": [
+        "Hon immigrerar från Sverige och emigrerar till Kanada",
+        "Hon urbaniserar från Sverige till Kanada",
+        "Hon emigrerar till Sverige och immigrerar från Kanada",
+        "Hon emigrerar från Sverige och immigrerar till Kanada"
+      ],
+      "correct": 3,
+      "explanation": "Emigration är att lämna sitt land för att flytta till ett annat, och immigration är att flytta och bosätta sig i ett annat land än sitt hemland (begreppslistan). Anna emigrerar alltså från Sverige och immigrerar till Kanada. Båda är exempel på migration."
+    },
+    {
+      "id": 25,
+      "question": "Vilket av följande är en pushfaktor?",
+      "options": [
+        "Arbetslöshet i området där man bor",
+        "Bra barnomsorg på en annan plats",
+        "Många lediga jobb i en storstad",
+        "Fler utbildningsmöjligheter i en stad"
+      ],
+      "correct": 0,
+      "explanation": "Pushfaktorer är negativa saker i ett område som gör att människor flyttar därifrån, till exempel låga löner och arbetslöshet (begreppslistan). De övriga alternativen är positiva saker som lockar, alltså pullfaktorer."
+    },
+    {
+      "id": 26,
+      "question": "Vilket av följande är en pullfaktor?",
+      "options": [
+        "Låga löner",
+        "Få arbetstillfällen",
+        "Tillgång till jobb och barnomsorg",
+        "Arbetslöshet"
+      ],
+      "correct": 2,
+      "explanation": "Pullfaktorer är positiva saker i ett område som gör att människor flyttar dit, till exempel jobb och barnomsorg (begreppslistan). Boken nämner även bättre utbildningsmöjligheter, fler arbeten och större utbud av nöjen och bostäder som skäl att flytta till storstäder (s. 92)."
+    },
+    {
+      "id": 27,
+      "question": "En familj flyttar från landsbygden till en stad eftersom det inte finns jobb där de bor, men det finns många jobb i staden. Vad är vad?",
+      "options": [
+        "Bristen på jobb hemma är en pullfaktor och jobben i staden är en pushfaktor",
+        "Bristen på jobb hemma är en pushfaktor och jobben i staden är en pullfaktor",
+        "Båda är pushfaktorer",
+        "Båda är pullfaktorer"
+      ],
+      "correct": 1,
+      "explanation": "Det negativa som får familjen att lämna sitt område (inga jobb) är en pushfaktor, och det positiva som lockar dem till staden (många jobb) är en pullfaktor. Flytten är ett exempel på urbanisering."
+    },
+    {
+      "id": 28,
+      "question": "Vad menas med familjeplanering?",
+      "options": [
+        "Att staten bestämmer hur många barn varje familj får ha",
+        "Att familjer planerar var de ska bo",
+        "Att man räknar ut hur många som bor i ett hushåll",
+        "Att man medvetet försöker påverka hur stor familjen blir"
+      ],
+      "correct": 3,
+      "explanation": "Enligt begreppslistan innebär familjeplanering att man medvetet försöker påverka familjens storlek. Boken (s. 98) berättar att kvinnor på 1960-talet födde i genomsnitt 5 barn, men i dag är det 2,5, vilket är en förklaring till att befolkningsökningen väntas stanna av efter 2050."
+    }
+  ]
+}
