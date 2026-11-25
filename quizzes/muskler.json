@@ -1,0 +1,272 @@
+{
+  "title": "Kroppens 11 basmuskler",
+  "subject": "Idrott och hälsa",
+  "description": "Latinska namn, placering och funktion för 11 muskler.",
+  "generated": "2026-11-25",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Vilken muskel sitter i nacken och övre delen av ryggen?",
+      "options": [
+        "Trapezius",
+        "Latissimus dorsi",
+        "Deltoideus",
+        "Pectoralis major"
+      ],
+      "correct": 0,
+      "explanation": "Trapezius (kappmuskeln) sträcker sig från nacken ut mot axlarna och ner över övre ryggen."
+    },
+    {
+      "id": 2,
+      "question": "Vad gör trapezius?",
+      "options": [
+        "Sträcker armbågen",
+        "Böjer bålen framåt",
+        "Sträcker knät",
+        "Lyfter och drar ihop skulderbladen"
+      ],
+      "correct": 3,
+      "explanation": "Trapezius styr skulderbladen, till exempel när du rycker på axlarna."
+    },
+    {
+      "id": 3,
+      "question": "Vad heter den stora axelmuskeln på latin?",
+      "options": [
+        "Trapezius",
+        "Biceps brachii",
+        "Deltoideus",
+        "Gastrocnemius"
+      ],
+      "correct": 2,
+      "explanation": "Deltoideus (deltamuskeln) ligger som en kappa över axelleden."
+    },
+    {
+      "id": 4,
+      "question": "Vilken rörelse är deltoideus viktigast för?",
+      "options": [
+        "Att sträcka knät",
+        "Att lyfta armen",
+        "Att göra en tåhävning",
+        "Att böja bålen framåt"
+      ],
+      "correct": 1,
+      "explanation": "Deltoideus lyfter armen framåt, åt sidan och bakåt."
+    },
+    {
+      "id": 5,
+      "question": "Var sitter pectoralis major?",
+      "options": [
+        "På bröstet",
+        "På ryggen",
+        "På lårets baksida",
+        "I vaden"
+      ],
+      "correct": 0,
+      "explanation": "Pectoralis major är den stora bröstmuskeln."
+    },
+    {
+      "id": 6,
+      "question": "Vilken muskel arbetar mycket när du pressar ihop armarna framför kroppen?",
+      "options": [
+        "Latissimus dorsi",
+        "Gluteus maximus",
+        "Hamstrings",
+        "Pectoralis major"
+      ],
+      "correct": 3,
+      "explanation": "Pectoralis major för armen framåt och in mot kroppen, till exempel i bänkpress."
+    },
+    {
+      "id": 7,
+      "question": "Var sitter biceps brachii?",
+      "options": [
+        "På överarmens baksida",
+        "På lårets framsida",
+        "På överarmens framsida",
+        "På axelns ovansida"
+      ],
+      "correct": 2,
+      "explanation": "Biceps brachii är den tvåhövdade armmuskeln på överarmens framsida."
+    },
+    {
+      "id": 8,
+      "question": "Vad gör biceps brachii?",
+      "options": [
+        "Sträcker armbågen",
+        "Böjer armbågen",
+        "Sträcker höften",
+        "Sträcker fotleden"
+      ],
+      "correct": 1,
+      "explanation": "Biceps böjer armbågen och vrider handflatan uppåt."
+    },
+    {
+      "id": 9,
+      "question": "Vilken muskel sitter på överarmens baksida?",
+      "options": [
+        "Triceps brachii",
+        "Biceps brachii",
+        "Deltoideus",
+        "Rectus abdominis"
+      ],
+      "correct": 0,
+      "explanation": "Triceps brachii är den trehövdade armmuskeln."
+    },
+    {
+      "id": 10,
+      "question": "Vilken muskel arbetar mest när du sträcker armbågen i en armhävning?",
+      "options": [
+        "Biceps brachii",
+        "Trapezius",
+        "Latissimus dorsi",
+        "Triceps brachii"
+      ],
+      "correct": 3,
+      "explanation": "Triceps sträcker armbågen när du pressar dig upp."
+    },
+    {
+      "id": 11,
+      "question": "Vad heter den raka bukmuskeln på latin?",
+      "options": [
+        "Latissimus dorsi",
+        "Pectoralis major",
+        "Rectus abdominis",
+        "Gluteus maximus"
+      ],
+      "correct": 2,
+      "explanation": "Rectus abdominis är muskeln som brukar kallas sexpacket."
+    },
+    {
+      "id": 12,
+      "question": "Vad gör rectus abdominis?",
+      "options": [
+        "Lyfter armen",
+        "Böjer bålen framåt",
+        "Sträcker knät",
+        "Drar armen bakåt"
+      ],
+      "correct": 1,
+      "explanation": "Raka bukmuskeln böjer bålen framåt, till exempel i en sit-up."
+    },
+    {
+      "id": 13,
+      "question": "Var sitter latissimus dorsi?",
+      "options": [
+        "På ryggens sidor, från nedre ryggen upp mot överarmen",
+        "På bröstet",
+        "På lårets framsida",
+        "I nacken"
+      ],
+      "correct": 0,
+      "explanation": "Latissimus dorsi är den breda ryggmuskeln."
+    },
+    {
+      "id": 14,
+      "question": "Vilken muskel är viktig när du gör chins och drar armarna nedåt?",
+      "options": [
+        "Triceps brachii",
+        "Rectus abdominis",
+        "Quadriceps",
+        "Latissimus dorsi"
+      ],
+      "correct": 3,
+      "explanation": "Latissimus dorsi drar armen nedåt och bakåt."
+    },
+    {
+      "id": 15,
+      "question": "Vad heter den stora sätesmuskeln på latin?",
+      "options": [
+        "Gastrocnemius",
+        "Quadriceps",
+        "Gluteus maximus",
+        "Deltoideus"
+      ],
+      "correct": 2,
+      "explanation": "Gluteus maximus är den stora muskeln i rumpan."
+    },
+    {
+      "id": 16,
+      "question": "Vilken är en huvuduppgift för gluteus maximus?",
+      "options": [
+        "Att böja armbågen",
+        "Att sträcka höften",
+        "Att böja bålen framåt",
+        "Att lyfta skulderbladen"
+      ],
+      "correct": 1,
+      "explanation": "Gluteus maximus sträcker höften, till exempel när du reser dig eller går i trappor."
+    },
+    {
+      "id": 17,
+      "question": "Vilken muskelgrupp sitter på lårets framsida?",
+      "options": [
+        "Quadriceps",
+        "Hamstrings",
+        "Gastrocnemius",
+        "Gluteus maximus"
+      ],
+      "correct": 0,
+      "explanation": "Quadriceps (fyrhövdade lårmuskeln) ligger på lårets framsida."
+    },
+    {
+      "id": 18,
+      "question": "Vad är den viktigaste uppgiften för quadriceps?",
+      "options": [
+        "Att böja knät",
+        "Att sträcka armbågen",
+        "Att lyfta armen",
+        "Att sträcka knät"
+      ],
+      "correct": 3,
+      "explanation": "Quadriceps sträcker knät, till exempel när du sparkar på en boll."
+    },
+    {
+      "id": 19,
+      "question": "Vilken muskelgrupp sitter på lårets baksida?",
+      "options": [
+        "Quadriceps",
+        "Gastrocnemius",
+        "Hamstrings",
+        "Rectus abdominis"
+      ],
+      "correct": 2,
+      "explanation": "Hamstrings är ett engelskt samlingsnamn för tre muskler på lårets baksida."
+    },
+    {
+      "id": 20,
+      "question": "Vad gör hamstrings?",
+      "options": [
+        "Sträcker knät",
+        "Böjer knät och sträcker höften",
+        "Sträcker armbågen",
+        "Böjer bålen framåt"
+      ],
+      "correct": 1,
+      "explanation": "Hamstrings arbetar över både höften och knät."
+    },
+    {
+      "id": 21,
+      "question": "Var sitter gastrocnemius?",
+      "options": [
+        "I vaden",
+        "I rumpan",
+        "På lårets framsida",
+        "På överarmen"
+      ],
+      "correct": 0,
+      "explanation": "Gastrocnemius (tvillingvadmuskeln) har två muskelbukar i vaden."
+    },
+    {
+      "id": 22,
+      "question": "Vilken muskel arbetar mycket när du gör en tåhävning med raka ben?",
+      "options": [
+        "Quadriceps",
+        "Hamstrings",
+        "Gluteus maximus",
+        "Gastrocnemius"
+      ],
+      "correct": 3,
+      "explanation": "Gastrocnemius sträcker fotleden så att du kommer upp på tå."
+    }
+  ]
+}

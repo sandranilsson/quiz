@@ -470,7 +470,7 @@ function answer(idx, btn, correctIdx, d) {
     b.disabled = true;
   });
   if (idx === correctIdx) { correctCount++; }
-  else { wrongIds.push(d._idx ?? d.id); }
+  else { wrongIds.push(d.id); }
   updateScoreChip();
   if (d.explanation) {
     const el = document.getElementById('explanation');
@@ -515,7 +515,7 @@ function showResult() {
 function retryAll() { startQuiz(allQuestions); }
 
 function retryWrong() {
-  const wrong = allQuestions.filter(q => wrongIds.includes(q._idx ?? q.id));
+  const wrong = allQuestions.filter(q => wrongIds.includes(q.id));
   if (!wrong.length) return;
   startQuiz(wrong);
 }
