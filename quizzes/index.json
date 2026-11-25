@@ -1,5 +1,13 @@
 [
   {
+    "id": "idrottsteori",
+    "title": "Idrottsteori åk 9",
+    "subject": "Idrott och hälsa",
+    "description": "Mental hälsa, kost, vätska, sömn, kondition, styrka och doping.",
+    "date": "2026-11-25",
+    "questionCount": 68
+  },
+  {
     "id": "muskler",
     "title": "Kroppens 11 basmuskler",
     "subject": "Idrott och hälsa",

@@ -1,0 +1,824 @@
+{
+  "title": "Idrottsteori åk 9",
+  "subject": "Idrott och hälsa",
+  "description": "Mental hälsa, kost, vätska, sömn, kondition, styrka och doping.",
+  "generated": "2026-11-25",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Vilket påstående beskriver god psykisk hälsa bäst?",
+      "options": [
+        "Att må bra psykiskt, kunna hantera vardagens påfrestningar och fungera tillsammans med andra",
+        "Att alltid vara glad och aldrig känna sig stressad",
+        "Att ha en vältränad kropp utan skador",
+        "Att klara allt själv utan hjälp från andra"
+      ],
+      "correct": 0,
+      "explanation": "God psykisk hälsa betyder inte att alltid vara glad. Alla känner sig ledsna eller stressade ibland. (Tillägg utifrån WHO:s definition, finns inte i lärarens material.)"
+    },
+    {
+      "id": 2,
+      "question": "Vilket av följande är ett psykiskt behov?",
+      "options": [
+        "Att dricka vatten",
+        "Att ha tak över huvudet",
+        "Att andas luft",
+        "Att känna tillhörighet"
+      ],
+      "correct": 3,
+      "explanation": "Psykiska behov är till exempel tillhörighet, mening med livet, att bli sedd och att bli uppskattad."
+    },
+    {
+      "id": 3,
+      "question": "Vilket av följande räknas till de fysiska behoven?",
+      "options": [
+        "Att bli sedd",
+        "Mening med livet",
+        "Tak över huvudet",
+        "Att bli uppskattad"
+      ],
+      "correct": 2,
+      "explanation": "Fysiska behov är till exempel mat, vatten, luft och tak över huvudet."
+    },
+    {
+      "id": 4,
+      "question": "Hur går det för oss människor med behoven, enligt lärarens presentation?",
+      "options": [
+        "Vi är bättre än någonsin på både det fysiska och det psykiska",
+        "Vi är bättre än någonsin på det fysiska men sämre på det psykiska",
+        "Vi är sämre på det fysiska men bättre på det psykiska",
+        "Ingenting har förändrats"
+      ],
+      "correct": 1,
+      "explanation": "Presentationen lyfter att vi aldrig har varit så ensamma, trots att de fysiska behoven tillgodoses bättre."
+    },
+    {
+      "id": 5,
+      "question": "Varför kan ensamhet påverka oss så mycket?",
+      "options": [
+        "Hjärnan slutar utvecklas så fort man är ensam en stund",
+        "Människan har utvecklats som flockdjur och överlevt genom att hålla ihop",
+        "Människan är gjord för att leva helt på egen hand",
+        "Ensamhet påverkar bara kroppen, inte känslorna"
+      ],
+      "correct": 1,
+      "explanation": "Vi har utvecklats som flockdjur. Därför behöver vi känna att vi hör till."
+    },
+    {
+      "id": 6,
+      "question": "Vad säger presentationen om sociala medier och våra psykologiska behov?",
+      "options": [
+        "De uppfyller inte behoven, även om vi tror det",
+        "De uppfyller alla behov bättre än verkliga möten",
+        "De påverkar bara sömnen, inte hur vi mår",
+        "De ersätter behovet av tillhörighet helt"
+      ],
+      "correct": 0,
+      "explanation": "Vi letar ibland lycka på fel ställe. Sociala medier kan kännas som gemenskap utan att ge det vi behöver."
+    },
+    {
+      "id": 7,
+      "question": "Vad skiljer depression från att vara tillfälligt ledsen?",
+      "options": [
+        "Man är ledsen en kväll efter ett dåligt provresultat",
+        "Man blir irriterad efter ett bråk",
+        "Man känner sig nere en regnig dag",
+        "Besvären håller i sig i mer än två veckor och påverkar vardagen"
+      ],
+      "correct": 3,
+      "explanation": "Att bli ledsen av ett F, ett bråk eller ett misslyckande är normalt. Vid depression varar besvären längre än två veckor."
+    },
+    {
+      "id": 8,
+      "question": "Vilka är vanliga tecken på depression?",
+      "options": [
+        "Mer energi, större nyfikenhet och bättre humör",
+        "Hosta, feber och ont i halsen",
+        "Nedstämdhet, minskat intresse, lite energi och förändrad aptit",
+        "Träningsvärk och mjölksyra efter ett pass"
+      ],
+      "correct": 2,
+      "explanation": "Vid depression kan intresset och energin försvinna, och sömn och aptit kan förändras."
+    },
+    {
+      "id": 9,
+      "question": "Vad kan utlösa en depression?",
+      "options": [
+        "Bara att man har för svag vilja",
+        "Enbart vädret",
+        "Gener, omgivning och uppväxt, och samspelet mellan dem",
+        "Endast en enda dålig natts sömn"
+      ],
+      "correct": 2,
+      "explanation": "Både biologiska faktorer och miljön spelar roll. Det är aldrig en fråga om svag vilja."
+    },
+    {
+      "id": 10,
+      "question": "Vilka signalämnen i hjärnan nämns i samband med depression?",
+      "options": [
+        "Insulin och adrenalin",
+        "Serotonin och dopamin",
+        "Testosteron och östrogen",
+        "Järn och zink"
+      ],
+      "correct": 1,
+      "explanation": "Presentationen nämner serotonin och dopamin, som har med bland annat humör och glädje att göra, samt sömnens hjärnvågor och hormoner."
+    },
+    {
+      "id": 11,
+      "question": "Vilket påstående om hjälp vid depression stämmer?",
+      "options": [
+        "Det finns bra behandling, och det är viktigt att söka hjälp",
+        "Det går alltid över av sig självt om man väntar",
+        "Det finns ingen hjälp att få",
+        "Man ska klara det helt på egen hand"
+      ],
+      "correct": 0,
+      "explanation": "Depression kan vara svårt att upptäcka och många väntar länge. Prata med en vuxen du litar på, elevhälsan eller ring 1177."
+    },
+    {
+      "id": 12,
+      "question": "Någon berättar att den har självmordstankar. Vad stämmer?",
+      "options": [
+        "Man ska undvika att prata om det, för det ökar risken",
+        "Man ska lova att hålla det hemligt",
+        "Man ska vänta och se om det går över",
+        "Att prata om det kan minska risken, och en vuxen ska kopplas in"
+      ],
+      "correct": 3,
+      "explanation": "Att våga fråga och lyssna kan minska risken. Bär inte det själv: ta hjälp av en vuxen direkt. Vid akut fara ring 112."
+    },
+    {
+      "id": 13,
+      "question": "Vad är kalorier?",
+      "options": [
+        "En sorts vitamin",
+        "Ett mineral i blodet",
+        "En typ av fett",
+        "Ett mått på energi"
+      ],
+      "correct": 3,
+      "explanation": "Kilokalorier (kcal) anger hur mycket energi maten innehåller. Kroppen behöver energi för allt den gör."
+    },
+    {
+      "id": 14,
+      "question": "Ungefär hur mycket energi per dag anger lärarens presentation för killar 14–18 år?",
+      "options": [
+        "800–1200 kcal",
+        "1200–1500 kcal",
+        "2200–2800 kcal",
+        "4500–5500 kcal"
+      ],
+      "correct": 2,
+      "explanation": "Presentationen anger 2200–2800 kcal för killar och 1800–2000 kcal för tjejer. Behovet varierar mellan personer, bland annat med hur mycket man rör sig."
+    },
+    {
+      "id": 15,
+      "question": "Vad bryts kolhydrater ner till i kroppen?",
+      "options": [
+        "Aminosyror",
+        "Glukos",
+        "Testosteron",
+        "Mjölkprotein"
+      ],
+      "correct": 1,
+      "explanation": "Glukos ger energi till cellerna och hjärnan."
+    },
+    {
+      "id": 16,
+      "question": "Vad kännetecknar långsamma kolhydrater?",
+      "options": [
+        "De håller blodsockret jämnt och gör att man är mätt längre",
+        "De ger en snabb topp i blodsockret som snart dalar",
+        "De innehåller ingen energi alls",
+        "De bygger främst upp skelettet"
+      ],
+      "correct": 0,
+      "explanation": "Långsamma kolhydrater minskar också risken för sötsug."
+    },
+    {
+      "id": 17,
+      "question": "Vad händer oftast när man äter snabba kolhydrater?",
+      "options": [
+        "Blodsockret stiger snabbt och energin tar snart slut",
+        "Blodsockret ligger helt stilla hela dagen",
+        "Man blir mätt mycket länge",
+        "Kroppen kan inte ta upp dem"
+      ],
+      "correct": 0,
+      "explanation": "Snabba kolhydrater påverkar blodsockret starkt och kan skapa sötsug."
+    },
+    {
+      "id": 18,
+      "question": "I vilka livsmedel finns bra kolhydrater?",
+      "options": [
+        "Smör, olja och margarin",
+        "Läsk, godis och saft",
+        "Ägg, fisk och kyckling",
+        "Fullkornsbröd, grönsaker, frukt och baljväxter"
+      ],
+      "correct": 3,
+      "explanation": "Fullkorn och fibrer ger bra kolhydrater. (Tillägg från 1177, finns inte i lärarens material.)"
+    },
+    {
+      "id": 19,
+      "question": "Vilken uppgift har protein i kroppen?",
+      "options": [
+        "Att vara kroppens vätska",
+        "Att enbart ge snabb energi till hjärnan",
+        "Att bygga upp och reparera celler, vävnader och muskler",
+        "Att ersätta sömnen"
+      ],
+      "correct": 2,
+      "explanation": "Proteiner är kroppens byggstenar. Även hormoner, enzymer och antikroppar består av protein."
+    },
+    {
+      "id": 20,
+      "question": "Vad menas med essentiella aminosyror?",
+      "options": [
+        "Aminosyror som kroppen bildar i överskott",
+        "Aminosyror som kroppen inte kan bilda själv utan måste få från maten",
+        "Aminosyror som bara finns i godis",
+        "Aminosyror som kroppen inte behöver"
+      ],
+      "correct": 1,
+      "explanation": "Protein består av 20 aminosyror. Nio av dem är essentiella, alltså livsnödvändiga att få via maten."
+    },
+    {
+      "id": 21,
+      "question": "Vilka livsmedel innehåller mycket protein?",
+      "options": [
+        "Läsk, saft och godis",
+        "Fisk, ägg, kött, mjölkprodukter och bönor",
+        "Äpplen, gurka och sallad",
+        "Matolja och socker"
+      ],
+      "correct": 1,
+      "explanation": "Även ärtor och linser är bra proteinkällor. (Tillägg från 1177, finns inte i lärarens material.)"
+    },
+    {
+      "id": 22,
+      "question": "Vad behöver kroppen fett till?",
+      "options": [
+        "Energi, att bilda könshormoner och att ta upp vissa vitaminer",
+        "Bara att göra maten godare, kroppen behöver inget fett",
+        "Att transportera syre i blodet",
+        "Att ersätta vatten"
+      ],
+      "correct": 0,
+      "explanation": "Fett är viktigt för att kroppen ska fungera. (Tillägg från 1177, finns inte i lärarens material.)"
+    },
+    {
+      "id": 23,
+      "question": "Vilka fetter är nyttigast för kroppen?",
+      "options": [
+        "Mättade fetter",
+        "Transfetter",
+        "Alla fetter är precis lika bra",
+        "Omättade fetter"
+      ],
+      "correct": 3,
+      "explanation": "Omättade fetter är bäst. Mättade fetter bör man äta mindre av och transfetter är sämst. (Tillägg från 1177, finns inte i lärarens material.)"
+    },
+    {
+      "id": 24,
+      "question": "Var finns mycket omättat fett?",
+      "options": [
+        "Smör, grädde och ost",
+        "Korv och andra charkprodukter",
+        "Fet fisk, nötter, rapsolja och avokado",
+        "Kakor och choklad"
+      ],
+      "correct": 2,
+      "explanation": "Smör, grädde, ost och chark innehåller mycket mättat fett. (Tillägg från 1177, finns inte i lärarens material.)"
+    },
+    {
+      "id": 25,
+      "question": "Vad gör C-vitamin?",
+      "options": [
+        "Transporterar syret från lungorna",
+        "Är kroppens främsta energikälla",
+        "Fungerar som antioxidant, behövs för brosk och ben och hjälper kroppen ta upp järn",
+        "Gör att man kan klara sig utan vätska"
+      ],
+      "correct": 2,
+      "explanation": "C-vitamin underlättar upptaget av järn från maten."
+    },
+    {
+      "id": 26,
+      "question": "Vad är B12 viktigt för?",
+      "options": [
+        "Att ge maten fibrer",
+        "Bildningen av blodkroppar och nervsystemets funktion",
+        "Att ersätta sömn",
+        "Att göra tänderna vitare"
+      ],
+      "correct": 1,
+      "explanation": "B12 behövs också för cellernas ämnesomsättning."
+    },
+    {
+      "id": 27,
+      "question": "Vad behövs folat för?",
+      "options": [
+        "Att bilda nya celler och röda blodkroppar",
+        "Att bryta ner mjölksyra på sekunder",
+        "Att sänka kroppstemperaturen",
+        "Att lagra vatten"
+      ],
+      "correct": 0,
+      "explanation": "Behovet av folat ökar när många nya celler bildas, till exempel när man växer."
+    },
+    {
+      "id": 28,
+      "question": "Vilken uppgift har järn?",
+      "options": [
+        "Att bygga upp fettlager",
+        "Att göra att man somnar snabbare",
+        "Att ge söt smak",
+        "Att hjälpa till att transportera syre från lungorna ut i kroppen"
+      ],
+      "correct": 3,
+      "explanation": "Vid järnbrist kan man bli blek och trött."
+    },
+    {
+      "id": 29,
+      "question": "Vilket mineral lyfts fram som viktigt för att muskler och nerver ska fungera?",
+      "options": [
+        "Folat",
+        "B12",
+        "C-vitamin",
+        "Magnesium"
+      ],
+      "correct": 3,
+      "explanation": "Magnesium är ett mineral. Folat, B12 och C är vitaminer."
+    },
+    {
+      "id": 30,
+      "question": "Vad behövs zink bland annat till?",
+      "options": [
+        "Att ge snabb energi som socker",
+        "Att ersätta protein",
+        "Immunförsvaret och många enzymer",
+        "Att göra blodet rött"
+      ],
+      "correct": 2,
+      "explanation": "Zink ingår i hundratals enzymer och behövs för immunsystemet."
+    },
+    {
+      "id": 31,
+      "question": "Vad kan hända om man hoppar över måltider?",
+      "options": [
+        "Man får bättre reaktionsförmåga",
+        "Man kan bli trött, irriterad och få svårare att koncentrera sig",
+        "Man fryser mindre",
+        "Omdömet blir bättre"
+      ],
+      "correct": 1,
+      "explanation": "Presentationen nämner också huvudvärk, sämre omdöme och att man lättare fryser och blir sjuk."
+    },
+    {
+      "id": 32,
+      "question": "Hur mycket vätska per dag anger presentationen att man behöver?",
+      "options": [
+        "2–3 liter",
+        "Ett halvt glas",
+        "6–8 liter",
+        "Ingen, om man äter mat"
+      ],
+      "correct": 0,
+      "explanation": "Behovet ökar när man svettas mycket. Vatten är den bästa törstsläckaren."
+    },
+    {
+      "id": 33,
+      "question": "Ungefär hur stor del av kroppen är vatten?",
+      "options": [
+        "60 %",
+        "10 %",
+        "25 %",
+        "95 %"
+      ],
+      "correct": 0,
+      "explanation": "Mer än halva kroppen är vatten."
+    },
+    {
+      "id": 34,
+      "question": "Vilka är vanliga tecken på att man fått i sig för lite vätska?",
+      "options": [
+        "Mer energi och bättre fokus",
+        "Starkare muskler",
+        "Lägre törst och piggare kropp",
+        "Huvudvärk, trötthet, yrsel och koncentrationssvårigheter"
+      ],
+      "correct": 3,
+      "explanation": "Redan lite vätskebrist kan märkas på koncentrationen."
+    },
+    {
+      "id": 35,
+      "question": "Vad står REM för i REM-sömn?",
+      "options": [
+        "Resting energy mode, viloläge",
+        "Regular evening method, kvällsrutin",
+        "Rapid eye movement, snabba ögonrörelser",
+        "Rapid energy muscle, snabb muskel"
+      ],
+      "correct": 2,
+      "explanation": "REM-sömn kallas också drömsömn. (Tillägg från 1177, finns inte i lärarens material.)"
+    },
+    {
+      "id": 36,
+      "question": "Vad kännetecknar REM-sömnen?",
+      "options": [
+        "Hjärnan stängs av helt",
+        "Man drömmer som mest och hjärnan är aktiv, ungefär som i vaket tillstånd",
+        "Man går alltid i sömnen",
+        "Den förekommer bara på morgonen efter att man vaknat"
+      ],
+      "correct": 1,
+      "explanation": "Perioderna med drömsömn blir längre mot slutet av natten. (Tillägg från 1177, finns inte i lärarens material.)"
+    },
+    {
+      "id": 37,
+      "question": "Vad stämmer om djupsömnen?",
+      "options": [
+        "Den är ytlig och man vaknar mycket lätt",
+        "Det är svårt att vakna ur den, och man kan känna sig förvirrad om man väcks",
+        "Den är samma sak som insomningsfasen",
+        "Den förekommer bara mot slutet av natten"
+      ],
+      "correct": 1,
+      "explanation": "Djupsömnen kommer främst i början av natten. (Tillägg från 1177, finns inte i lärarens material.)"
+    },
+    {
+      "id": 38,
+      "question": "Vad händer i kroppen när man sover?",
+      "options": [
+        "Kroppen återhämtar sig, puls och blodtryck sjunker och minnen lagras",
+        "Pulsen stiger till maxpuls",
+        "Hjärnan slutar bearbeta intryck",
+        "Kroppen slutar bilda nya celler"
+      ],
+      "correct": 0,
+      "explanation": "Sömnen ger både kroppen och hjärnan återhämtning. (Tillägg från 1177, finns inte i lärarens material.)"
+    },
+    {
+      "id": 39,
+      "question": "Hur mycket sömn anger presentationen ungefär per natt?",
+      "options": [
+        "Cirka 4 timmar",
+        "Cirka 5 timmar",
+        "Cirka 14 timmar",
+        "Cirka 8 timmar"
+      ],
+      "correct": 3,
+      "explanation": "Sömnbehovet varierar mellan personer. Tonåringar kan behöva lite mer."
+    },
+    {
+      "id": 40,
+      "question": "Vilket råd kan hjälpa en att sova bättre?",
+      "options": [
+        "Ha varmt och ljust i sovrummet",
+        "Byt läggtid varje kväll",
+        "Ha mörkt och svalt och gå och lägg dig vid samma tid",
+        "Undvik all fysisk aktivitet under dagen"
+      ],
+      "correct": 2,
+      "explanation": "Rutiner och fysisk aktivitet hjälper också."
+    },
+    {
+      "id": 41,
+      "question": "Vad kan påverkas om man sover för lite?",
+      "options": [
+        "Bara synen på färger",
+        "Ingenting, kroppen märker inte det",
+        "Humör, koncentration, hormoner, aptit och vikt",
+        "Endast längden på håret"
+      ],
+      "correct": 2,
+      "explanation": "Sömnbrist påverkar både kropp och psyke."
+    },
+    {
+      "id": 42,
+      "question": "Vad är kondition?",
+      "options": [
+        "Förmågan att lyfta så tungt som möjligt en gång",
+        "Kroppens förmåga att arbeta under en längre tid",
+        "Hur vig man är",
+        "Hur snabbt man reagerar"
+      ],
+      "correct": 1,
+      "explanation": "Kondition kallas också uthållighet. God syreupptagningsförmåga gör att man orkar längre."
+    },
+    {
+      "id": 43,
+      "question": "Vad innebär aerobt arbete?",
+      "options": [
+        "Arbete där musklerna får tillräckligt med syre, till exempel lugn jogg",
+        "Arbete helt utan syre vid maximal ansträngning",
+        "Vila liggande utan rörelse",
+        "Enbart tunga styrkelyft"
+      ],
+      "correct": 0,
+      "explanation": "Anaerobt arbete sker utan tillräckligt med syre, till exempel vid mycket hård och kort ansträngning."
+    },
+    {
+      "id": 44,
+      "question": "När bildas mycket mjölksyra?",
+      "options": [
+        "När man sover djupt",
+        "När man promenerar mycket lugnt",
+        "När man sitter stilla",
+        "När man anstränger sig så hårt att syret inte räcker till"
+      ],
+      "correct": 3,
+      "explanation": "Mjölksyra hänger ihop med anaerobt arbete."
+    },
+    {
+      "id": 45,
+      "question": "Vad är puls?",
+      "options": [
+        "Antalet andetag per timme",
+        "Mängden blod i hela kroppen",
+        "Trycket i musklerna",
+        "Antalet hjärtslag per minut"
+      ],
+      "correct": 3,
+      "explanation": "Pulsen visar hur hårt hjärtat arbetar. (Definitionen är ett tillägg.)"
+    },
+    {
+      "id": 46,
+      "question": "Hur räknar man ut ungefärlig maxpuls enligt presentationen?",
+      "options": [
+        "220 plus åldern",
+        "100 minus åldern",
+        "220 minus åldern",
+        "Åldern gånger 10"
+      ],
+      "correct": 2,
+      "explanation": "För en 15-åring blir det cirka 205 slag per minut. Det är en tumregel."
+    },
+    {
+      "id": 47,
+      "question": "Vilken vilopuls har oftast en vältränad person jämfört med en otränad?",
+      "options": [
+        "Högre",
+        "Lägre",
+        "Alltid exakt samma",
+        "Dubbelt så hög"
+      ],
+      "correct": 1,
+      "explanation": "Ett vältränat hjärta pumpar mer blod per slag och behöver slå färre gånger."
+    },
+    {
+      "id": 48,
+      "question": "Vad händer med hjärtat och blodkärlen av regelbunden konditionsträning?",
+      "options": [
+        "Slagvolymen ökar och nya små blodkärl bildas",
+        "Slagvolymen minskar och blodkärl försvinner",
+        "Hjärtat slutar använda syre",
+        "Vilopulsen stiger kraftigt"
+      ],
+      "correct": 0,
+      "explanation": "Träningen frigör också endorfiner som motverkar stress. Tränar man för mycket eller fel kan man få skador."
+    },
+    {
+      "id": 49,
+      "question": "Vad är intervallträning?",
+      "options": [
+        "Träning där man växlar tempo, till exempel löpning med tempohöjningar",
+        "Att springa i exakt samma lugna tempo hela tiden",
+        "Att hålla en muskel stilla",
+        "Att bara stretcha"
+      ],
+      "correct": 0,
+      "explanation": "Kuperad terräng ger också intervaller."
+    },
+    {
+      "id": 50,
+      "question": "Vilken träning tränar främst konditionen?",
+      "options": [
+        "Några få maximala lyft med lång vila",
+        "Stillasittande balansövningar",
+        "Stretching av armarna",
+        "Löpning, cykling, simning och skidåkning"
+      ],
+      "correct": 3,
+      "explanation": "Konditionsträning är dynamisk och använder stora muskelgrupper."
+    },
+    {
+      "id": 51,
+      "question": "Vad är styrka?",
+      "options": [
+        "Förmågan att arbeta länge med hög syreupptagning",
+        "Hur rörlig en led är",
+        "Förmågan att utveckla kraft eller spänning i en muskel eller muskelgrupp",
+        "Hur hög maxpuls man har"
+      ],
+      "correct": 2,
+      "explanation": "Styrka handlar om musklernas kraft."
+    },
+    {
+      "id": 52,
+      "question": "Vad är viktigt att tänka på vid styrketräning?",
+      "options": [
+        "Börja så tungt som möjligt utan uppvärmning",
+        "Värma upp, ha bra teknik och vila mellan passen",
+        "Göra snabba ryck för att spara tid",
+        "Träna samma muskel hårt varje dag utan vila"
+      ],
+      "correct": 1,
+      "explanation": "Långsamma rörelser, nedvarvning och stretching minskar också risken för problem."
+    },
+    {
+      "id": 53,
+      "question": "Varför ska man vänja kroppen långsamt vid styrketräning?",
+      "options": [
+        "Skelettet försvagas av all träning",
+        "Musklerna blir starkare snabbare än senor och ligament hinner anpassa sig",
+        "Musklerna kan inte växa alls",
+        "Senor sitter inte fast i musklerna"
+      ],
+      "correct": 1,
+      "explanation": "Senor fäster muskler vid skelettet och ligament binder ihop ben vid lederna."
+    },
+    {
+      "id": 54,
+      "question": "Vad kan regelbunden styrketräning minska risken för?",
+      "options": [
+        "Överbelastningsskador, benskörhet, högt blodtryck och hjärtinfarkt",
+        "Att musklerna blir starkare",
+        "Att man får mer energi",
+        "Att förbränningen ökar"
+      ],
+      "correct": 0,
+      "explanation": "Styrketräning kan också motverka depression och ge mer energi till annat."
+    },
+    {
+      "id": 55,
+      "question": "Vad är statisk styrka?",
+      "options": [
+        "Muskeln förkortas och förlängs i en rörelse",
+        "Man springer långa sträckor",
+        "Man vilar helt",
+        "Muskeln arbetar utan att rörelse sker, som i plankan"
+      ],
+      "correct": 3,
+      "explanation": "Dynamisk styrka innebär däremot att man rör sig."
+    },
+    {
+      "id": 56,
+      "question": "Vad händer med muskeln vid koncentriskt arbete?",
+      "options": [
+        "Den förlängs medan den bromsar",
+        "Den är helt avslappnad",
+        "Den förkortas medan den arbetar",
+        "Den arbetar utan att ändra längd"
+      ],
+      "correct": 2,
+      "explanation": "Exempel: biceps när du böjer armen och lyfter en vikt."
+    },
+    {
+      "id": 57,
+      "question": "Vad händer med muskeln vid excentriskt arbete?",
+      "options": [
+        "Den förkortas medan den lyfter",
+        "Den håller helt stilla",
+        "Den förlängs medan den arbetar och bromsar",
+        "Den slutar arbeta"
+      ],
+      "correct": 2,
+      "explanation": "Exempel: biceps när du långsamt sänker vikten."
+    },
+    {
+      "id": 58,
+      "question": "Vad är skillnaden mellan maxträning och uthållighetsträning i styrka?",
+      "options": [
+        "Maxträning: lätt och många repetitioner. Uthållighet: tungt och få",
+        "Maxträning: tungt och få repetitioner. Uthållighet: lättare och många repetitioner",
+        "Maxträning görs bara liggande, uthållighet bara stående",
+        "Det är ingen skillnad"
+      ],
+      "correct": 1,
+      "explanation": "Valet av vikt och antal repetitioner styr vad man tränar. (Förtydligande utöver lärarens material.)"
+    },
+    {
+      "id": 59,
+      "question": "Vilket är ett exempel på yttre belastning?",
+      "options": [
+        "En skivstång",
+        "Armhävningar med bara kroppsvikten",
+        "Att jogga",
+        "Att stretcha"
+      ],
+      "correct": 0,
+      "explanation": "Man kan träna med kroppen som belastning, med yttre vikter eller genom vardagliga sysslor."
+    },
+    {
+      "id": 60,
+      "question": "Vad betyder doping?",
+      "options": [
+        "Att äta en stor frukost före tävling",
+        "Att träna oftare än andra",
+        "Att dricka vatten under matchen",
+        "Att på otillåten väg förbättra sin prestationsförmåga"
+      ],
+      "correct": 3,
+      "explanation": "Doping är fusk och kan vara farligt för hälsan."
+    },
+    {
+      "id": 61,
+      "question": "Är det lagligt att använda anabola steroider utan läkares ordination?",
+      "options": [
+        "Ja, för alla",
+        "Ja, om man är över 15 år",
+        "Ja, om man bara tränar hemma",
+        "Nej, det är olagligt"
+      ],
+      "correct": 3,
+      "explanation": "Anabola steroider omfattas av dopningslagen och får bara användas när en läkare har ordinerat det."
+    },
+    {
+      "id": 62,
+      "question": "Vad gör anabola dopningsmedel?",
+      "options": [
+        "Ökar blodets förmåga att transportera syre genom blodtillförsel",
+        "Blockerar trötthetssignaler till hjärnan",
+        "Verkar uppbyggande, så att muskler byggs snabbare",
+        "Gör att man sover djupare"
+      ],
+      "correct": 2,
+      "explanation": "Anabol betyder uppbyggande."
+    },
+    {
+      "id": 63,
+      "question": "Vad är syftet med bloddoping?",
+      "options": [
+        "Att få större muskler på en dag",
+        "Att öka syreupptagningsförmågan",
+        "Att sänka pulsen till noll",
+        "Att bli vigare"
+      ],
+      "correct": 1,
+      "explanation": "Mer syre till musklerna ger bättre uthållighet."
+    },
+    {
+      "id": 64,
+      "question": "Vad gör centralstimulerande medel?",
+      "options": [
+        "Blockerar signaler till hjärnan, till exempel trötthet",
+        "Bygger upp skelettet",
+        "Ökar antalet muskler",
+        "Ger bättre nattsömn"
+      ],
+      "correct": 0,
+      "explanation": "Att inte känna tröttheten är farligt, eftersom kroppen kan pressas för hårt."
+    },
+    {
+      "id": 65,
+      "question": "Varför väljer vissa att dopa sig?",
+      "options": [
+        "För att bygga muskler, orka längre, återhämta sig snabbare och vinna pengar",
+        "För att doping är helt riskfritt",
+        "För att det är tillåtet på tävlingar",
+        "För att få bättre immunförsvar"
+      ],
+      "correct": 0,
+      "explanation": "Press att vinna kan locka, men riskerna är stora."
+    },
+    {
+      "id": 66,
+      "question": "Vilken biverkning kan män få av anabola steroider?",
+      "options": [
+        "Menstruationen uteblir",
+        "Testiklarna blir större och egen testosteronproduktion ökar",
+        "Håret blir tjockare",
+        "Testiklarna skrumpnar och bröstkörtlarna växer"
+      ],
+      "correct": 3,
+      "explanation": "Andra biverkningar är impotens, svår acne och håravfall. Den egna testosteronproduktionen kan upphöra."
+    },
+    {
+      "id": 67,
+      "question": "Vilken biverkning kan kvinnor få av anabola steroider?",
+      "options": [
+        "Ljusare hy och mindre hårväxt",
+        "Starkare menstruation varje vecka",
+        "Mörkare röst, skäggstubb och utebliven menstruation",
+        "Bättre fertilitet"
+      ],
+      "correct": 2,
+      "explanation": "Även hår på bröstet och en förstorad klitoris kan förekomma."
+    },
+    {
+      "id": 68,
+      "question": "Vilka psykiska effekter kan anabola steroider ge?",
+      "options": [
+        "Lugn, tålamod och bättre självkontroll",
+        "Aggressivitet, ångest och oförklarliga utbrott",
+        "Bara bättre minne",
+        "Inga psykiska effekter"
+      ],
+      "correct": 1,
+      "explanation": "Doping kan också leda till förtida död, vanligen i hjärtinfarkt."
+    }
+  ]
+}
