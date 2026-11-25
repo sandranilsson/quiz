@@ -1,5 +1,13 @@
 [
   {
+    "id": "organisk-kemi",
+    "title": "Organisk kemi åk 8",
+    "subject": "Kemi",
+    "description": "Kol, kolväten, alkoholer, karboxylsyror, estrar och rättvisa försök",
+    "date": "2026-11-25",
+    "questionCount": 77
+  },
+  {
     "id": "idrottsteori",
     "title": "Idrottsteori åk 9",
     "subject": "Idrott och hälsa",

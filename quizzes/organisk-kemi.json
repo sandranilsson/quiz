@@ -1,0 +1,932 @@
+{
+  "title": "Organisk kemi åk 8",
+  "subject": "Kemi",
+  "description": "Kol, kolväten, alkoholer, karboxylsyror, estrar och rättvisa försök",
+  "generated": "2026-11-25",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Vad handlar organisk kemi främst om?",
+      "options": [
+        "Ämnen som innehåller kol",
+        "Ämnen som bara finns i levande djur",
+        "Ämnen som odlas utan bekämpningsmedel",
+        "Ämnen som innehåller metaller"
+      ],
+      "correct": 0,
+      "explanation": "Organisk kemi är kolföreningarnas kemi. Kol finns i allt levande, men också i till exempel plast."
+    },
+    {
+      "id": 2,
+      "question": "Hur många bindningar har en kolatom i organiska ämnen?",
+      "options": [
+        "Två",
+        "Sex",
+        "En",
+        "Fyra"
+      ],
+      "correct": 3,
+      "explanation": "Kol har fyra bindningar, väte en och syre två."
+    },
+    {
+      "id": 3,
+      "question": "Varför kan en kolatom bilda just fyra bindningar?",
+      "options": [
+        "Den har 4 protoner i kärnan och varje proton ger en bindning",
+        "Den har 4 elektronskal och varje skal ger en bindning",
+        "Den har 4 elektroner i yttersta skalet och behöver 4 till för att få 8",
+        "Den har 6 elektroner i yttersta skalet och kan lämna bort 4"
+      ],
+      "correct": 2,
+      "explanation": "Kol har atomnummer 6: 2 elektroner i K-skalet och 4 valenselektroner i L-skalet. Genom att dela elektronpar får den 8 i yttersta skalet."
+    },
+    {
+      "id": 4,
+      "question": "Vad kallas bindningen där två atomer delar på ett elektronpar?",
+      "options": [
+        "Jonbindning",
+        "Molekylbindning (kovalent bindning)",
+        "Metallbindning",
+        "Magnetisk bindning"
+      ],
+      "correct": 1,
+      "explanation": "Den kallas också elektronparbindning."
+    },
+    {
+      "id": 5,
+      "question": "Varför finns det så enormt många olika kolföreningar?",
+      "options": [
+        "Kol är det vanligaste grundämnet i universum",
+        "Kolatomer kan bindas ihop till raka kedjor, grenade kedjor och ringar",
+        "Kolatomer kan ha hur många bindningar som helst",
+        "Kol finns bara i en enda form"
+      ],
+      "correct": 1,
+      "explanation": "Fyra bindningar gör att kolatomer kan kopplas ihop på väldigt många sätt."
+    },
+    {
+      "id": 6,
+      "question": "Vilken lista innehåller bara former av rent kol?",
+      "options": [
+        "Diamant, grafit, grafen",
+        "Diamant, grafit, gasol",
+        "Grafen, glykol, fulleren",
+        "Amorft kol, koldioxid, grafit"
+      ],
+      "correct": 0,
+      "explanation": "Formerna du ska kunna är diamant, grafit, grafen, fullerener och amorft kol."
+    },
+    {
+      "id": 7,
+      "question": "Varför är diamant så hårt?",
+      "options": [
+        "Kolatomerna sitter i platta skikt som glider",
+        "Diamant innehåller järn",
+        "Kolatomerna sitter löst och oregelbundet",
+        "Kolatomerna sitter starkt ihop i ett tredimensionellt nätverk"
+      ],
+      "correct": 3,
+      "explanation": "Därför används diamant i borrar, och även i smycken."
+    },
+    {
+      "id": 8,
+      "question": "Varför fungerar grafit i blyertspennor?",
+      "options": [
+        "Atomerna sitter i ett hårt tredimensionellt nätverk",
+        "Grafit är en vätska som stelnar på papperet",
+        "Atomerna sitter i skikt som lätt glider och släpper från varandra",
+        "Atomerna sitter i bollar som rullar"
+      ],
+      "correct": 2,
+      "explanation": "Grafit är mjukt och leder dessutom elektricitet, så det används även i elektroder."
+    },
+    {
+      "id": 9,
+      "question": "Vad är grafen?",
+      "options": [
+        "En boll av kolatomer",
+        "Kol med oregelbunden struktur",
+        "Ett enda tunt skikt av kolatomer",
+        "En blandning av kol och väte"
+      ],
+      "correct": 2,
+      "explanation": "Grafen är mycket starkt, tunt och leder elektricitet."
+    },
+    {
+      "id": 10,
+      "question": "Vilken form av kol kan se ut som bollar eller rör?",
+      "options": [
+        "Diamant",
+        "Fullerener",
+        "Amorft kol",
+        "Grafit"
+      ],
+      "correct": 1,
+      "explanation": "Rören kallas nanorör."
+    },
+    {
+      "id": 11,
+      "question": "Träkol och aktivt kol är exempel på vilken form?",
+      "options": [
+        "Amorft kol",
+        "Grafen",
+        "Diamant",
+        "Fulleren"
+      ],
+      "correct": 0,
+      "explanation": "Amorft betyder att strukturen är oregelbunden."
+    },
+    {
+      "id": 12,
+      "question": "Vilka färger har kol, väte och syre i en molekylmodell?",
+      "options": [
+        "Kol vitt, väte svart, syre blått",
+        "Kol rött, väte vitt, syre svart",
+        "Kol svart, väte rött, syre vitt",
+        "Kol svart, väte vitt, syre rött"
+      ],
+      "correct": 3,
+      "explanation": "C = kol, H = väte, O = syre. Tillägg (utöver materialet jag läst): kväve (N) brukar vara blått."
+    },
+    {
+      "id": 13,
+      "question": "Vad visar en strukturformel som molekylformeln inte visar?",
+      "options": [
+        "Vilka grundämnen som ingår",
+        "Hur många atomer det finns av varje slag",
+        "Vilken färg ämnet har",
+        "Hur atomerna sitter ihop"
+      ],
+      "correct": 3,
+      "explanation": "Molekylformel: vilka atomer och hur många. Strukturformel: hur de sitter ihop. Molekylmodell: formen i rummet."
+    },
+    {
+      "id": 14,
+      "question": "Vilken av dessa är en molekylformel?",
+      "options": [
+        "CH₃–CH₃",
+        "En modell med två svarta och sex vita kulor",
+        "C₂H₆",
+        "Ordet etan"
+      ],
+      "correct": 2,
+      "explanation": "CH₃–CH₃ visar hur atomerna sitter ihop, medan C₂H₆ bara anger antalet."
+    },
+    {
+      "id": 15,
+      "question": "Vad består ett kolväte av?",
+      "options": [
+        "Kol, väte och syre",
+        "Bara kol och väte",
+        "Kol och vatten",
+        "Kol och syre"
+      ],
+      "correct": 1,
+      "explanation": "Så fort syre ingår är det inte längre ett kolväte."
+    },
+    {
+      "id": 16,
+      "question": "Vad menas med ett mättat kolväte?",
+      "options": [
+        "Det har bara enkelbindningar mellan kolatomerna",
+        "Det har minst en dubbelbindning",
+        "Det kan inte lösa upp mer vatten",
+        "Det har minst en OH-grupp"
+      ],
+      "correct": 0,
+      "explanation": "Mättade kolväten har så många väteatomer som möjligt. Omättade har dubbel- eller trippelbindning."
+    },
+    {
+      "id": 17,
+      "question": "Vilket namnslut har ett kolväte med en dubbelbindning?",
+      "options": [
+        "-en",
+        "-an",
+        "-yn",
+        "-ol"
+      ],
+      "correct": 0,
+      "explanation": "Alkan: -an (enkel). Alken: -en (dubbel). Alkyn: -yn (trippel)."
+    },
+    {
+      "id": 18,
+      "question": "Vilket ämne har en trippelbindning?",
+      "options": [
+        "Propan",
+        "Propen",
+        "Propanol",
+        "Propyn"
+      ],
+      "correct": 3,
+      "explanation": "Namnslutet -yn visar att det är en alkyn."
+    },
+    {
+      "id": 19,
+      "question": "Vad händer med antalet väteatomer när en enkelbindning mellan två kol blir en dubbelbindning?",
+      "options": [
+        "Det blir två väteatomer fler",
+        "Det är oförändrat",
+        "Det blir två väteatomer färre",
+        "Det blir fyra väteatomer färre"
+      ],
+      "correct": 2,
+      "explanation": "Varje kol har fortfarande fyra bindningar. Går en extra till grannkolet finns en mindre kvar till väte."
+    },
+    {
+      "id": 20,
+      "question": "Varför finns det inget ämne som heter meten eller metyn?",
+      "options": [
+        "Met- betyder att ämnet är mättat",
+        "Det krävs minst två kolatomer för en dubbel- eller trippelbindning mellan kol",
+        "Ämnena är förbjudna eftersom de är giftiga",
+        "En ensam kolatom kan bara ha två bindningar"
+      ],
+      "correct": 1,
+      "explanation": "Met- betyder en kolatom."
+    },
+    {
+      "id": 21,
+      "question": "Vilken ordning är rätt för 1, 2, 3 och 4 kolatomer?",
+      "options": [
+        "Et-, met-, but-, prop-",
+        "Met-, et-, prop-, but-",
+        "Met-, prop-, et-, but-",
+        "Mono-, di-, tri-, tetra-"
+      ],
+      "correct": 1,
+      "explanation": "Börja ramsan med met, et, prop, but. Därefter pent, hex, hept, okt, non, dek."
+    },
+    {
+      "id": 22,
+      "question": "Vad heter alkanen med 7 kolatomer?",
+      "options": [
+        "Heptan",
+        "Hexan",
+        "Oktan",
+        "Nonan"
+      ],
+      "correct": 0,
+      "explanation": "5 pent, 6 hex, 7 hept, 8 okt, 9 non, 10 dek."
+    },
+    {
+      "id": 23,
+      "question": "Hur många kolatomer har dekan?",
+      "options": [
+        "8",
+        "9",
+        "12",
+        "10"
+      ],
+      "correct": 3,
+      "explanation": "Dek- betyder 10."
+    },
+    {
+      "id": 24,
+      "question": "Vad heter CH₃–CH₂–CH₂–CH₂–CH₂–CH₃?",
+      "options": [
+        "Pentan",
+        "Heptan",
+        "Hexan",
+        "Hexen"
+      ],
+      "correct": 2,
+      "explanation": "Sex kolatomer och bara enkelbindningar."
+    },
+    {
+      "id": 25,
+      "question": "Vad heter CH₂=CH–CH₂–CH₃?",
+      "options": [
+        "Butan",
+        "Butyn",
+        "Buten",
+        "Propen"
+      ],
+      "correct": 2,
+      "explanation": "Fyra kol (but-) och en dubbelbindning (-en)."
+    },
+    {
+      "id": 26,
+      "question": "Vad heter HC≡C–CH₃?",
+      "options": [
+        "Propen",
+        "Propyn",
+        "Etyn",
+        "Butyn"
+      ],
+      "correct": 1,
+      "explanation": "Tre kol (prop-) och en trippelbindning (-yn)."
+    },
+    {
+      "id": 27,
+      "question": "Vilken molekylformel har propan?",
+      "options": [
+        "C₃H₈",
+        "C₃H₆",
+        "C₃H₄",
+        "C₂H₆"
+      ],
+      "correct": 0,
+      "explanation": "CH₃–CH₂–CH₃. Propen är C₃H₆ och propyn C₃H₄."
+    },
+    {
+      "id": 28,
+      "question": "Vilken strukturformel visar eten?",
+      "options": [
+        "CH₃–CH₃",
+        "HC≡CH",
+        "CH₂=CH–CH₃",
+        "CH₂=CH₂"
+      ],
+      "correct": 3,
+      "explanation": "Två kol och en dubbelbindning."
+    },
+    {
+      "id": 29,
+      "question": "Vad är isomerer?",
+      "options": [
+        "Ämnen med samma struktur men olika färg",
+        "Atomer av samma grundämne med olika massa",
+        "Ämnen med olika molekylformel men samma namn",
+        "Ämnen med samma molekylformel men olika struktur"
+      ],
+      "correct": 3,
+      "explanation": "Olika struktur kan ge olika egenskaper. (Atomer med olika massa kallas isotoper.)"
+    },
+    {
+      "id": 30,
+      "question": "Vad heter CH₃–CH(CH₃)–CH₃?",
+      "options": [
+        "Butan",
+        "Isopentan",
+        "Isobutan",
+        "Propan"
+      ],
+      "correct": 2,
+      "explanation": "Räkna alla kol: fyra stycken. Grenen visas inom parentes."
+    },
+    {
+      "id": 31,
+      "question": "Vad heter CH₃–CH(CH₃)–CH₂–CH₃?",
+      "options": [
+        "Isobutan",
+        "Isopentan",
+        "Pentan",
+        "Isohexan"
+      ],
+      "correct": 1,
+      "explanation": "Fem kolatomer med en gren på näst sista kolet."
+    },
+    {
+      "id": 32,
+      "question": "Vilken strukturformel visar isohexan?",
+      "options": [
+        "CH₃–CH(CH₃)–CH₂–CH₂–CH₃",
+        "CH₃–CH₂–CH₂–CH₂–CH₂–CH₃",
+        "CH₃–CH(CH₃)–CH₂–CH₃",
+        "CH₃–CH(CH₃)–CH₂–CH₂–CH₂–CH₃"
+      ],
+      "correct": 0,
+      "explanation": "Isohexan har totalt sex kol, med en CH₃-gren på näst sista kolet."
+    },
+    {
+      "id": 33,
+      "question": "Vilket kolväte finns främst i naturgas och biogas?",
+      "options": [
+        "Metan",
+        "Oktan",
+        "Eten",
+        "Dekan"
+      ],
+      "correct": 0,
+      "explanation": "Metan är en brännbar gas."
+    },
+    {
+      "id": 34,
+      "question": "Vad används propan och butan till?",
+      "options": [
+        "Som konserveringsmedel i mat",
+        "Som kylarvätska i bilar",
+        "Som huvudämne i hudkräm",
+        "Som bränsle i gasol"
+      ],
+      "correct": 3,
+      "explanation": "Gasol används till exempel i gasolgrillar och campingkök."
+    },
+    {
+      "id": 35,
+      "question": "Vilket påstående om kolvätens kokpunkt stämmer oftast?",
+      "options": [
+        "Längre kolkedja ger lägre kokpunkt",
+        "Alla kolväten kokar vid 100 °C",
+        "Längre kolkedja ger högre kokpunkt",
+        "Kedjans längd påverkar inte kokpunkten"
+      ],
+      "correct": 2,
+      "explanation": "Större molekyler dras starkare till varandra. Därför är de minsta gaser, medelstora vätskor och långa fasta."
+    },
+    {
+      "id": 36,
+      "question": "Vad kännetecknar en alkohol?",
+      "options": [
+        "Den har en COOH-grupp",
+        "Den har en OH-grupp (hydroxylgrupp)",
+        "Den består bara av kol och väte",
+        "Den har alltid en trippelbindning"
+      ],
+      "correct": 1,
+      "explanation": "Namnet slutar på -ol."
+    },
+    {
+      "id": 37,
+      "question": "Vad heter CH₃–CH₂–CH₂–OH?",
+      "options": [
+        "2-propanol",
+        "1-propanol",
+        "Etanol",
+        "Propansyra"
+      ],
+      "correct": 1,
+      "explanation": "Tre kol och OH på det första kolet."
+    },
+    {
+      "id": 38,
+      "question": "Vad skiljer 1-propanol från 2-propanol?",
+      "options": [
+        "Vilket kol OH-gruppen sitter på",
+        "Antalet kolatomer",
+        "Antalet OH-grupper",
+        "2-propanol innehåller inget syre"
+      ],
+      "correct": 0,
+      "explanation": "I 2-propanol sitter OH på mittenkolet. Båda har formeln C₃H₇OH."
+    },
+    {
+      "id": 39,
+      "question": "Vad är en tvåvärd alkohol?",
+      "options": [
+        "En alkohol med två kolatomer",
+        "En alkohol som är dubbelt så stark",
+        "En alkohol med en dubbelbindning",
+        "En alkohol med två OH-grupper"
+      ],
+      "correct": 3,
+      "explanation": "Envärd: en OH-grupp. Tvåvärd: två. Trevärd: tre. Flervärd: fler än en."
+    },
+    {
+      "id": 40,
+      "question": "Vilket är trivialnamnet för metanol?",
+      "options": [
+        "T-röd",
+        "Glykol",
+        "Träsprit",
+        "Glycerin"
+      ],
+      "correct": 2,
+      "explanation": "Metanol kan framställas genom torrdestillation av trä."
+    },
+    {
+      "id": 41,
+      "question": "Vad kan hända om man dricker även en liten mängd metanol?",
+      "options": [
+        "Man får bara lite ont i magen",
+        "Inget, det är samma ämne som i alkoholdrycker",
+        "Man kan bli blind eller dö",
+        "Man blir piggare"
+      ],
+      "correct": 2,
+      "explanation": "Metanol är mycket giftig. Den används som lösningsmedel och bränsle."
+    },
+    {
+      "id": 42,
+      "question": "Hur framställs etanol i drycker?",
+      "options": [
+        "Genom torrdestillation av kol",
+        "Genom jäsning av socker",
+        "Genom filtrering av råolja",
+        "Genom att blanda glycerol och vatten"
+      ],
+      "correct": 1,
+      "explanation": "Etanol används också som bränsle, lösningsmedel och desinfektion. Den är giftig och påverkar nervsystemet."
+    },
+    {
+      "id": 43,
+      "question": "Varför tillsätter man giftiga och illasmakande ämnen i T-röd?",
+      "options": [
+        "Så att man inte ska dricka den",
+        "Så att den brinner utan syre",
+        "Så att den inte ska frysa",
+        "Så att den blir en syra"
+      ],
+      "correct": 0,
+      "explanation": "Det kallas denaturerad sprit."
+    },
+    {
+      "id": 44,
+      "question": "Vilket ämne är glykol och vad används det till?",
+      "options": [
+        "Propantriol, i hudkräm",
+        "Metanol, i alkoholdrycker",
+        "Etansyra, i matlagning",
+        "Etandiol, i kylarvätska"
+      ],
+      "correct": 3,
+      "explanation": "Glykol har två OH-grupper, hindrar att kylaren fryser och är giftig."
+    },
+    {
+      "id": 45,
+      "question": "Vilket stämmer om propantriol (glycerol/glycerin)?",
+      "options": [
+        "Det har två OH-grupper och är träsprit",
+        "Det är en gas som finns i gasol",
+        "Det är en syra som finns i rabarber",
+        "Det har tre OH-grupper, smakar sött och finns i hudkräm"
+      ],
+      "correct": 3,
+      "explanation": "Glycerol binder fukt. Det används även för att göra nitroglycerin (sprängämne och hjärtmedicin)."
+    },
+    {
+      "id": 46,
+      "question": "Vilken alkohol löser sig sämst i vatten?",
+      "options": [
+        "Metanol",
+        "Etanol",
+        "Oktanol",
+        "Propanol"
+      ],
+      "correct": 2,
+      "explanation": "OH-gruppen trivs med vatten men kolkedjan gör det inte. Ju längre kedja, desto sämre löslighet."
+    },
+    {
+      "id": 47,
+      "question": "Varför löser sig etanol mycket bättre i vatten än etan?",
+      "options": [
+        "Etanol har en längre kolkedja",
+        "Etanol har en OH-grupp som samspelar med vatten",
+        "Etan innehåller mer syre",
+        "Etan har en dubbelbindning"
+      ],
+      "correct": 1,
+      "explanation": "Båda har två kolatomer. Skillnaden är den funktionella gruppen, som också ger etanol mycket högre kokpunkt."
+    },
+    {
+      "id": 48,
+      "question": "Vilken funktionell grupp har en karboxylsyra (organisk syra)?",
+      "options": [
+        "COOH",
+        "OH⁻",
+        "Bara C och H",
+        "H₂SO₄"
+      ],
+      "correct": 0,
+      "explanation": "Gruppen heter karboxylgrupp."
+    },
+    {
+      "id": 49,
+      "question": "Vad kan bildas när etanol reagerar med syre i luften (oxideras)?",
+      "options": [
+        "Etansyra och vatten",
+        "Metan och vatten",
+        "En ester och koldioxid",
+        "Glykol och vätgas"
+      ],
+      "correct": 0,
+      "explanation": "Därför kan vin som står öppet bli surt: ättiksyra bildas."
+    },
+    {
+      "id": 50,
+      "question": "Vad heter CH₃–CH₂–CH₂–COOH?",
+      "options": [
+        "Propansyra",
+        "Butanol",
+        "Etansyra",
+        "Butansyra"
+      ],
+      "correct": 3,
+      "explanation": "Räkna även kolet i COOH-gruppen: fyra kol."
+    },
+    {
+      "id": 51,
+      "question": "Vilken syra kallas myrsyra?",
+      "options": [
+        "Etansyra",
+        "Butansyra",
+        "Metansyra",
+        "Oxalsyra"
+      ],
+      "correct": 2,
+      "explanation": "Den finns hos myror och i brännässlor och används bland annat för att konservera djurfoder."
+    },
+    {
+      "id": 52,
+      "question": "Vad används etansyra (ättiksyra) till i köket?",
+      "options": [
+        "Jäsning av bröd",
+        "Krydda och konservering",
+        "Att göra maten söt",
+        "Att tjocka såser"
+      ],
+      "correct": 1,
+      "explanation": "Ättikans låga pH gör det svårt för bakterier och mögel att överleva."
+    },
+    {
+      "id": 53,
+      "question": "Vilken syra luktar illa och bildas när smör härsknar?",
+      "options": [
+        "Metansyra",
+        "Butansyra",
+        "Oxalsyra",
+        "Etansyra"
+      ],
+      "correct": 1,
+      "explanation": "Butansyra kallas smörsyra."
+    },
+    {
+      "id": 54,
+      "question": "Vad är speciellt med oxalsyra?",
+      "options": [
+        "Den är tvåvärd (två COOH-grupper) och finns i rabarber",
+        "Den är en oorganisk syra och finns i magen",
+        "Den har tre OH-grupper och finns i hudkräm",
+        "Den är en gas som finns i naturgas"
+      ],
+      "correct": 0,
+      "explanation": "Oxalsyra är en organisk syra med två karboxylgrupper."
+    },
+    {
+      "id": 55,
+      "question": "(Åk 9) Vad bildas när ättiksyra löses i vatten?",
+      "options": [
+        "Etanol och syrgas",
+        "Hydroxidjoner och metan",
+        "En ester och koldioxid",
+        "Acetatjoner (CH₃COO⁻) och oxoniumjoner (H₃O⁺)"
+      ],
+      "correct": 3,
+      "explanation": "CH₃COOH + H₂O ⇌ CH₃COO⁻ + H₃O⁺. H⁺ lämnar COOH-gruppen och tas upp av vatten. Bara en del av molekylerna gör det: svag syra."
+    },
+    {
+      "id": 56,
+      "question": "(Åk 9) Vad heter HCl, H₂SO₄ och HNO₃ i vattenlösning?",
+      "options": [
+        "Saltsyra, salpetersyra, svavelsyra",
+        "Kolsyra, svavelsyra, saltsyra",
+        "Saltsyra, svavelsyra, salpetersyra",
+        "Myrsyra, ättiksyra, salpetersyra"
+      ],
+      "correct": 2,
+      "explanation": "Cl = klor (saltsyra), S = svavel, N = kväve (salpetersyra)."
+    },
+    {
+      "id": 57,
+      "question": "(Åk 9) Hur skiljer man en karboxylsyra från en oorganisk syra som HCl?",
+      "options": [
+        "Karboxylsyran saknar väte",
+        "Bara karboxylsyran kan ge ifrån sig vätejoner",
+        "Karboxylsyran har en COOH-grupp",
+        "Oorganiska syror har alltid fler kolatomer"
+      ],
+      "correct": 2,
+      "explanation": "Båda kan ge ifrån sig H⁺, men oorganiska syror saknar COOH-gruppen."
+    },
+    {
+      "id": 58,
+      "question": "(Åk 9) Vad är skillnaden mellan en hydroxylgrupp och en hydroxidjon?",
+      "options": [
+        "Hydroxylgruppen är negativt laddad, hydroxidjonen är oladdad",
+        "Hydroxylgruppen sitter fast bunden i en molekyl, hydroxidjonen är en fri, negativt laddad jon (OH⁻)",
+        "Det är två namn på exakt samma sak",
+        "Hydroxylgruppen finns i baser, hydroxidjonen i alkoholer"
+      ],
+      "correct": 1,
+      "explanation": "Alkoholer har hydroxylgrupper och är inte baser. Hydroxidjoner gör en lösning basisk."
+    },
+    {
+      "id": 59,
+      "question": "Vilken strukturformel visar en karboxylsyra?",
+      "options": [
+        "CH₃–CH₂–COOH",
+        "CH₃–CH₂–CH₂–OH",
+        "CH₃–CH₂–CH₃",
+        "CH₃–COO–CH₃"
+      ],
+      "correct": 0,
+      "explanation": "Leta efter den funktionella gruppen: COOH = karboxylsyra, OH = alkohol, COO mellan två kolkedjor = ester, bara C och H = kolväte."
+    },
+    {
+      "id": 60,
+      "question": "Vilken strukturformel visar en ester?",
+      "options": [
+        "CH₃–CH₂–COOH",
+        "CH₃–CH₂–CH₂–OH",
+        "CH₂=CH–CH₃",
+        "CH₃–COO–CH₂–CH₃"
+      ],
+      "correct": 3,
+      "explanation": "I en ester sitter COO mellan två kolkedjor. Här är det etyletanoat."
+    },
+    {
+      "id": 61,
+      "question": "Vilken strukturformel visar pentanol (1-pentanol)?",
+      "options": [
+        "CH₃–CH₂–CH₂–CH₂–OH",
+        "CH₃–CH₂–CH₂–CH₂–COOH",
+        "CH₃–CH₂–CH₂–CH₂–CH₃",
+        "CH₃–CH₂–CH₂–CH₂–CH₂–OH"
+      ],
+      "correct": 3,
+      "explanation": "Pent- = fem kol, -ol = OH-grupp."
+    },
+    {
+      "id": 62,
+      "question": "Vad heter CH₃–CH₂–CH₂–CH₂–CH₂–COOH?",
+      "options": [
+        "Pentansyra",
+        "Hexanol",
+        "Hexansyra",
+        "Heptansyra"
+      ],
+      "correct": 2,
+      "explanation": "Sex kol, kolet i COOH inräknat."
+    },
+    {
+      "id": 63,
+      "question": "Vad bildas vid fullständig förbränning av ett kolväte?",
+      "options": [
+        "Kolmonoxid och vätgas",
+        "Koldioxid och vatten",
+        "Sot och syrgas",
+        "Alkohol och vatten"
+      ],
+      "correct": 1,
+      "explanation": "Det krävs tillräckligt med syre, och energi frigörs. Samma produkter bildas när en alkohol förbränns."
+    },
+    {
+      "id": 64,
+      "question": "(Åk 9) Vilken reaktionsformel för förbränning av etanol är rätt balanserad?",
+      "options": [
+        "C₂H₅OH + 3 O₂ → 2 CO₂ + 3 H₂O",
+        "C₂H₅OH + O₂ → 2 CO₂ + 3 H₂O",
+        "C₂H₅OH + 3 O₂ → CO₂ + 3 H₂O",
+        "C₂H₅OH + 2 O₂ → 2 CO₂ + 2 H₂O"
+      ],
+      "correct": 0,
+      "explanation": "Kontrollera båda sidor: 2 C, 6 H och 7 O. Glöm inte syreatomen i etanolen."
+    },
+    {
+      "id": 65,
+      "question": "(Åk 9) Vilka tal saknas? 2 CH₃OH + __ O₂ → __ CO₂ + 4 H₂O",
+      "options": [
+        "3 och 2",
+        "2 och 2",
+        "4 och 2",
+        "3 och 1"
+      ],
+      "correct": 0,
+      "explanation": "Börja med kol (2 CO₂) och räkna sedan syre: höger sida har 4 + 4 = 8. Metanolen ger 2, så 6 kommer från 3 O₂."
+    },
+    {
+      "id": 66,
+      "question": "Vad bildas när en karboxylsyra reagerar med en alkohol?",
+      "options": [
+        "En ester och koldioxid",
+        "Ett kolväte och syrgas",
+        "Ett salt och vätgas",
+        "En ester och vatten"
+      ],
+      "correct": 3,
+      "explanation": "Karboxylsyra + alkohol ⇌ ester + vatten."
+    },
+    {
+      "id": 67,
+      "question": "Vad används många estrar till?",
+      "options": [
+        "Kylarvätska",
+        "Bränsle i gasol",
+        "Doft- och smakämnen",
+        "Blyertspennor"
+      ],
+      "correct": 2,
+      "explanation": "Estrar kan lukta frukt. De används även som lösningsmedel, och fetter är också estrar."
+    },
+    {
+      "id": 68,
+      "question": "(Åk 9) Vad heter estern från etanol och etansyra?",
+      "options": [
+        "Etanoletansyra",
+        "Etyletanoat",
+        "Metyletanoat",
+        "Etylbutanoat"
+      ],
+      "correct": 1,
+      "explanation": "Alkoholen ger första delen (etanol blir etyl). Syran ger andra delen (etansyra blir etanoat)."
+    },
+    {
+      "id": 69,
+      "question": "(Åk 9) Vad heter estern från metanol och butansyra?",
+      "options": [
+        "Butylmetanoat",
+        "Metylbutanoat",
+        "Metanbutanol",
+        "Etylbutanoat"
+      ],
+      "correct": 1,
+      "explanation": "Metanol ger metyl, butansyra ger butanoat."
+    },
+    {
+      "id": 70,
+      "question": "(Åk 9) Vilka ämnen behövs för att göra propylmetanoat?",
+      "options": [
+        "Propanol och metansyra",
+        "Metanol och propansyra",
+        "Propan och metan",
+        "Propansyra och metansyra"
+      ],
+      "correct": 0,
+      "explanation": "Första delen (propyl) kommer från alkoholen och andra (metanoat) från syran."
+    },
+    {
+      "id": 71,
+      "question": "Labb: Varför blir cola ljusare när den filtreras genom aktivt kol?",
+      "options": [
+        "Kolet bleker colan genom att tillsätta syre",
+        "Vattnet i colan avdunstar",
+        "Kolet gör om färgämnet till socker",
+        "Färgämnen fastnar på kolets stora yta"
+      ],
+      "correct": 3,
+      "explanation": "Aktivt kol är amorft kol med många små porer. Filtret fångar upp ämnen."
+    },
+    {
+      "id": 72,
+      "question": "Elin häller cola genom ett filter med aktivt kol. Vad är ett bra kontrollprov?",
+      "options": [
+        "Vatten genom filtret med aktivt kol",
+        "Dubbelt så mycket cola genom ett filter med mer kol",
+        "Samma mängd cola genom likadant filter utan aktivt kol",
+        "Cola som står i kylen"
+      ],
+      "correct": 2,
+      "explanation": "Kontrollprovet saknar det man undersöker. Då ser man om filterpappret ensamt gör någon skillnad."
+    },
+    {
+      "id": 73,
+      "question": "Ali jämför hur två alkoholer löser sig i vatten. Han använder 2 ml vatten till den ena och 10 ml till den andra. Varför är försöket inte rättvist?",
+      "options": [
+        "Man får bara testa en alkohol",
+        "Vatten kan inte användas i försök",
+        "Både alkoholen och mängden vatten skiljer sig",
+        "Han borde ha bytt temperatur också"
+      ],
+      "correct": 2,
+      "explanation": "Bara det man undersöker ska ändras. Allt annat hålls lika."
+    },
+    {
+      "id": 74,
+      "question": "Noor byter både syra och alkohol mellan två esterförsök och känner olika dofter. Vad kan hon säga om orsaken?",
+      "options": [
+        "Det var säkert syran",
+        "Hon vet inte vilken av ändringarna som gav skillnaden",
+        "Det var säkert alkoholen",
+        "Dofter beror aldrig på vilka ämnen man använder"
+      ],
+      "correct": 1,
+      "explanation": "Ändra en sak i taget."
+    },
+    {
+      "id": 75,
+      "question": "Du undersöker om temperaturen påverkar hur snabbt det börjar dofta i ett esterförsök. Vad är den oberoende variabeln?",
+      "options": [
+        "Temperaturen",
+        "Tiden tills det doftar",
+        "Mängden syra",
+        "Mängden alkohol"
+      ],
+      "correct": 0,
+      "explanation": "Oberoende variabel: det du ändrar. Beroende: det du mäter (tiden). Konstanta: allt som hålls lika."
+    },
+    {
+      "id": 76,
+      "question": "Vad ska en bra labbinstruktion innehålla så att någon annan kan göra om försöket?",
+      "options": [
+        "Bara rubriken och det resultat man hoppas på",
+        "Bara en lista på material",
+        "En berättelse om hur roligt försöket var",
+        "Frågeställning, material, mängder, utförande steg för steg och säkerhet"
+      ],
+      "correct": 3,
+      "explanation": "Tillägg (utöver materialet jag läst): skriv också vad som ändras, vad som mäts och vad som hålls lika."
+    },
+    {
+      "id": 77,
+      "question": "Varför ska man hålla alkoholer borta från öppen låga i labbet?",
+      "options": [
+        "De fryser av värmen",
+        "De blir magnetiska",
+        "De förvandlas till grafit",
+        "De är lättantändliga"
+      ],
+      "correct": 3,
+      "explanation": "Tillägg (utöver materialet jag läst): använd även skyddsglasögon när du arbetar med alkoholer och syror."
+    }
+  ]
+}
